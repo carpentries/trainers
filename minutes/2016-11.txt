@@ -1,0 +1,175 @@
+Trainers Meeting Nov 22 or 24, 2016
+
+Attending Nov 22 (15:00 Eastern time)
+	* Greg Wilson
+	* Anelda van der Walt
+	* Maneesha Sane
+	* Karen Cranston
+	* Sue McClatchy
+	* Erin Becker
+	* Ariel Rokem
+	* Christina Koch
+	* Garrett Grolemund
+	* Jonah Duckles
+
+Attending Nov 24 (15:00 Eastern time)
+	* Greg Wilson
+	* Lex Nederbragt
+	* Karin Lagesen
+	* Allegra Via
+	* Mateusz Kuzak
+	* Rayna Harris
+	* Jason Williams
+
+Agenda
+	1. Trainer availability for Jan-June 2017
+	1. Recap of recent instructor training events (and others)
+	1. Review update message to instructors (see below)
+	1. Discuss explicit instructor agreement (see below)
+	1. Regular demo sessions (see below)
+	1. Volunteers to record pretend demo sessions for trainees to review
+
+1. Trainer Availability for Jan-June 2017
+
+How many workshops can you teach or co-teach in person (involving travel) or online (no travel), and what constraints are there on your availability?
+
+	* Erin Becker - 2 online, any month ok but later in year better
+	* Karen Cranston - can commit to 1, maybe 2; Feb / early March good; as is June (moving sometime in between)
+	* Steve Crouch - 1 in person (already scheduled for March 16-17), 2 online (late Jan-mid Feb, Apr-Jun)
+	* Neal Davis - can do 1 or 2 online, opening up more in April--May incl. possibility of travel; will try to do one at UIUC/NCSA in May
+	* Garrett Grolemund
+	* Rayna Harris - 1 in person, 2 online: Feb and April only
+	* Christina Koch- 1 in person, 1 online; should be free all dates except HTCondor week (which is usually mid/end May)
+	* Mateusz Kuzak - 2 in person, 2 online, whole year equally good, no special constraints but I would need to arrange visa for US
+	* Karin Lagesen - 1 in person iff in europe, 1-2 online iff on american time
+	* Sue McClatchy - Jan (light duty only; also teaching in Mexico & Boston + grant deadline in Jan); latter half of March, all of April, May 
+	* Lex Nederbragt - 1 online co-teaching, could perhaps do another one, or assist with one, prefer mainland Europe daytime. Uncertain about travelling to in-person one (in Europa)
+	* Aleksandra Pawlik 1 online per 2 months; in person: hard to say :-( Hopefully I can get a permission for one travel a year
+	* Ariel Rokem - Planning to teach at UW and at NYU CDS some time during this period. Can do a couple of online support, as needed. On family leave starting May (tfu, tfu).
+	* Tracy Teal - not available unless associated with particular events
+	* Fiona Tweedie
+	* Anelda van der Walt - 1 in person preferably between 18 March - 4 April (School holidays), with some warning I could do online ones from Feb - June in any time zone. 
+	* Allegra Via-1/2 in person depending on the dates - 1 online if European time (despite I've no idea about how to manage an online course and would need to feel much more confident. Currently, confidence in running such a course online is ~zero).
+	* Alistair Walsh
+	* Belinda Weaver  - possibly doing one Jan 2017 (discussing with Jonah). Doing one  in May 2017 in Portland for librarians.  Can teach one or two more and can travel depending on work commitments. 
+	* Greg Wilson - 2 per month online, 1 trip in first half of 2017
+	* Jason Williams - after Feb (and certification) should be able to do at least one travel workshop and 1-2 online. Summer is always busy with conferences
+
+On average: 1 serious inquiry about parternship a week. 50 sets of people a year. realistically 20 events per year. 17+4  trainers already or  in the pipeline. We can handle the load, but also need to think about the followup like demos and discussion sessions. 
+
+2. Recap of Recent Instructor Training Events
+
+	* 2016-10-20-ttt-online (Greg): Michigan State & U Oklahoma / online
+		* also, Rayna wrote a blog after this workshop, comparing and contrasting teaching online and in person. you can read it here: http://software-carpentry.org/blog/2016/10/instructrortraining.html
+	* 2016-10-24-ttt-uwmadison (Christina & Greg): U Wisconsin / on site
+		* Christina: was not sure how it would go to include random regional people who were interested, but turned out to be really valuable, especially for that audience
+	* 2016-10-27-ttt-online (Greg): open / online
+		* See Erin's post at http://www.datacarpentry.org/blog/open-instructor-training/
+	* 2016-11-03-ttt-cuny (Greg): CUNY / on site
+		* Notable for concern reported that some learners worry that focus on computation might devalue their existing skills
+	* 2016-11-07-ttt-online (Greg): Jackson Lab / online
+	* 2016-11-15-ttt-online (Lex & Greg): open / online
+
+GW: Online working as well as in person with a few caveats
+	* works well when we have enough people at each place for group teaching
+	* doesn't work well when students have to pair up via the web because audio/video recording fails. if we could keep them in blue jeans we could do it, but that is very expensive and technically challenging. 
+	* etherpad is repeatidly failing under a heavy load. Lex and Steve have been using Google Docs. Maybe we should switch??? bonus- we can paste in images and all sorts of things. Will do some pilot runs in January
+LN: 2nd online training, 1st doing 2 half days.
+	* misses not being able to walk around during video recording session, but it scales well
+	* very happy overall. load sharing worked
+GW: for one session, we had Sue step in to take notes anonymously, which worked very well and got the feedback from the students... alllowed for more candid response. For live workshops, we can have the instructors leave and the host manage the feedback. JW - note that we want to keep the quality high and consistent
+
+3. Review Update Message to Instructors
+
+Please see update at the bottom from Erin Becker
+
+We have made some changes to our processes in the past few months that we hope will help us serve our community better, and we'd like to take this opportunity to communicate them to you. If you have any questions, comments, or concerns, you can always contact us by mailing admin@software-carpentry.org.
+
+1. We have an online  tool that is called AMY which  we use to manage training, instructors, and workshops, so that you can log in using your GitHub username and password. (We hope to support Google logins by January.) Please take a moment to go to https://amy.software-carpentry.org/account/login/ and update your profile information to let us know what you're comfortable teaching and what part of the world you're in so that we can do a better job of matching you with workshops.
+
+2. Please also make sure that AMY has an up-to-date email address for you so that we can contact you whenever there are important changes to things like our data privacy policy (which you can view at http://software-carpentry.org/privacy/). This is separate from subscribing to the instructors' mailing list (http://lists.software-carpentry.org/listinfo/instructors): you only need to join the latter if you want to hear about upcoming workshops that need instructors, but we now require the former so that we have a sure way to reach people when important rules change.
+
+3. We now require that when instructors agree to teach a workshop, they also agree to give at least one week's notice if they will be unable to make it. If they do not, they are required to reimburse any non-refundable travel or accommodation costs that the host may already have incurred on their behalf. The SCF may waive this requirement in special circumstances, but the decision to do so rests solely with the Steering Committee. If an instructor is required to reimburse costs, but refuses to do so, the SCF may ban that person from future Software Carpentry activities. If an instructor fails to provide adequate notice of withdrawal more than once, the SCF reserves the right to suspend them from the list of instructors.
+
+4. We are very pleased to announce that Library Carpentry is now up and running at http://librarycarpentry.github.io/. Library Carpentry is made by and for librarians to help people automate repetitive tasks, create, maintain, and analyze data, work effectively with IT and systems colleagues, and better understand the use of software in research. If you would like to learn more, help develop lessons, or help teach, please see their website or head over to https://gitter.im/weaverbel/LibraryCarpentry.
+
+5. Code of Conduct [Greg to fill in]
+
+Again, if you have any questions, comments, or concerns, you can always contact us by mailing admin@software-carpentry.org.
+
+Thanks again for all your contributions to Data Carpentry and Software Carpentry,
+[NAME]
+
+	* DC is working on a new privacy policy that we hope will also be adopted by SWC. Please check with Tracy on status.
+	* The missed workshop policy is also undergoing revisions on the DC side. 
+
+4. Explicit Instructor Agreement
+
+Library Carpentry instructor agreement taken from http://pad.software-carpentry.org/library-carpentry
+
+	* I agree to use one or more of the Library Carpentry modules in my Library Carpentry workshops.
+	* I understand that the secondary learning outcomes of Library Carpentry workshops are as important as their stated goals. These include (but are not excluded to) learners a) being introduced to the value of non-proprietary file formats, good data management, peer-to-peer learning, not always using GUIs, computational approaches to working with library data; and b) feeling more confident to admit what they don't know, collaborate with developers, pursue further self-directed learning.
+	* I agree to support and encourage learners and I endeavour to ensure that attendees have an enjoyable and fulfilling experience.
+	* I agree to honour the Software Carpentry code of conduct.
+	* I am aware that as Library Carpentry grows, it has an ambition for the lead instructor of every Library Carpentry workshop to have undergone Software/Data Carpentry instructor training. I am aware that by becoming a Software/Data Carpentry approved instructor I can help grow and enrich the Library Carpentry community. Having therefore been a instructor at a Library Carpentry workshop, I agree to consider becoming a Software/Data Carpentry approved Instructor.
+
+GW: this is above and beyond the code of contact. Again, this will be up on github for commenting and editing.
+Great way to clarify expectations
+RH: can we also include some language about what the carpentries will provide back to its volunteer instructors?
+
+5. Regular Demo Sessions
+
+Just as we have regular times for discussion sessions, we should institute regular times for demo sessions.  I propose 10:00-11:00 Eastern and 18:00-19:00 Eastern (same hours as discussion sessions) on Thursdays (so as not to conflict with discussion sessions).  Weekly sessions will begin the second week of January, and each trainer will be asked to supervise one every two months.
+	* +1 RH. Regular is good. Do we need of offer some ad hoc if a trainee has a hard conflict?
+		* Yes: GVW can field the irregulars
+	* +1 KL to this too. Makes it easier to fit in my schedule
+	* +1 AvdW definitely easier to plan
+	* +1 KC
+	* +1 EB
+	* -1 AR - I can't commit to your designated times. I would like to set my own times
+	* +1 CK - the fewer decisions I have to make the better
+	* +1 MK
+	* +1 LN but make very clear to trainees that other days are offered in case the regular day is not possible
+	* +1 I do agree with Lex
+
+6. Volunteers to Record Demo Session to Show to Trainees
+
+We would like to record a pretend demo session with 3 people playing the roles of trainees doing demos and 1 person playing the role of the trainer; one "trainee" should do a really bad demo, one should do a good one, and the third "trainee" will just be there to add more comments and bulk up numbers. Please let us know if you would like to help: we plan to do the recording on November 30, and it should take about an hour. (inspired by this issue: https://github.com/swcarpentry/instructor-training/issues/287 )
+	* +1 RH this sounds like a cool idea! It should be fairly simple to do the recording and it will be an excellent resource for those fresh our of instructor training 
+	* +1 AvdW Could help. The demo sessions is definitely still something that trips people up. 
+	* +1 CK (I have limited time that day, but would be keen)
+	* +1 KC and Nov 30 works for me
+	* +1 RH - i'll show up and participate
+
+LN: see also teaching-demo tips PR https://github.com/swcarpentry/instructor-training/pull/345
+
+
+7. Trainer training assignment for certification
+
+- something useful, but that isn't a great learning experience necessarily, might be more checklists for effective speaking, teaching, lesson design or workshop organization
+	- a guide for engaging online (to github, etherpad, bluejeans, hangouts), making clear the "norms" of how we organize ourselves online
+- leading one of these calls, teaching or discussing a paper or piece of research about teaching/learning
+- go through the current instructor training material + review lesson/learning objectives and improve if necessary. ;)
+- Review of trainee PRs (required for instructor certification) 
+- Co-lead demo/discussion session
+
+Learn about socrative!  
+http://swcarpentry.github.io/instructor-retreat-2015/ - see 8:00 UTC for Kate's video on Socrative
+
+Discussion around creating a lesson design elective from the things we throw out when we focus on preparing them to teach their first workshop, not create lessons.
+
+Allegra: individual project for instructor training - building a semester long train the trainer course
+Mateusz: 10 simple rules for building local instructor communities
+
+ODI Train the Trainers: https://theodi.org/courses/train-the-trainer
+
+PLOS 10 simple rule: http://collections.plos.org/ten-simple-rules
+Allegra: It may help to know that we (Via A, De Las Rivas J, Attwood TK, Landsman D, Brazas MD, Leunissen JA, Tramontano A, Schneider MV.) published a ten-simple-rules paper on training in 2011 - "Ten simple rules to develop a short bioinformatics training course". 
+
+See open science workflows: https://101innovations.wordpress.com/
+
+Ideas for projects:
+	* Videoing an online video training lesson
+
+
+

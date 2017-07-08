@@ -1,0 +1,103 @@
+Software and Data Carpentry Trainers Meeting 2017-01-10
+
+Please add yourself to the sign-in list below.
+	* Greg Wilson
+	* Jason Williams
+	* Jonah Duckles
+	* Lex Nederbragt
+	* Tim Dennis
+	* Karin Lagesen
+	* Sue McClatchy
+	* Mateusz Kuzak
+	* Anelda van der Walt
+	* Rayna Harris
+	* Tracy Teal
+	* Karen Cranston
+	* Maneesha Sane
+	* Erin Becker (popped on at end)
+
+Agenda
+	1. Succession
+	2. Publishing Instructor Training Materials
+	3. Recent Instructor Training Events
+	4. Upcoming Training Events
+	5. Reorganizing Trainer Training
+
+1. Succession
+
+	* The EDs and staff are discussing plans to reallocate DIT responsibilities
+		* Maneesha and Erin to take over some responsibilities, new co-hire from both Carpentrires being worked out
+		* Greg to continue being involed in instructor-training
+
+2. Publishing Instructor Training Materials
+
+	* Greg W. and Christina K. hope to tidy up and publish a hard copy the existing course materials in Q1/Q2 2017
+		* experiment in material to hand out
+
+3. Recent Instructor Training Events
+
+	* 2016-11-24 (Met Office): Steve C.
+	* 2016-11-29 (NeSI): Aleksandra P.
+	* 2016-12-01 (PNNL): Ariel R.
+	* 2016-12-12 (UIUC): Neal D.
+	* 2016-12-13 (UCSF): Erin B. & Tracy T.
+	* 2016-12-14 (online for Aus/NZ): Aleksandra P. Belinda W., Alistair W.
+		* timezones an issue for this one (daylight saving change nightmares); need a clear pointer to time relative to everyone's timezone/location
+			* having it as an event on a google calendar somewhere is the best thing I've ever seen.
+	* 2016-12-15 (online): Greg W.
+	* two organized by instructor trainers (not Greg) for partner organizations
+	* Tracy and Erin used the new "introduction to introductions" material at the end and it worked really well. practiced introducing themselves and how it set the tone for the workshop. they will do a blog.
+	* Q? Are we sharing our survey monkey results? not sure. 
+	* Lots of bumps in the road for the Aussie event (see above) 
+	* now have regularily scheduled demos http://pad.software-carpentry.org/teaching-demos
+	* etherpad of etherpads http://pad.software-carpentry.org/pad-of-pads
+	* Software Carpentry Community Calendar https://software-carpentry.org/join/ (looks like it shows events in your local timezone, but you can also subscribe)
+		* most of us cannot modify/add events, though
+		* add a TTT calendar?
+
+4. Upcoming Training Events
+
+	* 2017-01-11 online (NIH, Oklahoma State): Greg W.
+	* 2017-01-19 online (DOE ECP): Greg W.
+	* 2017-01-25 (NZ): Aleksandra P.
+	* 2017-02-09 (Utah State): Karen C. + 1 remote needed (Neal Davis can help)
+	* 2017-02-13 (NIH remote): Greg W. + 1 more needed (Jason?)
+	* 2017-03-07 (NIH remote): instructors needed (possibly Karin) (Sue M. is available for this)
+	* 2017-03-16 (Oxford): Steve C.
+	* 2017-03-24 (Puerto Rico): Rayna H. and Sue McC. Tracy might be actually going to Puerto Rico then. 
+	* 2017-XX-XX (Aarhus, Denmark): need remote instructor in Europe (ask Lex if after mid-March)
+
+Others on the horizon in 2017: Space Telescope Science Institute (remote), NIST, Leeds, Sheffield, UCL
+
+5. Reorganizing Trainer Training
+
+	* Having people blog their way through books isn't working well +1
+		* Just as spreading regular instructor training over multiple weeks didn't work as well as doing it in two days
+	* So:
+		* Change what people do?
+		* Make it a 
+			* two-day (?)in-person event? -1 KC very challenging for travel -1 RH -1 KL +1 JW
+			* annual (?) 
+			* slack +1RH
+		* Coordinate with CarpentryCon (?) - would work if you want a 2 day in person thing
+
+Feedback:
+	* Mixed feeling about 2 day in person - more challenging for people where it doesn't fall into their jobs. Would have to take vacation days to do an in person event.
+	* From Karen, blogging the way through the books doesn't work, because there's no interaction, either do book club, or Slack, or watch an instructor training and doing a debriefing after; would be better with more interaction
+	* From Greg: would shared blogging help? No, not enough interaction
+	* From Karin: against 2 day because difficult for people from outside US, or whereever the event would be, cost for travel. Geographically and demographically limitiing. Also +1 on Karen's comment about blogging and interaction. Would be OK for one person to blog and then have that be the discussion piece for the book/journal club. Suggests that they do it for all the trainers regularly. Not just for people who are training. Would want to continue participating in an ongoing activity.
+	* From Rayna: also +1 on journal club; when she went through there were 2 meetings where everyone got together, and that was the best part. Liked that everyone from all geographies was a great way to meet and interact with the whole global community (some at 2am and some at 6am, and everyone committed was great). Journal club format is a good idea.
+	* from Anelda: People also mostly need time to grow into trainers which is easier to do over time and with discussion as mentioned by Karen and others; I already feel very concerned about having to teach now since I participated in my last instructor training in September...
+	* From Jason: likes 2 days because can be concentrated; wants to respond to what Karin says. Thinks there can be regional things going on, so if there are geographially distributed CarpentryCons, then this would work potentially that people could attend their regional meeting; maybe not now but in the future
+	* From Jonah: For people that were in mentorship, did it help prepare you to be an instructor trainer? Should that be a part of the pathway to becoming an instructor trainer?
+	* From Rayna: Was attending two debriefing sesssions per month, so she essentially felt 60 workshops, so felt like she had massive body of knowledge throught osmosis, so felt like she knew more about workshops, even though she had taught just 2 in the same time frame. Multiple perspectives. Doesn't know any other way to get that information than by hosting those discussion sessions. Could require that people participate in discussion sessions as a part of instructor training. 
+	* from Karin - can do two full days if remote is possible
+	* suggestion: require people to take part in mentoring sessions as part of trainer training (low-cost requirement)
+	* From Karen: doesn't want to push people too fast through instructor training, wants to properly prepare people, longer more interactive process
+		* the instructor training is what makes SWC / DC special; want to keep quality of the instructor training workshops
+	* From Tracy - important to have new trainers paired with experiened instructor. when in front of the class you feel who inexperienced you are on a tool that you only started using a few months ago. 
+	* From Tracy: Don't have the background in educational pedagogy to feel prepared to teach this content. Many +100s to this. 
+	* From Jason: need for instructor trainers partly driven by business needs of the Carpentries. Smaller group that we can demand more from, because of its importance. Everyone in the room agree to a core set of principles about what the brand is and what we do. Always going to be a smaller group here, so it can be more engaging/intensive.
+	* From Karin: Two issues. 1 is certifying new instructors and the other is educating those who are already qualified. 
+	* From Jonah: Looking at judo and how you develop people. Some people take 20 years, some take 2 years to get their black belt, but there's a structure for how people move through, and an ecosystem / environment that supports that is useful, opportunities for this training. Also have stage gates, where people meet certain objectives. Build the ecosystem and the system for recognizing that you've done enough. 
+	* From Rayna: Putting together this cumulative thing is good. But having a variety of different ways to get that 'green badge'. Multiple paths to this expertise. Multiple ways to get a similar badge. 
