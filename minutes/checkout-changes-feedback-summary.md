@@ -2,8 +2,8 @@ This file summarizes the feedback and votes received about proposed changes to t
 received by email and in business meetings.
 
 1. **Remove discussion as requirement for checkout**
-    - *In favor*: (16)
-    Jason, Greg, Jonah, Tracy, Christina, Kari, Rayna, Amy, Erin, Naupaka, Maneesha, Lex, Juliane, Elizabeth Wickes, 
+    - *In favor*: (15)
+    Jason, Greg, Jonah, Tracy, Christina, Kari, Rayna, Amy, Erin, Naupaka, Lex, Juliane, Elizabeth Wickes, 
     Jeff, Francois
     - *Opposed*: (9)
     Anelda, Paula, Toby, Chris, Maneesha, Anita, Mark L, Aleks, Karin
