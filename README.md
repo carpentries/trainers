@@ -29,6 +29,7 @@ Befiefly, we carry out tasks including:
 - Rayna Harris (United States)
 - Christopher Hamm (United States)
 - Amy Hodge (United States)
+- SherAaron Hurt (United States)
 - Kari Jordan (United States)
 - Christina Koch (United States)
 - Alexander Konovalov (United Kingdom)
