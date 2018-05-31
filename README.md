@@ -2,12 +2,12 @@
 
 ## Purpose and Scope
 
-This is the group of certified instructor trainers. We certify new instructors and collaborative develop the instructor training cirriculum.
+This is the group of certified instructor trainers. We certify new instructors and collaboratively develop the instructor training curriculum.
 
 ## What We Do
 What we do is described in detail in the instructor trainer agreement policy document: https://github.com/carpentries/policies/blob/master/trainer-agreement.md
 
-Befiefly, we carry out tasks including:
+Briefly, we carry out tasks including:
 - develop and teach the Instructor Training Curriculum: http://swcarpentry.github.io/instructor-training/
 - host/attend monthly discussion and business meetings: http://pad.software-carpentry.org/trainers
 - host demo sessions for instructor checkout: http://pad.software-carpentry.org/teaching-demos
