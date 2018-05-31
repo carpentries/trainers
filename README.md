@@ -16,6 +16,7 @@ Befiefly, we carry out tasks including:
 - Christina Koch
 
 ## Current Members
+- Caroline F. Ajilogba (South Africa)
 - Erin Becker (United States)
 - Martin Callaghan (United Kingdom)
 - Karen Cranston (United States)
@@ -53,6 +54,7 @@ Befiefly, we carry out tasks including:
 - Juan Steyn (South Africa)
 - Tracy Teal (United States)
 - Fiona Tweedie (Australia)
+- Jessica Upani (Namibia)
 - Allegra Via (Italy)
 - Alistair Walsh (Australia)
 - Belinda Weaver (Australia)
