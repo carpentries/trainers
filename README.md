@@ -1,4 +1,4 @@
-# The Carpentry Instructor Trainers Group
+# The Carpentries Instructor Trainers Group
 
 ## Purpose and Scope
 
@@ -31,7 +31,7 @@ Briefly, we carry out tasks including:
 - Christopher Hamm (United States)
 - Amy Hodge (United States)
 - SherAaron Hurt (United States)
-- Kari Jordan (United States)
+- Kari L. Jordan (United States)
 - Christina Koch (United States)
 - Alexander Konovalov (United Kingdom)
 - Mateusz Kuzak (Netherlands)
