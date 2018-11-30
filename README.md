@@ -5,15 +5,12 @@
 This is the group of certified instructor trainers. We certify new instructors and collaboratively develop the instructor training curriculum.
 
 ## What We Do
-What we do is described in detail in the instructor trainer agreement policy document: https://github.com/carpentries/policies/blob/master/trainer-agreement.md
+What we do is described in detail in the instructor trainer agreement policy document: https://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html
 
 Briefly, we carry out tasks including:
-- develop and teach the Instructor Training Curriculum: http://swcarpentry.github.io/instructor-training/
-- host/attend monthly discussion and business meetings: http://pad.software-carpentry.org/trainers
-- host demo sessions for instructor checkout: http://pad.software-carpentry.org/teaching-demos
-
-## Steering Committee Liaison
-- Christina Koch
+- develop and teach the Instructor Training Curriculum: http://carpentries.github.io/instructor-training/
+- host/attend monthly training community meetings: https://pad.carpentries.org/trainers-backup
+- host demo sessions for instructor checkout: https://pad.carpentries.org/teaching-demos-recovered
 
 ## Current Members
 - Caroline F. Ajilogba (South Africa)
