@@ -36,7 +36,13 @@ Concerns (motivating creation of the role):
 * only a few cases have been formally reported to the commitee and some of them reported quite late. 
 * People might feel uncertain about how to report and if their incident is worth being reported.
 
-Initial questions: How much liberty should a Duty Officer have? Do they have freedom to respond to incidents or just take reports? Countries and Universities also have their own infrastructure on site -- how much can we communicate with them? How much does this affect instructor training? Where we introduce CoC, this is probably where it would go...
+Initial implementation questions: 
+
+* How much liberty should a Duty Officer have? 
+* Do they have freedom to respond to incidents or just take reports? 
+* Countries and Universities also have their own infrastructure on site -- how much can we communicate with them? 
+* How much does this affect instructor training? 
+* Where we introduce CoC, this is probably where it would go...
 
 Questions from the audience:
 
