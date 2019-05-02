@@ -1,0 +1,135 @@
+# Auxilary Trainer's Meeting
+
+Trainer meeting, April 18, 2019 UTC 14:00 
+
+See this link for your local time: See this link for your local time: https://www.timeanddate.com/worldclock/fixedtime.html?iso=20190418T14
+
+**Meeting sign-up (no training discussion)**
+
+* Alexander Konovalov
+* Kari L. Jordan
+* Erin Becker
+* Malvika Sharan
+* Aleks Nenadic
+* Karin Lagesen
+* Sarah Stevens
+* Karen Word
+* Laura Acion
+* Maneesha Sane
+* Christina Koch
+
+### Pre-Meeting
+
+Focus for discussion:
+    https://docs.google.com/document/d/1jfBWJMGYnjM5bM8xLfP6_OeG3-lhv6fe2fSdZlVaYRY/edit#heading=h.lxxpul7cjn7d
+    
+### Meeting notes 
+
+(To add post-meeting comments, please proceed to line 163)
+
+**Duty Officer:**
+
+Any carpentries member who could act as a visible point of contact for CoC queries and report, relaying information from the CoC committee to the community spaces and vice verssa for a specific duration of the event. 
+
+Concerns (motivating creation of the role): 
+
+* only a few cases have been formally reported to the commitee and some of them reported quite late. 
+* People might feel uncertain about how to report and if their incident is worth being reported.
+
+Initial questions: How much liberty should a Duty Officer have? Do they have freedom to respond to incidents or just take reports? Countries and Universities also have their own infrastructure on site -- how much can we communicate with them? How much does this affect instructor training? Where we introduce CoC, this is probably where it would go...
+
+Questions from the audience:
+
+* Is this going to be a requirement for all workshops? 
+	* If so, also self organized need to appoint one person to this. 
+	* Sher (when organizing workshops) needs to figure out who the duty officer will be (host or instructor)
+	* When do you send them the information about being the duty officer?  
+		* Definitely after you know who it is
+		* Should be public information online as well
+* How will we introduce this into the instructor training? 
+	* Need to talk about this role and see if instructors would feel comfortable about it
+		* Is this a deterrent for candidate instructors?
+	* Future instructors need to understand that this is something they may do when they do workshops
+* Should people report who this will be during the run-up to the workshop? 
+	* Purpose: stop the silence, ensure that people that know about it, might be situations which we don't have reported to us
+	* Important that we actually have follow through +1
+	* Answer: should be decided when workshop is requested, should be included in setup workflow
+* Question regarding whether people need training for this role    
+	* Person needing to attend the workshop? 
+	* Minimum requirement: know what CoC is, where to relay information (CoC committee), some idea of what to do when presented w/ basic scenarios
+		* Scenarios contributed by community
+	* Will *not* be seen as a badged thing; volunteer only
+	* Haven't forseen "training" beyond an informational letter; person mainly needs to be able to relay information (about CoC to participants; helping participants contact CoC committee)
+		* in most environments where CoC etc is not yet part of everyday way of doing things and very new to community, this role will be very hard to play without extended training and empowerment. e.g. I (Anelda) will find it very scary to take this role formally. We've had some situations and to be honest and it is definitely different to handle CoC violations in environments where the culture is quite different from the culture in e.g. Davis. See my point about cultural sensitivity - https://github.com/carpentries/equity-and-inclusion/issues/5. 
+		* Agree that this is a role that does ideally include and potentially requires some training, or someone being very comfortable in taking this action. There is CoC training https://otter.technology/code-of-conduct-training/. This is something people on Carpentries staff and the CoC committee took. But it's expensive, so wouldn't scale to the number of people in this role at workshops.
+* Who will be this person?
+	* Host or instructor <- hosts are often not that familiar with The Carpentries
+	* In theory, could be helper, but they aren't always as affiliated w/ the Carpentries <- I think folks will have an affiliation with the Carpentries or have a very solid understanding of the concept of CoC and Carpentry specifics. 
+* How to deal with the case where the issue is *with* the duty officer? 
+	* This is always a possibility; the duty officer needs to present resources so the affected person could report directly to the Carpentries. +1
+* What if no one wants to be the duty officer?
+	* M: change the name? --> point person?
+	* C: make it very simple, very clear
+* How will this be "approved"?
+	* Publish blog post, have community discussion
+	* Have people contribute scenarios
+	* Fold into membership agreements
+* How to deal with mandated reporting?
+	* Huge variety (in the US, at least) in who has to report, how trained they are, etc.
+	* M: let the person affected choose where to report; want to be responsible for Carpentries events
+	* L: some organizations (like Rladies) try to keep their work separate from an institution for precisely this reason, so policies do not clash
+	* L: institutions are welcome to *sponsor* Rladies events, but sponsors don't get the benefit of enforcing their policies
+	* T: +1 that this is an important consideration
+* Concern with authorizing people to respond, when they're not trained
+	* M: rather have someone who is there to help report
+		* A guideline like Mozilla/pyCon: https://www.mozilla.org/en-US/about/governance/policies/participation/reporting/
+	* C: difference between post-event CoC evaluation and in the workshop moment
+	* K: maybe change language to say: "make sure that necessary responses happen" not necessarily that this person is responsible for responding themselves (although they could) +1
+* Do we have tools that we can give people to help them feel more empowered? To handle the fear that they may try to intervene and fail?
+	* Maybe duty officer shouldn't be the person at the front of the room.
+	* Overcome personal fear by thinking about the bigger picture -- being committed to the greater good. ;) Probably not really feasible or fair in some cases.
+	* Reminding instructors that they're not there as themselves, but as Carpentries people -- so they have both the responsibilities and backing of the Carpentries community (will Carpentries back them up if their employer gets involved? Especially where person isn't part of member institution or where Carpentries isn't recognised yet?)
+
+### General comments or feedback on the Duty Officer role (add, respond, or '+1' comments as they appear)
+    
+Lex N: I like the idea very much, and it will surely help. However, my main worry would be that the duty officer task seems rather daunting. It's not something I'd lightly ask from a helper (from within or outside of the community) without offering that person some good resources, something like an onboarding text or video. I would want to be well prepared before going into my first period/worskhop as duty officer. This means for me that recruiting a duty officer may not always be so easy. What about places doing their very first workshop? Their first workshop on their own without instructors recruited from elsewhere? +1
+
+Moving a comment added above after the meeting here. re institutional reporting infrastructure: (or they don't really support this notion which may make it difficult for a duty officer to have any say)
+
+Sarah Brown : 
+My main thought is that a new instructor shouldn't have to do this, whil trying to teach. An experienced instructor maybe could do this in addition to teaching.
+I think would provide its main benefit if it's something the host is required to do/ provide (at an active site, they could have a helper who does this, but a new site, this could be "host orientation").  I think the host is also better equipped because they're more likely to be aware of the institutional or other required reporting/resources than an instructor who's a guest. We 
+
+Tracy Teal: 
+I saw the suggestion below of having the name be something like 'safe space facilitator'. The word 'facilitator' seems to make sense for what is envisioned for this role. Faciltator definition is "a person or thing that makes an action or process easy or easier.". Could it be that primarily what we want to do here is make the reporting easier? Not that we necessarily want an 'enforcer'? It might be ideal to have a person trained in CoC response in each workshop, but we aren't currently in a situation where we can provide that training, so it would be difficult to require it and stressful for instructors to be in the 'enforcer' role without training. Could the 'facilitator' role be a first step? And we could aim to work towards something that would provide broad CoC reponse training on a longer time scale. Each workshop could still have a designated 'facilitator'. 
+Also in the 'why do we need a duty officer' one of the elements is that "It will particularly create a secure space for people who have experienced such incidents in the past including people from minority groups who face several social disadvantages." Have we been consulting with the section of the community that we'd be looking to serve with this role, to see what they think would be valuable or effective? Would a duty officer type role, be effective enough, or for instance, would a more desired route be to have workshops specifically for particular groups? Or could there be workshops where there really was a trained faciltator or reporter, and the workshop specifically identified this way? Starting with faciliators might also help us, and give us some time, to gather this information if we don't have it already.
+
+### Food-for-thought questions (respond to any or all; new ideas or '+1'):
+
+See this post for some references: https://docs.google.com/document/d/1iaPWvVcPZEroNbUXGxnOxp5aBLMPjIPYCeWZDr9--nk/edit
+
+Official document in discussion: document/d/1jfBWJMGYnjM5bM8xLfP6_OeG3-lhv6fe2fSdZlVaYRY/edit#heading=h.lxxpul7cjn7d 
+
+* Why do we need a duty officer?
+	* Short version: " To ensure that no CoC violation or misconduct in the Carpentries spaces are left unreported, we propose to designate duty officers who will temporarily act as the contact person to address queries and incidents related to CoC at The Carpentries events. This step towards creating a more welcoming space for our community members will provide security to all members. It will particularly create a secure space for people who have experienced such incidents in the past including people from minority groups who face several social disadvantages."
+	* It's unlikely that we'll ever be able to *ensure* that no CoC violation goes unreported. People have many reasons not to report, and we need to respect those reasons, but we can address the ones that we can, and minimize or take away barriers to reporting. 
+* What do you think instructors would need to feel comfortable with this role? How might we address this in our instructor training curriculum?
+	* Role play and template situations would maybe be a good way to go. If we incoorporate this training it will take a significant junk of time e.g. 1 hour at least. If we require people to be able to handle this, they need to be well prepared. What drops out for this? How do we test for understanding of the rule and proper follow up? Think teaching demo for style.
+	* Some instructors may never feel comfortable in this role. And that should be OK. 
+* What do you think written instructions for this role should (or shouldn't) include?
+* Should a person in this role be required to be present at the event in question? Absent? Available?
+	* Anita: they should be required to be present
+* What's in a name? "Duty officer" is a little intimidating. Add your alternative suggestions here!
+	* Safe space facilitator or something like this with a positive connodation. +1+1
+	* 'Welcoming space facilitator'? The word 'facilitator' does seem appropriate for what is envisioned for the role. Definition is "a person or thing that makes an action or process easy or easier." So, this person is making the reporting easier. 
+	* Agree 'duty officer' is potentially intimidating to both the person in the role, and the learners. I think we would want to get a sense from a diversity of learners, and in different geographic regions, around what wording or title would make them feel supported. 
+* Do you have any comments regarding the application of this role to the following scenarios & individuals? If you identify a challenge, what could we do to overcome these challenges?
+	* self-organized workshops
+	* centrally-organized workshops
+	* online workshops (e.g. instructor training)
+	* online meetings (discussions, demos, trainer meetings, etc.)
+	* online forums (Slack, GitHub, TopicBox...)
+	* Carpentry-Con & Connect 
+		* CarpentryCon and CarpentryConnect events should have designated people for reporting. These are biggerr events, with more planning so there is both the opportunity to prepare people to be the reporting person, and because there are more people, needs to be more understanding of who to find to report.
+	* Instructors as duty officers
+	* Hosts, helpers, or community-members who have not been through instructor training as duty officers
