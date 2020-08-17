@@ -1,4 +1,4 @@
-Trainer meeting, December 5, 2019 UTC 14:00 
+# Trainer meeting, December 5, 2019 UTC 14:00 
 See this link for your local time: https://www.timeanddate.com/worldclock/fixedtime.html?iso=20191205T14 
 
 **Training discussion (pre and post):**
@@ -70,7 +70,7 @@ Ideas:
 - Check out the opportunities for in-person training events in the USA, February and March 2020.  (4 sites, many date options - read the email from Maneesha) 
 
 
-Trainer Meeting December 5, 2019 UTC 22:00
+# Trainer Meeting December 5, 2019 UTC 22:00
 See this link for your local time: https://www.timeanddate.com/worldclock/fixedtime.html?iso=20191205T22
 
 ***Training discussion (pre and post):***
@@ -161,7 +161,7 @@ gap implies missing or lack of and in relation to "expert" does it mean that exp
 - I am thankful to so many people in the instructor trainer community, so The Carpentries above all to start with, then all our trainers in NZ, @Murray, @Jonah, all my instructor training group (@Sarah Stevens, @Marco, @Serah, @C Tobin Magie; recently @Kari, @Erin, @Paula, @Eric, @Sher! .... this keeps expanding exponentially. Deeply grateful to you all! What a team we are!
 
 
-Trainer meeting, November 7, 2019  UTC 14:00 (Karen)
+# Trainer meeting, November 7, 2019  UTC 14:00 (Karen)
 See this link for your local time: https://www.timeanddate.com/worldclock/fixedtime.html?iso=20191107T14 
 
 ***Training discussion (pre and post):***
@@ -208,7 +208,7 @@ Agenda:
 - Trainer Training: https://carpentries.github.io/trainer-training/
 
 
-Trainer Meeting November 7, 2019 UTC 22:00 (Rayna)
+# Trainer Meeting November 7, 2019 UTC 22:00 (Rayna)
 See this link for your local time: https://www.timeanddate.com/worldclock/fixedtime.html?iso=20191107T22
 
 ***Training discussion (pre and post):***
@@ -280,7 +280,7 @@ Agenda:
 - Trainer Training: https://carpentries.github.io/trainer-training/
 
 
-Trainer meeting, October 3, 2019  UTC 14:00 
+# Trainer meeting, October 3, 2019  UTC 14:00 
 See this link for your local time: https://www.timeanddate.com/worldclock/fixedtime.html?iso=20191003T14  
 
 ***Training discussion (pre and post):***
@@ -356,7 +356,7 @@ The instructor development committee is thinking of doing a project where they e
 - We had someone who really dominated the conversation. Feedback on both days. Kept a list on the second day... wasn't sure what else to do about it. Didn't communicate with Mike about calling on people that hadn't been heard from. Wasn't sure how to say "thanks but 
 
 
-Trainer Meeting October 3, 2019, 2019 UTC 22:00 
+# Trainer Meeting October 3, 2019, 2019 UTC 22:00 
 See this link for your local time: https://www.timeanddate.com/worldclock/fixedtime.html?iso=20191003T22
 
 ***Training discussion (pre and post):***
