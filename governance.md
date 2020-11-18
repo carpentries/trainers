@@ -9,7 +9,7 @@ Reference: https://docs.carpentries.org/topic_folders/governance/committee-polic
 * Provide guidance and feedback as it relates to policies and procedures with respect to instructor training
 
 ## Powers and Responsibilities
-The authority and associated responsibilities proposed for this governing Committee, as distinct from the Trainers group as a whole and The Carpentries Core Team, are outlined in [this document](add link after moving).
+The authority and associated responsibilities proposed for this governing Committee, as distinct from the Trainers group as a whole and The Carpentries Core Team, are outlined in [this document](https://github.com/carpentries/trainers/blob/master/powers_responsibilities.md).
 
 ## Membership
 
