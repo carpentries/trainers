@@ -13,6 +13,6 @@ Briefly, we carry out tasks including:
 - host demo sessions for instructor checkout: https://pad.carpentries.org/teaching-demos-recovered
 
 ## Members
-Active and Alumni members are listed on The Carpentries website.
+Active and Alumni members who have agreed to public listing are identified on The Carpentries website.
 [Active Trainers](https://carpentries.org/trainers/)
 [Trainer Alumni](https://carpentries.org/trainer_alumni/)
