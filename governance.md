@@ -15,6 +15,7 @@ The authority and associated responsibilities proposed for this governing Commit
 
 * Five (5) voting members
 	* trainer in good standing
+	* Carpentries Core Team members are not eligible
 	* term is for one year
 	* term limit of three (3) years
 * Chairperson
@@ -63,7 +64,7 @@ A trainer in good standing for leadership purposes:
 
 #### Nominations and Elections
 
-All Instructor Trainers with Active status will be eligible to vote in elections.
+All Instructor Trainers with Active status who are not part of the [Carpentries Core Team](https://carpentries.org/team/) will be eligible to vote in elections.
 
 New Members will be elected each year as vacancies occur. A general timeline for elections will occur annually as follows:
 * Mid November: The Committee identifies a point of contact for the election. This person should not be standing for re-election.
