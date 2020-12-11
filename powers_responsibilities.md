@@ -22,6 +22,7 @@ specific to this group from those of existing community structures. This documen
 * Propose changes to Core Team policies and procedures related to Instructor Training
 * Propose changes to other community practices related to Instructor Training (e.g. Maintainers or Instructor Development)
 * Oversee changes to Instructor Training curriculum
+* Oversee changes to Instructor checkout requirements
 
 ### What powers belong to the Core Team?
 * Propose changes to Trainer Agreement
