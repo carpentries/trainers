@@ -23,11 +23,6 @@ The authority and associated responsibilities proposed for this governing Commit
 * Secretary
 	* elected by the committee members at the first meeting after elections
 	* term is for one year 
-	
-### Trainer in good standing
-A trainer in good standing for leadership purposes:
-- completed trainer training and checkout
-- taught at least three instructor training workshops 
 
 
 ### Non-voting members 
