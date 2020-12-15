@@ -14,7 +14,7 @@ The authority and associated responsibilities proposed for this governing Commit
 ## Membership
 
 * Five (5) voting members
-	* trainer in good standing
+	* Instructor Trainer with Active badge status
 	* term is for one year
 	* term limit of three (3) years
 * Chairperson
@@ -23,11 +23,6 @@ The authority and associated responsibilities proposed for this governing Commit
 * Secretary
 	* elected by the committee members at the first meeting after elections
 	* term is for one year 
-	
-### Trainer in good standing
-A trainer in good standing for leadership purposes:
-- completed trainer training and checkout
-- taught at least three instructor training workshops 
 
 
 ### Non-voting members 
