@@ -69,6 +69,10 @@ New Members will be elected each year as vacancies occur. A general timeline for
 
 If the seat of a Member becomes vacant after March 1 but before December 1, the Committee will attempt to fill the seat with a non-elected nominee from the most recent election, in the order of votes received. If this fails, the Committee may appoint any Active Trainer to fill the seat until the next election.
 
+Elections will be conducted using a [Single Transferable Vote](https://electionbuddy.com/features/voting-systems/stv-voting) (STV) preferential selection system. 
+In the event that more than 15 eligible candidates self-nominate for election, a primary using the same system will be held first, with the top 10 candidates 
+standing for final election.
+
 
 ## Ratification and Governance
 
