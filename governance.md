@@ -91,3 +91,9 @@ to the change.
 1. After the two week comment period, a proposal moves to a vote among all trainers.
 A proposal is adopted with a quorum of 2/3 trainers in good standing voting (for,against, 
 or abstain) and a simple majority of the votes in favor. 
+
+## Removal
+
+If a Member consistently fails to meet the obligations outlined above, they may be removed by a unanimous vote of the other Members. A vote to remove a Member 
+must be announced in writing (in the meeting agenda) to all Members at least ten days in advance to vote on the removal. A vacated seat will be filled following 
+the procedure outlined in the Nominations and Elections section.
