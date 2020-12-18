@@ -89,5 +89,5 @@ engagement.
 1. After the dedicated meeting, an additional one week to comment and propose revisions
 to the change. 
 1. After the two week comment period, a proposal moves to a vote among all trainers.
-A proposal is adopted with a quorum of 2/3 trainers in good standing voting (for,against, 
-or abstain) and a simple majority of the votes in favor. 
+A proposal is adopted with a quorum of 60% of Active badged Trainers voting (for,against, 
+or abstain) and 75% of the votes in favor. 
