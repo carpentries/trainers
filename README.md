@@ -9,8 +9,8 @@ What we do is described in detail in the instructor trainer agreement policy doc
 
 Briefly, we carry out tasks including:
 - develop and teach the Instructor Training Curriculum: http://carpentries.github.io/instructor-training/
-- host/attend monthly training community meetings: https://pad.carpentries.org/trainers-backup
-- host demo sessions for instructor checkout: https://pad.carpentries.org/teaching-demos-recovered
+- host/attend monthly training community meetings: https://pad.carpentries.org/trainers
+- host demo sessions for instructor checkout: https://pad.carpentries.org/teaching-demos
 
 ## Members
 Active and Alumni members who have agreed to public listing are identified on The Carpentries website.  
