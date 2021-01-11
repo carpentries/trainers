@@ -83,8 +83,8 @@ Changes to this document may come from the leadership or the trainer community.
 To make changes:
 
 1. The trainer community should be notified one week prior to a regularly scheduled 
-trainer meeting that the meeting topic will be changes to trainer leadership. The 
-notificaiton must include the changes to be discussed and an asynchronous means for
+trainer meeting that the meeting topic will be changes to trainer governance. The 
+notification must include the changes to be discussed and an asynchronous means for
 engagement.
 1. After the dedicated meeting, an additional one week to comment and propose revisions
 to the change. 
