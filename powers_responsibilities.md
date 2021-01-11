@@ -1,5 +1,4 @@
-In proposing creation of a Leadership group with authority to act and responsibilities to fulfill, it is necessary to distinguish the powers and responsibilities
-specific to this group from those of existing community structures. This document proposes such distinctions as follows:
+This document details the powers and responsibilities of [Instructor Trainers](https://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html], elected [Leadership for the Trainer community](https://github.com/carpentries/trainers/blob/main/governance.md), and [The Carpentries Core Team](https://carpentries.org/team/). This is the second of two public documents detailing the role of the proposed Trainers Leadership Committee.
 
 ## Powers
 
@@ -38,7 +37,7 @@ specific to this group from those of existing community structures. This documen
 ## Responsibilities
 
 ### What responsibilities belong to the Trainer community?
-* Specified in Trainer Agreement
+* Specified in [Trainer Agreement](https://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html#trainer-agreement)
 
 ### What responsibilities belong to Leadership?
 * Recruit and approve nominees to serve in elected and appointed community roles
