@@ -77,13 +77,13 @@ standing for final election.
 
 ## Ratification and Governance
 
-This document will go into effect when a first election of leadership takes place.
+This document, once approved by [The Carpentries Executive Council](https://carpentries.org/governance/), will go into effect when a first election of leadership takes place.
 
-Changes to this document may come from the leadership or the trainer community. 
+Changes to Committee documentation may come from the Leadership or the Trainer community. 
 To make changes:
 
-1. The trainer community should be notified one week prior to a regularly scheduled 
-trainer meeting that the meeting topic will be changes to trainer leadership. The 
+1. The Trainer community should be notified one week prior to a regularly scheduled 
+trainer meeting that the meeting topic will be changes to Leadership documentation. The 
 notificaiton must include the changes to be discussed and an asynchronous means for
 engagement.
 1. After the dedicated meeting, an additional one week to comment and propose revisions
@@ -91,7 +91,7 @@ to the change.
 1. After the two week comment period, a proposal moves to a vote among all trainers.
 
 A proposal is adopted with a quorum of 60% of Active badged Trainers voting (for,against, 
-or abstain) and 75% of the votes in favor.
+or abstain) and 75% of the votes in favor. All changes to Committee documentation must additionally be approved by The Carpentries Executive Council before they go into effect.
 
 ## Removal
 
