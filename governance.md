@@ -1,8 +1,9 @@
 # Trainer Leadership Committee 
 
 Proposal date: November 18, 2020
-
-Reference: https://docs.carpentries.org/topic_folders/governance/committee-policy.html
+Updated: January 11, 2021
+ 
+This is the first of two public documents detailing the role of the proposed Trainers Leadership Committee, as required in [The Carpentries Bylaws](https://docs.carpentries.org/topic_folders/governance/committee-policy.html). See Powers and Responsibilities, below, for the second document.
 
 ## Purpose
 * Provide an inclusive, effective voice on behalf of and accountable to the trainer community.   
