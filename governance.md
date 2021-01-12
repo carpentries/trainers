@@ -17,13 +17,13 @@ The authority and associated responsibilities proposed for this governing Commit
 	* Instructor Trainer with Active badge status
 	* Carpentries Core Team members are not eligible
 	* term is for one year
-	* term limit of three (3) years
+	* term limit of three (3) consecutive years
 * Chairperson
 	* elected by the committee members at the first meeting after elections
-	* term is for one year
+	* term is for one year, no limit beyond standard term limits
 * Secretary
 	* elected by the committee members at the first meeting after elections
-	* term is for one year 
+	* term is for one year, no limit beyond standard term limits 
 
 
 ### Non-voting members 
