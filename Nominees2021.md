@@ -2,7 +2,7 @@
 
 
 ## Names & Affiliations 
-*Location by country added to nominee's response for clarity*  
+*Location by country has been added to each nominee's response for clarity*  
 Jeff Oliver, University of Arizona (USA)  
 Amanda Charbonneau, UC Davis (USA)  
 Arindam Basu, University of Canterbury (NZ)  
