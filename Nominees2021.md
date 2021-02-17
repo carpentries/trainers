@@ -2,14 +2,14 @@
 
 
 ## Names & Affiliations 
-*Location by country added to nominee's response for clarity*
-Jeff Oliver, University of Arizona (USA)
-Amanda Charbonneau, UC Davis (USA)
-Arindam Basu, University of Canterbury (NZ)
-Sarah Brown, University of Rhode Island (USA)
-Luca Di Stasio, King Abdullah University of Science and Technology (KAUST) (Saudia Arabia / Europe)
-Mark Crowe, Skills Development Manager, QCIF (AU)
-Alexander Konovalov, University of St Andrews (UK)
+*Location by country added to nominee's response for clarity*  
+Jeff Oliver, University of Arizona (USA)  
+Amanda Charbonneau, UC Davis (USA)  
+Arindam Basu, University of Canterbury (NZ)  
+Sarah Brown, University of Rhode Island (USA)  
+Luca Di Stasio, King Abdullah University of Science and Technology (KAUST) (Saudia Arabia / Europe)  
+Mark Crowe, Skills Development Manager, QCIF (AU)  
+Alexander Konovalov, University of St Andrews (UK)  
 
 
 ## Jeff Oliver
