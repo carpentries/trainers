@@ -62,7 +62,7 @@ The authority and associated responsibilities proposed for this governing Commit
 All Instructor Trainers with Active status who are not part of the [Carpentries Core Team](https://carpentries.org/team/) will be eligible to vote in elections.
 
 New Members will be elected each year as vacancies occur. A general timeline for elections will occur annually as follows:
-* Mid November: The Committee identifies a point of contact for the election. This person should not be standing for re-election.
+* Mid November: The Core Team Liaison identifies a point of contact for the election. This person may be the Core Team Liaison or any Trainer not standing for election.
 * Early December: Elections announced, Self-nominations open
 * Mid January: Self-nominations close, entries posted, dedicated Trainer meeting held to introduce candidates
 * Late January: Trainers vote 
