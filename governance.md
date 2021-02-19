@@ -1,15 +1,16 @@
 # Trainer Leadership Committee 
 
 Proposal date: November 18, 2020
-
-Reference: https://docs.carpentries.org/topic_folders/governance/committee-policy.html
+Updated: January 11, 2021
+ 
+This is the first of two public documents detailing the role of the proposed Trainers Leadership Committee, as required in [The Carpentries Bylaws](https://docs.carpentries.org/topic_folders/governance/committee-policy.html). See Powers and Responsibilities, below, for the second document.
 
 ## Purpose
 * Provide an inclusive, effective voice on behalf of and accountable to the trainer community.   
 * Provide guidance and feedback as it relates to policies and procedures with respect to instructor training
 
 ## Powers and Responsibilities
-The authority and associated responsibilities proposed for this governing Committee, as distinct from the Trainers group as a whole and The Carpentries Core Team, are outlined in [this document](https://github.com/carpentries/trainers/blob/master/powers_responsibilities.md).
+The authority and associated responsibilities proposed for this governing Committee, as distinct from the [Trainers](https://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html) group as a whole and [The Carpentries Core Team](https://carpentries.org/team/), are outlined in [this document](https://github.com/carpentries/trainers/blob/master/powers_responsibilities.md).
 
 ## Membership
 
@@ -59,7 +60,7 @@ The authority and associated responsibilities proposed for this governing Commit
 
 #### Nominations and Elections
 
-All Instructor Trainers with Active status who are not part of the [Carpentries Core Team](https://carpentries.org/team/) will be eligible to vote in elections.
+All [Instructor Trainers](https://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html) with Active [status](https://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html#trainer-alumni-status) who are not part of the [Carpentries Core Team](https://carpentries.org/team/) will be eligible to vote in elections.
 
 New Members will be elected each year as vacancies occur. A general timeline for elections will occur annually as follows:
 * Mid November: The Core Team Liaison identifies a point of contact for the election. This person may be the Core Team Liaison or any Trainer not standing for election.
