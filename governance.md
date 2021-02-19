@@ -17,13 +17,13 @@ The authority and associated responsibilities proposed for this governing Commit
 	* Instructor Trainer with Active badge status
 	* Carpentries Core Team members are not eligible
 	* term is for one year
-	* term limit of three (3) years
+	* term limit of three (3) consecutive years
 * Chairperson
 	* elected by the committee members at the first meeting after elections
-	* term is for one year
+	* term is for one year, no limit beyond standard term limits
 * Secretary
 	* elected by the committee members at the first meeting after elections
-	* term is for one year 
+	* term is for one year, no limit beyond standard term limits 
 
 
 ### Non-voting members 
@@ -62,7 +62,7 @@ The authority and associated responsibilities proposed for this governing Commit
 All Instructor Trainers with Active status who are not part of the [Carpentries Core Team](https://carpentries.org/team/) will be eligible to vote in elections.
 
 New Members will be elected each year as vacancies occur. A general timeline for elections will occur annually as follows:
-* Mid November: The Committee identifies a point of contact for the election. This person should not be standing for re-election.
+* Mid November: The Core Team Liaison identifies a point of contact for the election. This person may be the Core Team Liaison or any Trainer not standing for election.
 * Early December: Elections announced, Self-nominations open
 * Mid January: Self-nominations close, entries posted, dedicated Trainer meeting held to introduce candidates
 * Late January: Trainers vote 
@@ -82,9 +82,10 @@ This document, once approved by [The Carpentries Executive Council](https://carp
 Changes to Committee documentation may come from the Leadership or the Trainer community. 
 To make changes:
 
-1. The Trainer community should be notified one week prior to a regularly scheduled 
-trainer meeting that the meeting topic will be changes to Leadership documentation. The 
-notificaiton must include the changes to be discussed and an asynchronous means for
+
+1. The trainer community should be notified one week prior to a regularly scheduled 
+trainer meeting that the meeting topic will be changes to trainer governance. The 
+notification must include the changes to be discussed and an asynchronous means for
 engagement.
 1. After the dedicated meeting, an additional one week to comment and propose revisions
 to the change. 
