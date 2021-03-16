@@ -19,7 +19,7 @@ to date.
     -   pros and cons
     -   possible alternatives
 
-2.  A quorum is established in a meeting if half or more of voting members are
+2.  A quorum is established in a meeting if four or more of voting members are
     present.
 
 3.  Once a person has sponsored a proposal, they are responsible for it.  The
@@ -50,21 +50,16 @@ to date.
 ## Suffrage
 
 1.  The following people are currently voting members of this project:
-    -   name
-    -   name
+    -   Arindam Basu
+    -   Amanda Charbonneau
+    -   Mark Crowe
+    -   Jeff Oliver
+    -   Sarah Brown
 
 2.  To become a voting member:
-    1.  A current member must sponsor a proposal to add the candidate.
-    2.  That proposal must pass as outlined in the "Making Decisions" section of
-        this page.
+    1.  [Members must be elected](https://github.com/carpentries/trainers/blob/main/governance.md#nominations-and-elections)
 
-3.  Voting members may resign from the project at any time, or lose their vote
-    if a proposal to that effect is passed as outlined in the "Making Decisions"
-    section of this page.
-    1.  A proposal to remove someone's vote may not contain any other business.
-    2.  Each person must be the subject of a separate proposal.
-    3.  The person in question has the right to vote on the proposal to remove
-        their vote.
+3.  Voting members may resign from the project at any time, or [be removed](https://github.com/carpentries/trainers/blob/main/governance.md#removal)
 
 ## Recording Decisions
 
