@@ -1,6 +1,6 @@
 # Governance: Martha's Rules
 
-This project uses [Martha's Rules][marthas-rules] for making decisions.  The
+The trainer leadership panel uses [Martha's Rules][marthas-rules] for making decisions.  The
 first section below describes these rules; the second lists voting members of
 the project and explains how to become one, while the third lists decisions made
 to date.
