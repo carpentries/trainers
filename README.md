@@ -16,3 +16,8 @@ Briefly, we carry out tasks including:
 Active and Alumni members who have agreed to public listing are identified on The Carpentries website.  
 [Active Trainers](https://carpentries.org/trainers/)  
 [Trainer Alumni](https://carpentries.org/trainer_alumni/)
+
+## Governance
+
+The trainer community self governs as per the [governance](governance) document. 
+The elected leadership panel governs operates according to their [meeting rules](policy/leader_meeting_rules.md)
