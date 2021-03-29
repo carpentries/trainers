@@ -63,9 +63,9 @@ to date.
 
 ## Recording Decisions
 
-Proposals that have been accepted are listed below in reverse chronological
-order. Each entry contains:
 
--   the date the proposal was accepted,
--   the proposal's one-line summary, and
--   a link to the proposal issue in GitHub.
+Accepted proposals will be linked to in the associated meeting minutes. Proposals may involve adding resources to this repository, these proposals' issues should be closed when the the pull request for the addition is merged.  For proposals that do not involve adding resources, they may be closed when otherwise acted upon. 
+
+## Leadership Panel Meeting Minutes
+
+Meeting minutes will be added as a pull request by a submitter (secretary or delegate) and all members of the panel will review and approve the pull request.  The minutes will be merged for record after all voting members have approved the current version, any member who was not last to approve or Core Team members may merge minutes.
