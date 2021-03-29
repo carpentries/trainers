@@ -59,7 +59,7 @@ to date.
 2.  To become a voting member:
     1.  [Members must be elected](https://github.com/carpentries/trainers/blob/main/governance.md#nominations-and-elections)
 
-3.  Voting members may resign from the project at any time, or [be removed](https://github.com/carpentries/trainers/blob/main/governance.md#removal)
+3.  Voting members may resign from the project at any time, or [be removed](https://github.com/carpentries/trainers/blob/main/governance.md#removal).  For 2021-2022 term, consideration for removal occurs after 3 unexplained no-shows. 
 
 ## Recording Decisions
 
