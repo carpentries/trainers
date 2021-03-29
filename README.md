@@ -16,3 +16,15 @@ Briefly, we carry out tasks including:
 Active and Alumni members who have agreed to public listing are identified on The Carpentries website.  
 [Active Trainers](https://carpentries.org/trainers/)  
 [Trainer Alumni](https://carpentries.org/trainer_alumni/)
+
+## Governance
+
+The trainer community self governs as per the [governance](governance) document. As of March 2021 this governance remains provisional pending approval by The Carpentries Executive Council.
+The elected leadership panel governs operates according to their [meeting rules](policy/leader_meeting_rules.md).
+
+Elected members of Leadership as of March, 2021 are:
+- Sarah Brown (Chair)
+- Jeff Oliver (Secretary)
+- Arin Basu
+- Amanda Charbonneau
+- Mark Crowe
