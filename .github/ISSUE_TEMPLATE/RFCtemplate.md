@@ -8,5 +8,9 @@ assignees:
 ---
 ## Summary
 
+## Key Questions
+
+## Background
+
 ## Timeline
 
