@@ -86,16 +86,7 @@ _note: goal is to go easiest things first and leave more open ended things for l
     - Mark: Don't think it makes sense to put in a full proposal if the group doesn't agree that we're going to deliberate on it. Should ask the group first if this is something we will address.
     - Arin: +1
 6. ~5~ Projects, Content: delegate here (Sarah, 15min)
-    - [open from previous group](https://github.com/carpentries/trainers/issues/50)
-    - Trainer meeting coordination documentation
-    - Trainer Agreement
-    - IT curriculum maintainance policy
-        - Curriculum update Core team project timeline (Karen)
-        - do we want a policy about the onboarding process in place before or after this onboarding?
-    - Bonus Modules?
-    - Trainer Training?
-    - community building activities
-    - checkout and piloting
+    - Sarah: per above decision I will create proposals about doing each of these ideas and we'll delegate tasks at the next meeting
 7. ~6~ [Policy & IT Curriculum](https://github.com/carpentries/trainers/issues/78)
     - Do we want to discuss this today or postpone?
     - It doesn't have a one-sentence summary at the top! Will defer to next meeting.
