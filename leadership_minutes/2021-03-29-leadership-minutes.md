@@ -85,6 +85,7 @@ _note: goal is to go easiest things first and leave more open ended things for l
     - Scoping proposals within Martha's rules is an open question. For example, if we need to have a policy for maintianing the IT curriculum, do we propose to have the policy, or do we start with proposal for the policy?
     - Mark: Don't think it makes sense to put in a full proposal if the group doesn't agree that we're going to deliberate on it. Should ask the group first if this is something we will address.
     - Arin: +1
+    - Sarah: ok, we will proceed with small proposals for project ideas that then we can move into full proposals after. 
 6. ~5~ Projects, Content: delegate here (Sarah, 15min)
     - Sarah: per above decision I will create proposals about doing each of these ideas and we'll delegate tasks at the next meeting
 7. ~6~ [Policy & IT Curriculum](https://github.com/carpentries/trainers/issues/78)
