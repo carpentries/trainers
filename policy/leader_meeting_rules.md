@@ -12,7 +12,8 @@ to date.
 1.  Before each meeting, anyone who wishes may sponsor a proposal by filing an
     issue in the GitHub repository tagged "proposal".  Proposals must be filed
     at least 24 hours before a meeting in order to be considered at that
-    meeting, and must include:
+    meeting, and proposals will be assigned to milestones to indicate what meeting 
+    they will be considered at. A proposal must include:
     -   a one-line summary (the subject line of the issue)
     -   the full text of the proposal
     -   any required background information
