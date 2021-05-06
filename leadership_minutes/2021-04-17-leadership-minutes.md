@@ -92,7 +92,7 @@
     - update from EC?
         - 2 relevant committees: Program Committee (chaired by Sarah Stevens) and Governance Committee (chaired by Paula Andrea Martinez). Committees are new and as yet seem unclear on their roles. Sarah (Brown) has been introduced by email.
         - No further bylaws modifications will occur this year, but rather recommendations will be drafted for next year's updates.
-6. FYI (FYI only)
+6. FYI (FYI only) **not discussed, due to time**
     - [update rules?](https://github.com/carpentries/trainers/issues/102)
     - [placeholder proposal](https://github.com/carpentries/trainers/issues/103)
     - [collaborative drafting of required report to EC](https://github.com/carpentries/trainers/issues/89)
