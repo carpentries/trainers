@@ -40,7 +40,7 @@
         - Sarah: This makes me uncomfortable. Some comments that aren't germane to the meetings can be redacted.
         - Arin: I'm ok with this, but as a general code of ethics, it is appropriate to have control
         - Sarah: Either there is zero attribution or there is full attribution. 
-        - Mark: We are here we are in control of what we say, I don't think we should be on a committee where someone is prepared to say something they are not willing to stand behind. ving. usthe option to say things anonymously as a leadership group is not helping complaints about lack of communication. There was something in Martha's rules where the Committee might choose to say something attributed to the committee. But otherwise 
+        - Mark: We are here we are in control of what we say, I don't think we should be on a committee where someone is prepared to say something they are not willing to stand behind. Giving us the option to say things anonymously as a leadership group is not helping complaints about lack of communication. There was something in Martha's rules where the Committee might choose to say something attributed to the committee. But otherwise 
         - Arin: Just want to leave a little flexibility in honoring a person's right to remain anonymous.
         - Amanda: this makes me feel weird. There's lots of times where you have purposely given up some of your anonymity. Deciding to be on this board you just have to be behind the things you are promoting.
         - Arin: In principle there is no conflict. "Usually" is 90% of the time.
