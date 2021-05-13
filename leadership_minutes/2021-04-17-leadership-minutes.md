@@ -85,7 +85,6 @@
 4. Discussion: Trainer Application review (Karen 15 min)
     - _No discussion_
     - based on discussion 04-12 and async comments [in the spreadsheet]
-    - (https://docs.google.com/spreadsheets/d/1BKgHy7zMNJEqYVo6mIxa03oWtfIJXv9mbmXwWiGBzoA/edit?usp=sharing) (pls **redact link** from public notes) I think we are good to proceed. Let Karen know if you would like to participate in review.
 5. Asynch discussion: Governance 
     - _No discussion_
     - governance issue with meetings schedule/ ownership
