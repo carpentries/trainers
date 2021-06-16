@@ -1,4 +1,4 @@
-This document details the powers and responsibilities of [Instructor Trainers](https://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html], elected [Leadership for the Trainer community](https://github.com/carpentries/trainers/blob/main/governance.md), and [The Carpentries Core Team](https://carpentries.org/team/). This is the second of two public documents detailing the role of the proposed Trainers Leadership Committee.
+This document details the powers and responsibilities of [Instructor Trainers](https://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html), elected [Leadership for the Trainer community](https://github.com/carpentries/trainers/blob/main/governance.md), and [The Carpentries Core Team](https://carpentries.org/team/). This is the second of two public documents detailing the role of the proposed Trainers Leadership Committee.
 
 ## Powers
 
