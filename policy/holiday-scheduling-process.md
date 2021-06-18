@@ -14,6 +14,6 @@ meeting collision is difficult to predict.
 discretion of the Carpentries' Director of Instructor Training or a designated proxy. 
 + Notification of such a cancellation should be made at least 72 hours before the
 scheduled meeting time through all normal meeting announcement communication channels. 
-+ The Carpentries Trainers community will be responsible for notifying the 
++ Any member of the Carpentries Trainers community may notify the 
 Director of Instructor Training of significant holidays that conflict with 
-regularly scheduled trainer meetings.
+regularly scheduled trainer meetings. 
