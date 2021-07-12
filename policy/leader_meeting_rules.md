@@ -48,6 +48,8 @@ to date.
     "yes" the proposal is implemented.  Otherwise, the proposal is returned to
     the sponsor for further work.
 
+8. Once a proposal has been raised during a meeting, final approval may occur asynchronously.
+
 ## Suffrage
 
 1.  The following people are currently voting members of this project:
