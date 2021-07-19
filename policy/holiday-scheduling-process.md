@@ -20,4 +20,4 @@ channels.
 Director of Instructor Training of significant holidays that conflict with 
 regularly scheduled trainer meetings. 
 + The Director of Instructor Training should attempt to accommodate meetings 
-when novice instructors (< 1year) have signed up for pre-workshop discussions
+when novice trainers (< 1year) have signed up for pre-workshop discussions
