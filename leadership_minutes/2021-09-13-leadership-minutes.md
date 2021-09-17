@@ -51,7 +51,7 @@ Regrets: Mark Crowe
     - Arin: This signals that there is a system that tracks. So compared with what we have now, does it create more overhead?
     - Karen: This is where the survey comes in that I proposed last time. We ask them what they have been doing.
     - Arin: Should we not remind people or warn them if they are not meeting expectations?
-    - Sarah: My gut response is that people need to be adults and keep track of their own. If it is easy to automate, OK, but otherwise I don't think its a good use of core team time.
+    - Sarah: My gut response is that people are adults and can keep track of their own. If it is easy to automate, OK, but otherwise I don't think its a good use of core team time.
     - Arin: In principle yes, but because its an institution, we need to realize people may slip. It's about kindness.
     - Sarah: The compassion comes in in the check process.
     - Amanda: In every other organization that I've volunteered in that has a requirement, I have been in charge of tracking my own time. They compile it at the end and tell me if I have met requirements or not. It may be useful and low maintenance if we had a google form where you could add the things that you have done in the year. You could send an automated message to ask people to add to it.
