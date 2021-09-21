@@ -1,7 +1,7 @@
 # September 2021 Trainer Leadership Report to EC
 
 __Summary__
-In the first six months, we have focused on gettig up an running.  We established protocols for working
+In the first six months, we have focused on getting up an running.  We established protocols for working
 publicly to maintain high transparency and we started our work on outstanding matters: governance, 
 the trainer agreement, and IT Curriculum Maintainance.  Going forward, we'll continue on these matters
 mostly with the goal of setting up for the next 1 year term to be a more visionary period with more 
