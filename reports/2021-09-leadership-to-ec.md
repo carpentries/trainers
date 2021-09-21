@@ -26,3 +26,10 @@ future agreement versions.
 ## Checkout Process Governance
 
 We are in the process of outlining a process for making changes to Trainer Checkout. This document would specify what kinds of changes can be made by which groups, and when decisions require a vote by the Trainer Community. Currently we are identifying stakeholders for various parts of the checkout process, and working to determine who would own the Checkout Governance.
+
+## Holiday Scheduling Process
+
+Regularly scheduled bi-monthly meetings of Carpentries Trainers may fall on a 
+major holiday, reducing participation by the trainers community. We created a 
+process for canceling meetings and described responsibilities for 
+cancellations and notifications.
