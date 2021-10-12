@@ -1,7 +1,7 @@
 # September 2021 Trainer Leadership Report to EC
 
 __Summary__
-In the first six months, we have focused on getting up an running.  We established protocols for working
+In the first six months, we have focused on getting up and running.  We established protocols for working
 publicly to maintain high transparency and we started our work on outstanding matters: governance, 
 the trainer agreement, and IT Curriculum Maintainance.  Going forward, we'll continue on these matters
 mostly with the goal of setting up for the next 1 year term to be a more visionary period with more 
@@ -10,7 +10,7 @@ basic matters settled and functional working practices in place.
 
 ## Leadership Setup
 
-We used the first sessions of the Leadership meetings to outline how this new Leadership group should function. We adopted a variation on Marthas Rules for running our meetings, and developed a procedure for taking and sharing minutes that prioritizes transparency and openness. We elected to do most of our work in GitHub, and have set up a number of templates for issues and pull requests to improve ease of use and to encourage discussion and feedback in this medium.
+We used the first sessions of the Leadership meetings to outline how this new Leadership group should function. We adopted a variation on Martha's Rules for running our meetings, and developed a procedure for taking and sharing minutes that prioritizes transparency and openness. We elected to do most of our work in GitHub, and have set up a number of templates for issues and pull requests to improve ease of use and to encourage discussion and feedback in this medium.
 
 
 [Clarify scope and procedure of the trainer rules](https://api.github.com/repos/carpentries/trainers/issues/102)
