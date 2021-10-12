@@ -8,7 +8,12 @@ a greater number of stakeholders.
 The IT curriculum does not have a standard Curriculum Advisory Committee, there is the whole trainer 
 community and their elected leadership panel. 
 
+## Role of Maintainers 
 
+- certify as maintainers for the carpentries 
+- (regular maintainer duties, via pointer?) 
+- refer issues for trainer discussion
+- provide consistent peer review during major updates 
 ## Maintainer Selection
 
 In addition to the Core Team IT Team, there should be at least X trainers as maintainers. 
