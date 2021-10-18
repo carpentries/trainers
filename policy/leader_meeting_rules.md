@@ -71,7 +71,7 @@ Accepted proposals will be linked to in the associated meeting minutes. Proposal
 
 ## Leadership Panel Meeting Minutes
 
-Meeting minutes will be added as a pull request by a submitter (secretary or delegate) and all members of the panel will review and approve the pull request.  The minutes will be merged for record after all voting members have approved the current version, any member who was not last to approve or Core Team members may merge minutes.
+Meeting minutes will be added as a pull request by a submitter (secretary or delegate) and all members of the panel will review and approve the pull request.  The minutes will be merged for record after all voting members have approved the current version, any member who was not last to approve or Core Team members may merge minutes. If a month has elapsed after the most recent approval, and no further discussions on the meeting have been raised, any leadership member or Core Team member may merge minutes.
 
 ## Specific Minutes Sharing Procedure
 
