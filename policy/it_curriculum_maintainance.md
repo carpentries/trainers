@@ -10,16 +10,20 @@ community and their elected leadership panel.
 
 ## Role of Maintainers 
 
-- certify as maintainers for the carpentries 
-- (regular maintainer duties, via pointer?) 
-- refer issues for trainer discussion
-- provide consistent peer review during major updates 
+- perform routine maintenance duties as [outlined by the Maintainer community](https://carpentries.github.io/maintainer-onboarding/05-communicate-advisors/index.html)
+- refer issues to Trainer community for discussion
+- provide peer review during major updates (see below)
+- recruit and delegate to individuals or focus groups to collaborate on specific topics or tasks of interest
+- complete certification as a Carpentries Maintainer as possible and practical
+
 ## Maintainer Selection
 
-In addition to the Core Team IT Team, there should be at least X trainers as maintainers. 
+This group should consist of at least 3 people:
+- 1 designated member of The Carpentries Core Team
+- 1 member of Trainers Leadership
+- 1 additional Trainer
 
-One member of the leadership panel should participate as a maintainer and, with the Core Team
-faciliate updates between the two groups. 
+At least one member of this group should be certified as a Carpentries Maintainer. 
 
 ## Changes requiring input outside of maintainers
 
@@ -40,7 +44,7 @@ faciliate updates between the two groups.
 
 A major update is <definition here> 
   
-- These updates will be proposed as a large pull request that is rendered and tuaght prior to
+- These updates will be proposed as a large pull request that is rendered and taught prior to
 merging into the curriculum. 
 - Prior to merging all trainers will be invited to review the pull request and provide feedback
 over a perio
