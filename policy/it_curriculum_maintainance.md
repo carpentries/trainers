@@ -44,6 +44,6 @@ A major update is <definition here>
 merging into the curriculum. 
 - Prior to merging all trainers will be invited to review the pull request and provide feedback
 over a perio
-
+- require to document the procedure of each update and document the technical procedures used in the past so that these can be improved upon each time. 
 ##
 how/where additional information is documented (ie addresses IT/1173
