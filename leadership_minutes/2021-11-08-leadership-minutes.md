@@ -1,0 +1,93 @@
+# Trainer Leadership Meeting 2021-11-08 23:00UTC
+
+**Present:** Amanda Charbonneau, Sarah Brown, Jeff Oliver, Arin Basu, Karen Word, Kelly Barnes, Mark Crowe
+
+1. EC bylaws revisions, FYI: https://github.com/carpentries/2022_Bylaw_revision/issues
+    - EC will be working to clarify and flesh out context between now and January; watch this space for items of interest
+    - Relevant to us because we don't fit into the bylaws
+    - Karen will keep us updated
+    - Mark: Will that address some of the problems we had eariler in the year (e.g., privacy policy, committee)?
+    - Karen: Those are not really EC issues. They are from our fiscal sponsor. 
+2. Questions for EC re (continuing?) provisional approval
+    - Report will be listed as non-verbal update, which suggests that there won't be a vote. 
+    - They have given us provisional status.
+    - what actions are we not taking on the assumption that they need to wait?
+        - Carpentries.org listing
+        - Handbook documentation
+    - What else?
+        - Sarah: the longer we stay provisional, the more things will fall into the list of should we keep doing this?
+        - Mark: Like changing the requirements for active Trainers? Is the new requirement just provisional?
+        - Sarah: We need the official authority to say things. 
+        - Mark: Was there approval from the EC or core team to set up this group?
+        - Karen: We told them we were going to have elections and pointed them at our documentation. They said bylaws were inadequate to address this, but they wanted us to move forward. They wanted to wait until the new EC came in. The EC that said go ahead is a different EC than the ones that inherited the problem just think everything is fine and don't get why we need formal approval. 
+        - Sarah: I don't see specific concerns to bring to the EC, but the [current decision making schedule presents challenges]. 
+        - Karen: The EC is overburdened. They are trying to figure out how to govern. I think we should just keep doing our thing and bring specific questions to them. 
+        - Sarah: Can we ask if there is any info we could give them that could help them make the decision?
+        - Karen: I can draft a response to the email talking about the things we are struggling with: authority to make decisions and public facing documenation.
+        - Mark: Send every thing to the EC for approval. 
+        - Sarah: The other thing we were waiting for was to make updates to our governance but we wanted their recommendations first so that we didn't have to go back to the Trainers more than once. They seem like they are going to take our suggestions, but it would be useful to have that formal approval. 
+        - Karen: We should send a welcome letter to the new EC.  
+3. Adjustments to Agreement/Renewals timeline
+    - Karen was charged with updating the agreement, and has not yet. Karen and Kelly spoke and thought it might not be a great time to do a ratification and it may not be necessary right now. We could combine the new renewals process with the election. Karen could update the documentation now and we could share with the community that we will be voting on it in January. When do we implement? If we are going to remove badges alongside ratification, it is good to give them notice ahead of time. We could also wait to implement.
+    - Mark: 3 month amnesty after the vote could be something
+    - Sarah: I think that makes sense to me. 
+    - Karen: We need a formal revision of the proposal with a new timeline and formal approval
+    - Sarah: We should make a separate proposal that is what are we going to actually do including content of the certification renewal. 
+    - Karen will complete the revision and that can become a PR
+    - Sarah: Where should this agreement live? The handbook or our repo with a link in the handbook? 
+    - Karen: good question. All our documenation lives in our repo and not the handbook. 
+    - Sarah: This is on the edge since it affects all Trainers and what the role of Trainer means.
+    - Karen: It needs to continue being in the handbook and it raises the question of if our documentation should move? This is an EC decision
+    - Mark: How static is the handbook?
+    - Karen: These things are supposed to be in the handbook. The final version goes into the handbook. 
+    - Sarah: Sub-optimal from a maintenance perspective. 
+    - Karen: We need to do what the EC does. I will look into what they are doing. 
+    - Sarah: Are there other committees that we can see where they work?
+4. Trainer meeting plan
+    - Curriculum maintenance related issues: 
+        - [checkout governance](https://github.com/carpentries/trainers/issues/84)
+        - [demo subcommittee](https://github.com/carpentries/trainers/issues/83)
+        - [IT maintance policy](https://github.com/carpentries/trainers/issues/82)
+        - Sarah: These are things that we want input on but haven't gotten any input on. I want to collect opinions. 
+        - Karen: The plan is to be a focus group not necessarily recruitment for groups?
+        - Sarah: I'm hoping to have a better draft of the IT maintenance policy to ask for feedback
+        - Amanda: Should the Trainer agreement update be on there or have we got enough feedback? 
+        - Karen: That's a good goal for me to get updated by then
+        - Arin: We had a CarpentryConnect meeting and discussed feedback and checkout. What do we do in requiring an Instructor post-instructor Training? Can they make contributions to incubator lessons. 
+        - Sarah: Yes! I have had this conversation a dozen times but dont remember the answer. We need to write these down as a policy.
+        - Karen: We don't encourage contributions to incubator lessons so as not to overwhelm the lessons. But we accept contributions to any Carpentries repo (but not a fork). 
+        - Sarah: Who makes these decisons and how? How invovled do Trainers want to be? 
+        - Karen: Who will be at each meeting? (2021-11-18)
+        - Sarah: I can run the am meeting.
+        - Amanda: I can probably do that, but I don't want to say definitely because I don't know when my internet will be turned on
+        - Sarah: How much attention do you pay to the Instructor Training repo? or What catches your attention on the Instructor Training repo?
+        - Sarah: Were there any other things we tried to get participation on, but didn't? 
+    - Community maintenance?
+        - Running meetings and other things are being done by Karen and Kelly, but we could ask if people want input on that. 
+        - Sarah: We could end with an open-ended "What are other things you want to see leadership address?" 
+    - Leadership recruitment? 
+        - We need to get nominations going. This process will be run by core team.
+        - Sarah: We should start thinking about how many of us are planning to run again or not. Because it will influence how high quality our transition needs to be. 
+        - Karen: It also influences how aggressive I need to be in recruitment
+        - Mark: If it is 2 term limit, we may need to think about some of us actively standing down so we don't all have to leave the following year. 
+        - Sarah: [Three consecutive terms.](https://github.com/carpentries/trainers/blob/main/governance.md#membership)
+5. Trainer Training
+    - The [application review process](https://docs.google.com/spreadsheets/d/1BKgHy7zMNJEqYVo6mIxa03oWtfIJXv9mbmXwWiGBzoA/edit?usp=sharing) needs work
+        - positive-to-negative ranking scale generates large variability between reviewers
+        - Karen had to go in and look at who reviewed each applicant and adjust for who reviewed them
+        - For the overall subjective score, we hae a recommended scale that Sarah created. One solution is to do that for other questions.
+        - Jeff: Two options: regardless of how people scored, you rescore it so their mean is 0. Or you throw it into a mixed effect model. I'd be happy to help out with that. The mixed effects model is designed to deal with that. 
+        - Mark: Have we got applications that we can use from previous years as calibrations? Dummy profiles that everyone gets. Or as an example.  
+        - Sarah: examples, encourage people to use the whole scale and remind them it is annonymous. Try that and if it is still wild, we can use Jeff's idea.
+        - Arin: Can we do away with the negatives? 
+        - We can get rid of the negatives. 0 - 12
+        - Mark: Is there a comment section?
+        - Karen: Yes
+        - Arin: I second a qualitative assessment
+        - Karen: I don't expect to make any other changes so I don't know if you need to review, but I can let you know. 
+        - More suggested scales?
+    - Host a community discussion per the committee policy? 
+        - Sarah: This is the most appropriate time to have a community dicussion. We just have to pick a time. 
+        - Karen: I'm going to talk with Alycia tomorrow, but I can set up a poll for times the week of Dec 1.
+        - Mark: Will it be one or two community dicussions?
+        - Karen: I would like host 2. We want to serve the whole community/ One that is friendly to Europe and one that is friendly to AU/NZ.   
