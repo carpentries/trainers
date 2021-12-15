@@ -78,5 +78,5 @@ Regrets: Arin Basu
          goal is to combine the votes. We don't need to hash it out again.
          - Mark: The four things in the list, is it (A and B and C) or D?
          - Karen: It's (A and B and C) or D
-         - Everyone likes it. It is approved.
+         - Everyone likes it. It is approved, with the addition of the "ands" per the previous clarification. 
 4. Outstanding goals
