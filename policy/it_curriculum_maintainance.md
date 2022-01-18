@@ -58,7 +58,7 @@ To initiate a major update, the maintainers will submit a proposal for approval 
 
 The process must include:
   - time for pilot teaching by trainers that are not maintainers, members of the leadership panel, or core team
-  - at least two weeks of asynchronous 
+  - at least two weeks of asynchronous feedback with notifications for all trainers
 
 Before a major update is merged, the maintainers submit a proposal to the leadership panel that describes:
   - a summary of changes
