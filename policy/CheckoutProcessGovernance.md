@@ -18,7 +18,7 @@ Once the PR date has passed, and comments are addressed, it should follow the Tr
 
 ## 2. Rescope Requirements
 
-Rescoping changes should use the existing Trainers Leadership mechanism to propose and adopt changes, however the Trainers Leadership should explicitly discuss whether the proposed change is large or disruptive enough to warrant community input. If Leadership feels that the change will be large or decisive, it should be treated using the Change Requirements process. If the changes are minor, they should be dealt with using the Change Participation Requirements.
+Rescoping changes should use the existing Trainers Leadership mechanism to propose and adopt changes, however the Trainers Leadership should explicitly discuss whether the proposed change is large or disruptive enough to warrant community input. If Trainers Leadership feels that the change will be large or decisive, it should be treated using the Change Requirements process. If the changes are minor, they should be dealt with using the Change Participation Requirements.
 
 ## 3. Change Participation Requirements
 
