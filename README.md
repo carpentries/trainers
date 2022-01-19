@@ -32,13 +32,15 @@ Elected members of Leadership as of March, 2021 are:
 ## 2022 Meeting Schedule
 
 Trainer Community meetings are open only to members of the Trainer community and invited guests. Meeting times are listed on the [Community Calendar](https://carpentries.org/community/#community-events). 
-Meeting topics may be proposed by any member of the community. To propose a meeting topic, please visit the [Discussions tab in this repository](discussions) and 
-create a Discussion topic. In the text of your topic, please include a request to discuss at a Trainer meeting. You may wish to specify whether you 
+Meeting topics may be proposed by any member of the community. Meeting topics may be proposed via this repository (ideally) or by [email](mailto: instructor.training@carpentries.org). 
+To submit a proposal here, please visit the [Discussions tab](discussions) and 
+create a Discussion topic (or add a comment to an existing topic if appropriate). 
+In the text of your topic/comment, please include a request to discuss at a Trainer meeting. You may wish to specify whether you 
 think a short discussion (during a standard meeting after pre/post workshop conversations) or a dedicated meeting would be more appropriate. 
   
 Primary meetings are always held; "As Needed" meetings are held only if there is a scheduled topic for that day. 
 If you would like to propose cancellation of a scheduled meeting due to holidays or other widespread conflicts, please submit an [Issue](issues) 
-with this request for consideration by Trainers Leadership.
+with this request for consideration by Trainers Leadership or send an [email](mailto: instructor.training@carpentries.org) to The Carpentries Core Team.
 
 Jan 20 (Primary, delayed from Jan 6)
 Feb 3 - Elections (meet candidates, discuss issues, etc)
