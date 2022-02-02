@@ -3,13 +3,13 @@
 
 ## Names, Affiliations, and GitHub IDs
 *Location by country has been added to each nominee's response for clarity*  
-[Bonny Adane Bayissa](https://github.com/carpentries/trainers/blob/main/Nominees2022.md#bonny-adane-bayissa), bonnyad, (Ethiopia)
-[Jon Wheeler](https://github.com/carpentries/trainers/blob/main/Nominees2022.md#jon-wheeler), University of New Mexico, jonathanwheeler01 (USA)
-[Paola Corrales](https://github.com/carpentries/trainers/blob/main/Nominees2022.md#paola-corrales), UBA-CIMA-CONICET & MetaDocencia, paocorrales (Argentina)
-[Mark Crowe](https://github.com/carpentries/trainers/blob/main/Nominees2022.md#mark-crowe), Skills Development Manager, QCIF, marklcrowe (Australia) - Incumbent
-[Jeff Oliver](https://github.com/carpentries/trainers/blob/main/Nominees2022.md#jeff-oliver), University of Arizona (USA), jcoliver  - Incumbent, Secretary
-[Sarah Brown](https://github.com/carpentries/trainers/blob/main/Nominees2022.md#sarah-brown), University of Rhode Island (USA), brownsarahm - Incumbent, Chair
-[Arindam Basu](https://github.com/carpentries/trainers/blob/main/Nominees2022.md#arindam-basu), University of Canterbury, arinbasu (New Zealand)  - Incumbent
+[Bonny Adane Bayissa](https://github.com/carpentries/trainers/blob/main/Nominees2022.md#bonny-adane-bayissa), bonnyad, (Ethiopia)  
+[Jon Wheeler](https://github.com/carpentries/trainers/blob/main/Nominees2022.md#jon-wheeler), University of New Mexico, jonathanwheeler01 (USA)  
+[Paola Corrales](https://github.com/carpentries/trainers/blob/main/Nominees2022.md#paola-corrales), UBA-CIMA-CONICET & MetaDocencia, paocorrales (Argentina)  
+[Mark Crowe](https://github.com/carpentries/trainers/blob/main/Nominees2022.md#mark-crowe), Skills Development Manager, QCIF, marklcrowe (Australia) - Incumbent  
+[Jeff Oliver](https://github.com/carpentries/trainers/blob/main/Nominees2022.md#jeff-oliver), University of Arizona (USA), jcoliver  - Incumbent, Secretary  
+[Sarah Brown](https://github.com/carpentries/trainers/blob/main/Nominees2022.md#sarah-brown), University of Rhode Island (USA), brownsarahm - Incumbent, Chair  
+[Arindam Basu](https://github.com/carpentries/trainers/blob/main/Nominees2022.md#arindam-basu), University of Canterbury, arinbasu (New Zealand)  - Incumbent  
 
 
 ## Bonny Adane Bayissa
