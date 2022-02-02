@@ -45,23 +45,22 @@ with this request for consideration by Trainers Leadership or send an [email](ma
 Jan 20 (Primary, delayed from Jan 6)
 Feb 3 - Elections (meet candidates, discuss issues, etc)
 Feb 17 (As Needed)
-Mar 3 (Primary)
-Mar 17 (As Needed)
-Apr 7 (Primary)
+Mar 3 (Primary) - pre/post discussion
+Apr 7 (Primary) - pre/post discussion
 Apr 21 (As Needed) 
-May 5 (Primary) 
+May 5 (Primary) - pre/post discussion
 May 19 (As Needed)
-Jun 2 (Primary) 
+Jun 2 (Primary) - pre/post discussion
 Jun 16 (As Needed)
-Jul 7 (Primary)
+Jul 7 (Primary) - pre/post discussion
 Jul 21 (As Needed)
-Aug 4 (Primary)
+Aug 4 (Primary) - pre/post discussion
 Aug 18 (As Needed)
-Sep 1 (Primary) 
+Sep 1 (Primary) - pre/post discussion
 Sep 15 (As Needed)
-Oct 6 (Primary)
+Oct 6 (Primary) - pre/post discussion
 Oct 20 (As Needed)
-Nov 3 (Primary)
+Nov 3 (Primary) - pre/post discussion
 Nov 17 (As Needed)
-Dec 1 (Primary)
+Dec 1 (Primary) - pre/post discussion
 Dec 15 (As Needed)
