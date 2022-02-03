@@ -1,7 +1,7 @@
 # Trainer Leadership Meeting 2021-08-23 23:00UTC
 
-**Present**: K. Word, K. Barnes, A. Basu, A. Charbonneau, M. Crowe, J. Oliver
-Regrets: S. Brown
+**Present**: K. Word, K. Barnes, A. Basu, A. Charbonneau, M. Crowe, J. Oliver  
+**Regrets**: S. Brown
 
 1. Core Team update
     - communications project is coming along, will start drafting changes soon
