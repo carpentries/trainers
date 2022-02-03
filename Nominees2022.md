@@ -11,7 +11,7 @@
 [Sarah Brown](https://github.com/carpentries/trainers/blob/main/Nominees2022.md#sarah-brown), University of Rhode Island (USA), brownsarahm - Incumbent, Chair  
 [Arindam Basu](https://github.com/carpentries/trainers/blob/main/Nominees2022.md#arindam-basu), University of Canterbury, arinbasu (New Zealand)  - Incumbent  
 
-
+# New Nominees
 ## Bonny Adane Bayissa
 ### Briefly, describe your experience with The Carpentries and/or Carpentries-related activities. 
 I have been with the carpentries community for the past 4 years as an instructor and have became a trainer in late 2021. I have instructed in more than 15 data carpentry workshops and had a session for an instructor training on the carpentrycon.    
@@ -76,6 +76,8 @@ Firstly, I'd like to learn from previous Leadership Team members' experience and
 
 ### Is there anything else you would like to share with the community?
 
+# Incumbent Nominees
+For nominees who have served on Trainers Leadership during the past year, you may wish to review their participation in [meetings](https://github.com/carpentries/trainers/tree/main/leadership_minutes) and in [issues](https://github.com/carpentries/trainers/issues) in this repository in addition to the statements below. 
 
 ## Mark Crowe
 ### Briefly, describe your experience with The Carpentries and/or Carpentries-related activities. 
