@@ -1,8 +1,8 @@
 # Trainer Leadership Meeting 2021-12-13 23:00UTC
 
 **Present:** Amanda Charbonneau, Sarah Brown, Jeff Oliver, Karen Word, Kelly
-Barnes, Mark Crowe
-Regrets: Arin Basu
+Barnes, Mark Crowe. 
+**Regrets:** Arin Basu
 
 
 1. Core team updates
