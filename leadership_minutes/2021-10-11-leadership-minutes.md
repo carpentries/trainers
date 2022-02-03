@@ -1,7 +1,7 @@
 # Trainer Leadership Meeting 2021-10-11 23:00UTC
 
-**Present**: S. Brown, A. Basu, A. Charbonneau, M. Crowe, J. Oliver, K. Word
-Regrets: K. Barnes
+**Present**: S. Brown, A. Basu, A. Charbonneau, M. Crowe, J. Oliver, K. Word   
+**Regrets**: K. Barnes
 
 1. Core Team Updates
     * [Cancellation policy PR](https://github.com/carpentries/docs.carpentries.org/pull/760/files)
