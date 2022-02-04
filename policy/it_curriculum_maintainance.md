@@ -73,6 +73,9 @@ Recommended changes to this page will be referred to the curriuculum team for ap
 This group shall meet a minimum of 4 times per year to approve new starting points. 
 Proposals for new starting points in issues will be tagged by the maintainers for consideration by this group. 
 
+When a new official curriculum is introduced, the Curriculum Team will prepare a list of starting points to be added.
+In this circumstance, a member of the Curriculum Team will open a pull request to add the new starting points and tag the Instructor Training Maintenance Team for discussion and approval.
+
 ### Maintainer Notes
 
 how/where additional information is documented (ie addresses IT/1173)
