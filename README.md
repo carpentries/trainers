@@ -28,3 +28,39 @@ Elected members of Leadership as of March, 2021 are:
 - Arin Basu
 - Amanda Charbonneau
 - Mark Crowe
+
+## 2022 Meeting Schedule
+
+Trainer Community meetings are open only to members of the Trainer community and invited guests. Meeting times are listed on the [Community Calendar](https://carpentries.org/community/#community-events). 
+Meeting topics may be proposed by any member of the community. Meeting topics may be proposed via this repository (ideally) or by [email](mailto: instructor.training@carpentries.org). 
+To submit a suggest a meeting topic here, please visit the [Discussions tab](https://github.com/carpentries/trainers/discussions) and 
+create a Discussion topic (or add a comment to an existing topic if appropriate). 
+In the text of your topic/comment, please include a request to discuss at a Trainer meeting. You may wish to specify whether you 
+think a short discussion (during a standard meeting after pre/post workshop conversations) or a dedicated meeting would be more appropriate. 
+  
+Primary meetings are always held; "As Needed" meetings are held only if there is a scheduled topic for that day. 
+If you would like to propose cancellation of a scheduled meeting due to holidays or other widespread conflicts, please submit an [Issue](https://github.com/carpentries/trainers/issues) 
+with this request for consideration by Trainers Leadership or send an [email](mailto: instructor.training@carpentries.org) to The Carpentries Core Team.
+
+Jan 20 (Primary, delayed from Jan 6)
+Feb 3 - Elections (meet candidates, discuss issues, etc)
+Feb 17 (As Needed)
+Mar 3 (Primary) - pre/post discussion
+Apr 7 (Primary) - pre/post discussion
+Apr 21 (As Needed) 
+May 5 (Primary) - pre/post discussion
+May 19 (As Needed)
+Jun 2 (Primary) - pre/post discussion
+Jun 16 (As Needed)
+Jul 7 (Primary) - pre/post discussion
+Jul 21 (As Needed)
+Aug 4 (Primary) - pre/post discussion
+Aug 18 (As Needed)
+Sep 1 (Primary) - pre/post discussion
+Sep 15 (As Needed)
+Oct 6 (Primary) - pre/post discussion
+Oct 20 (As Needed)
+Nov 3 (Primary) - pre/post discussion
+Nov 17 (As Needed)
+Dec 1 (Primary) - pre/post discussion
+Dec 15 (As Needed)
