@@ -42,9 +42,8 @@ Primary meetings are always held; "As Needed" meetings are held only if there is
 If you would like to propose cancellation of a scheduled meeting due to holidays or other widespread conflicts, please submit an [Issue](https://github.com/carpentries/trainers/issues) 
 with this request for consideration by Trainers Leadership or send an [email](mailto: instructor.training@carpentries.org) to The Carpentries Core Team.
 
-Jan 20 (Primary, delayed from Jan 6)
-Feb 3 - Elections (meet candidates, discuss issues, etc)
-Feb 17 (As Needed)
+Jan 20 (Primary, delayed from Jan 6)  
+Feb 3 - Elections (meet candidates, discuss issues, etc)  
 Mar 3 (Primary) - pre/post discussion
 Apr 7 (Primary) - pre/post discussion
 Apr 21 (As Needed) 
