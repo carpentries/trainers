@@ -69,7 +69,7 @@ Before a major update is merged, the maintainers submit a proposal to the leader
 
 This page is maintained by the Curriculum team. 
 Approved starting points shall be at the start of an episode and avoid dependencies. 
-Recommended changes to this page will be referred to the curriuculum team for approval. 
+Recommended changes to this page will be referred to the curriculum team for approval. 
 This group shall meet a minimum of 4 times per year to approve new starting points. 
 Proposals for new starting points in issues will be tagged by the maintainers for consideration by this group. 
 
