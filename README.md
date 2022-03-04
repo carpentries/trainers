@@ -23,11 +23,13 @@ The trainer community self governs as per the [governance](governance.md) docume
 The elected leadership panel governs operates according to their [meeting rules](policy/leader_meeting_rules.md).
 
 Elected members of Leadership as of March, 2021 are:
-- Sarah Brown (Chair)
-- Jeff Oliver (Secretary)
+- Sarah Brown 
+- Jeff Oliver 
 - Mark Crowe
 - Bonny Adane Bayissa
 - Paola Corrales
+
+2022 Chair and Secretary are currently to be decided
 
 ## 2022 Meeting Schedule
 
