@@ -12,7 +12,7 @@ This document details the powers and responsibilities of [Instructor Trainers](h
 
 ### What powers belong to Leadership?
 * Interpret Trainer Certification Renewal data
-* Propose of changes to Trainer Certification Renewal, including potential enforcement
+* Propose changes to Trainer Certification Renewal process
 * Rank Instructor Trainer applicants 
 * Rank Open Instructor Training applicants 
 * Rank applications for group scholarship Instructor Training seats or events
