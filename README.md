@@ -22,12 +22,14 @@ Active and Alumni members who have agreed to public listing are identified on Th
 The trainer community self governs as per the [governance](governance.md) document. As of March 2021 this governance remains provisional pending approval by The Carpentries Executive Council.
 The elected leadership panel governs operates according to their [meeting rules](policy/leader_meeting_rules.md).
 
-Elected members of Leadership as of March, 2021 are:
-- Sarah Brown (Chair)
-- Jeff Oliver (Secretary)
-- Arin Basu
-- Amanda Charbonneau
+Elected members of Leadership as of March, 2022 are:
+- Sarah Brown 
+- Jeff Oliver 
 - Mark Crowe
+- Bonny Adane Bayissa
+- Paola Corrales
+
+2022 Chair and Secretary are currently to be decided
 
 ## 2022 Meeting Schedule
 
