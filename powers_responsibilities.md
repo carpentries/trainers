@@ -11,7 +11,7 @@ This document details the powers and responsibilities of [Instructor Trainers](h
 * Volunteer or nominate Trainers for elected and appointed roles
 
 ### What powers belong to Leadership?
-* Interpret Trainer Certification Renewal data
+* Interpret Trainer Certification Renewal to determine what activity is equivalent to the stated requirements
 * Propose changes to Trainer Certification Renewal process
 * Rank Instructor Trainer applicants 
 * Rank Open Instructor Training applicants 
