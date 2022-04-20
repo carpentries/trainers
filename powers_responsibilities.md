@@ -3,7 +3,7 @@ This document details the powers and responsibilities of [Instructor Trainers](h
 ## Powers
 
 ### What powers belong to the Trainer community?
-* Ratify Trainer Certification Renewal Procedure 
+* Ratify Trainer Certification Renewal Process 
 * Elect Leadership committee
 * Ratify initial governance structure?
 * Communicate with Trainers, Leadership committee & Core Team
@@ -11,8 +11,8 @@ This document details the powers and responsibilities of [Instructor Trainers](h
 * Volunteer or nominate Trainers for elected and appointed roles
 
 ### What powers belong to Leadership?
-* Interpret Trainer Certification Renewal to determine what activity is equivalent to the stated requirements
-* Propose changes to Trainer Certification Renewal process
+* Interpret Trainer Certification Renewal Participation Requirements
+* Propose changes to Trainer Certification Renewal Process
 * Rank Instructor Trainer applicants 
 * Rank Open Instructor Training applicants 
 * Rank applications for group scholarship Instructor Training seats or events
@@ -24,7 +24,7 @@ This document details the powers and responsibilities of [Instructor Trainers](h
 * Oversee changes to Instructor checkout requirements
 
 ### What powers belong to the Core Team?
-* Propose changes to Trainer Certification Renewal
+* Propose changes to Trainer Certification Renewal Process
 * Accept Instructor Trainer applicants
 * Accept Open Instructor Training applicants
 * Award group scholarships for Instructor Training seats or events
