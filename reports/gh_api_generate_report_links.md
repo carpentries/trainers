@@ -13,6 +13,7 @@ kernelspec:
 
 ```{code-cell} ipython3
 import pandas as pd
+from datetime import datetime
 ```
 
 URL to use GH API and query trainer repository for all issues, both open and closed up to the maximum (100)
@@ -22,6 +23,7 @@ trainer_issues_url = 'https://api.github.com/repos/carpentries/trainers/issues?p
 ```
 
 read them into a dataframe
+
 ```{code-cell} ipython3
 df_r = pd.read_json(trainer_issues_url)
 ```
@@ -30,14 +32,8 @@ df_r = pd.read_json(trainer_issues_url)
 df_r.head()
 ```
 
-```{code-cell} ipython3
-df_r.columns
-```
+unpack the columns that have json objects in them still
 
-```{code-cell} ipython3
-df_r.loc[0]
-```
-unpack the columns that have json objects inthem still
 ```{code-cell} ipython3
 unpack_cols = ['user','pull_request','reactions','labels']
 #
@@ -58,7 +54,9 @@ df_r.shape
 ```{code-cell} ipython3
 df.columns
 ```
+
 the label columns are still objects, unpack those more
+
 ```{code-cell} ipython3
 label_cols = ['labels_0','labels_1']
 #
@@ -70,40 +68,65 @@ df = pd.concat([df]+label_cols,axis=1)
 ```{code-cell} ipython3
 df.columns
 ```
-create filters
+
+create filters for the proposals and approved
+
 ```{code-cell} ipython3
 approved = df['labels_1_name']=='approved'
 proposal = df['labels_0_name']=='Proposal'
 ```
+
 create subsets of the issues
+
 ```{code-cell} ipython3
 df_approved = df[approved]
 df_proposal = df[proposal]
 ```
+
 add a column to the approved dataframes with a link to their page
+
 ```{code-cell} ipython3
 mdlink = lambda r: '['+ r['title'] + ']('+ r['html_url'] + ')'
 df_approved['md'] = df_approved.apply(mdlink,axis=1)
 ```
 
+add a column with teh body of the proposal
+
+```{code-cell} ipython3
+mdlink_body = lambda r: '['+ r['title'] + ']('+ r['html_url'] + ')\n' +r['body']
+df_approved['md_body'] = df_approved.apply(mdlink_body,axis=1)
+```
+
 print them out for use in the report
+
 ```{code-cell} ipython3
 for approved_t in df_approved['md']:
     print(approved_t)
 ```
 
 ```{code-cell} ipython3
-df_proposal = df[proposal]
-df_proposal['md'] = df_proposal.apply(mdlink,axis=1)
-df_open = df_proposal[df_proposal['labels_1_name']!='approved']
+df_approved.loc[71]
 ```
 
 ```{code-cell} ipython3
+datetime(2021,9,1)
+```
 
+```{code-cell} ipython3
+df_approved['closed_at'][26] > datetime(2021,9,1)
+```
+
+```{code-cell} ipython3
+df_proposal = df[proposal]
+df_proposal['md'] = df_proposal.apply(mdlink,axis=1)
+df_active = df_proposal[df_proposal['labels_1_name']!='approved']
+```
+
+```{code-cell} ipython3
 for approved_t in df_open['md']:
     print(approved_t)
 ```
 
 ```{code-cell} ipython3
-
+df
 ```
