@@ -54,7 +54,7 @@ To initiate a major update, the maintainers will submit a proposal for approval 
   - timeline for notifiying the trainer community at large
   - how the process addressess challenges faced in previous major updates
 
-The process must include:
+The process must include, but is not limited to:
   - time for pilot teaching by trainers that are not maintainers, members of the leadership panel, or core team
   - at least two weeks of asynchronous feedback with notifications for all trainers
 
