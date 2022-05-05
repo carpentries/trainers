@@ -26,11 +26,9 @@ fulfills this role and solicits feedback from the whole community of trainers as
 
 PR Handling:
 - Patches may be merged by any maintainer without discussion. 
-- Minor changes can be merged by any maintainer who did not contribute to the PR or after discussion among maintainers.
+- Minor changes can be merged by any maintainer who did not contribute to the PR, after approval by another trainer, or after discussion among maintainers.
 - Changes to policy must be approved by the trainer leadership panel and linked to a proposal in that group. 
-- The Core Team curriculum team supports the list of starting points for teaching demonstrations. 
-- Maintainers may request using a trainer meeting to discuss proposals to the currciulum that 
-  represent a significant change.  
+- The Core Team curriculum team supports the list of starting points for teaching demonstrations.  
 - Organizational and structural changes follow the major update process below. 
 
 ## Maintainer Selection
@@ -75,6 +73,11 @@ Proposals for new starting points in issues will be tagged by the maintainers fo
 
 When a new official curriculum is introduced, the Curriculum Team will prepare a list of starting points to be added.
 In this circumstance, a member of the Curriculum Team will open a pull request to add the new starting points and tag the Instructor Training Maintenance Team for discussion and approval.
+
+### Using Trainer Meetings 
+
+Any instructor trainer may ask for a pause on a Pull Request if they think it deserves discussion at the next meeting. After the next meeting, the pause is immediately dropped unless there are strong reasons to the contrary.
+
 
 ### Maintainer Notes
 
