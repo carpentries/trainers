@@ -27,9 +27,7 @@ fulfills this role and solicits feedback from the whole community of trainers as
 PR Handling:
 - Patches may be merged by any maintainer without discussion. 
 - Minor changes can be merged by any maintainer who did not contribute to the PR, after approval by another trainer, or after discussion among maintainers.
-- Changes to policy must be approved by the trainer leadership panel and linked to a proposal in that group. 
-- The Core Team curriculum team supports the list of starting points for teaching demonstrations.  
-- Organizational and structural changes follow the major update process below. 
+- PRs for major major changes or that impact polciy are described in the special sections below. 
 
 ## Maintainer Selection
 
@@ -46,7 +44,7 @@ the existing maintainers with approval of the leadership panel.
 
 ## Special Maintance Procedures/Sections
 
-### Major updates and releases
+### Major Updates and Releases
 
 To initiate a major update, the maintainers will submit a proposal for approval to the leadership panel. 
   - technical workflow (after consultation with the Core Team Infratrastructure team)
@@ -62,21 +60,31 @@ Before a major update is merged, the maintainers submit a proposal to the leader
   - a summary of changes
   - the completed opportunities for community feedback
   - opportunities to improve the major update process for next time.  
-  
-### Starting Points for Teaching Demonstrations
 
-This page is maintained by the Curriculum team. 
+After a Major Update, a release will be issued in collaboration iwth the Core Team Infrastructure Team. 
+  
+### Policy and Starting Points for Teaching Demonstrations
+
+Some parts of the Instructor Training Curriculum cover policy, both Instructor Training and 
+general Carpentries Policy. General Policy changes that impact IT Curriculum will have PRs 
+submitted by the Core Team. 
+
+Instructor training related procedure and policy will go through the Trainer Leadership Panel. 
+The PR to the curriculum repository should be linked to a proposal by that group linking the panel
+approval to these changes. 
+
+The "Suggested Lessons for Teaching Demonstrations" page will be maintained by the Curriculum team. 
 Approved starting points shall be at the start of an episode and avoid dependencies. 
 Recommended changes to this page will be referred to the curriculum team for approval. 
-This group shall meet a minimum of 4 times per year to approve new starting points. 
 Proposals for new starting points in issues will be tagged by the maintainers for consideration by this group. 
 
 When a new official curriculum is introduced, the Curriculum Team will prepare a list of starting points to be added.
-In this circumstance, a member of the Curriculum Team will open a pull request to add the new starting points and tag the Instructor Training Maintenance Team for discussion and approval.
+In this circumstance, a member of the Curriculum Team will open a pull request to add the new starting points and tag the Instructor Training Maintenance Team for review and approval.
 
 ### Using Trainer Meetings 
 
 Any instructor trainer may ask for a pause on a Pull Request if they think it deserves discussion at the next meeting. After the next meeting, the pause is immediately dropped unless there are strong reasons to the contrary.
+
 
 
 ### Maintainer Notes
