@@ -40,28 +40,28 @@ At least one member of this group should be certified as a Carpentries Maintaine
 may be appointed prior to certification, but must take steps to complete that certification
 upon appointment.  The Trainers Leadership shall approve appointments to the maintainer 
 committee each year. Additional maintainers may be added at any time by recommendation of
-the existing maintainers with approval of the leadership panel. 
+the existing maintainers with approval of the Leadership Panel. 
 
 ## Special Maintance Procedures/Sections
 
 ### Major Updates and Releases
 
-To initiate a major update, the maintainers will submit a proposal for approval to the leadership panel. 
-  - technical workflow (after consultation with the Core Team Infratrastructure team)
+To initiate a major update, the maintainers will submit a proposal for approval to the Leadership Panel. 
+  - technical workflow (after consultation with the Core Team Infrastructure team)
   - scope
   - timeline for notifiying the trainer community at large
   - how the process addressess challenges faced in previous major updates
 
 The process must include, but is not limited to:
-  - time for pilot teaching by trainers that are not maintainers, members of the leadership panel, or core team
+  - time for pilot teaching by trainers that are not maintainers, members of the Leadership Panel, or Core Team
   - at least two weeks of asynchronous feedback with notifications for all trainers
 
-Before a major update is merged, the maintainers submit a proposal to the leadership panel that describes:
+Before a major update is merged, the maintainers submit a proposal to the Leadership Panel that describes:
   - a summary of changes
   - the completed opportunities for community feedback
   - opportunities to improve the major update process for next time.  
 
-After a Major Update, a release will be issued in collaboration iwth the Core Team Infrastructure Team. 
+After a major update, a release will be issued in collaboration with the Core Team Infrastructure Team. 
   
 ### Policy and Starting Points for Teaching Demonstrations
 
