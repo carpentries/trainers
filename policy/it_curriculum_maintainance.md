@@ -27,7 +27,7 @@ fulfills this role and solicits feedback from the whole community of trainers as
 PR Handling:
 - Patches may be merged by any maintainer without discussion. 
 - Minor changes can be merged by any maintainer who did not contribute to the PR, after approval by another trainer, or after discussion among maintainers.
-- PRs for major major changes or that impact polciy are described in the special sections below. 
+- PRs for major changes or that impact policy are described in the special sections below. 
 
 ## Maintainer Selection
 
