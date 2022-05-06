@@ -38,7 +38,7 @@ This group should consist of at least 3 people:
 
 At least one member of this group should be certified as a Carpentries Maintainer, trainers
 may be appointed prior to certification, but must take steps to complete that certification
-upon appointment.  The Trainers leadership shall approve appointments to the maintainer 
+upon appointment.  The Trainers Leadership shall approve appointments to the maintainer 
 committee each year. Additional maintainers may be added at any time by recommendation of
 the existing maintainers with approval of the leadership panel. 
 
