@@ -10,7 +10,7 @@ In our first term as trainers leadership, we worked mostly on organizational mat
 <!-- #region -->
 ## Certification Renewal
 
-With the community, we agreed to and got approved a replacement to the trainer agreement.  The new certificaiton renewal makes it clear that the participation requirement is a requirement to remain a badged trainer, not a commitment of future service.  This took a lot of collaboration with the DIT and revision and substantial trainer community feedback to achieve. After approving the general Renewal process for the long term, we approved the 2022 specific Implementation to provide a clear and transparent community governed process that the Core team leads. 
+With the community, we agreed to and got approved a replacement to the trainer agreement.  The new certification renewal makes it clear that the participation requirement is a requirement to remain a badged trainer, not a commitment of future service.  This took a lot of collaboration with the Director of Instructor Training and revision and substantial trainer community feedback to achieve. After approving the general Renewal process for the long term, we approved the 2022 specific Implementation to provide a clear and transparent community governed process that the Core team leads. 
 
 
 - [Trainer Certification Renewal (to replace Trainer Agreement)](https://github.com/carpentries/trainers/issues/143)
