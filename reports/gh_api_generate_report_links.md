@@ -13,13 +13,14 @@ kernelspec:
 
 ```{code-cell} ipython3
 import pandas as pd
-from datetime import datetime
+from datetime import datetime, timezone
 ```
 
-URL to use GH API and query trainer repository for all issues, both open and closed up to the maximum (100)
+URL to use GH API and query trainer repository for all issues and PRs, both open and closed up to the maximum (100)
 
 ```{code-cell} ipython3
 trainer_issues_url = 'https://api.github.com/repos/carpentries/trainers/issues?per_page=100&state=all'
+trainer_pr_url = 'https://api.github.com/repos/carpentries/trainers/issues?per_page=100&state=all'
 ```
 
 read them into a dataframe
@@ -102,31 +103,4 @@ print them out for use in the report
 ```{code-cell} ipython3
 for approved_t in df_approved['md']:
     print(approved_t)
-```
-
-```{code-cell} ipython3
-df_approved.loc[71]
-```
-
-```{code-cell} ipython3
-datetime(2021,9,1)
-```
-
-```{code-cell} ipython3
-df_approved['closed_at'][26] > datetime(2021,9,1)
-```
-
-```{code-cell} ipython3
-df_proposal = df[proposal]
-df_proposal['md'] = df_proposal.apply(mdlink,axis=1)
-df_active = df_proposal[df_proposal['labels_1_name']!='approved']
-```
-
-```{code-cell} ipython3
-for approved_t in df_open['md']:
-    print(approved_t)
-```
-
-```{code-cell} ipython3
-df
 ```
