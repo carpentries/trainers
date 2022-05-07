@@ -87,9 +87,6 @@ Any instructor trainer may ask for a pause on a Pull Request if they think it de
 
 
 
-### Maintainer Notes
-
-how/where additional information is documented (ie addresses IT/1173)
 
 ## Approval and Ratification
 
