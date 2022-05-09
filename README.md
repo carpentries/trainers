@@ -24,8 +24,8 @@ The elected leadership panel governs operates according to their [meeting rules]
 
 Elected members of Leadership as of March, 2022 are:
 - Sarah Brown 
-- Jeff Oliver 
-- Mark Crowe
+- Jeff Oliver (secretary)
+- Mark Crowe (chair)
 - Bonny Adane Bayissa
 - Paola Corrales
 
