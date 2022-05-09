@@ -37,7 +37,7 @@ This document details the powers and responsibilities of [Instructor Trainers](h
 ## Responsibilities
 
 ### What responsibilities belong to the Trainer community?
-* Specified in [Certification Renewal Process](https://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html#certification-renewal-process), formely known as [Trainer Agreement](https://github.com/carpentries/docs.carpentries.org/blob/11d31e22a52c1347d8eb36dad0298d266cdfa485/topic_folders/instructor_training/duties_agreement.md)
+* Specified in [Certification Renewal Process](https://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html#certification-renewal-process), formerly known as [Trainer Agreement](https://github.com/carpentries/docs.carpentries.org/blob/11d31e22a52c1347d8eb36dad0298d266cdfa485/topic_folders/instructor_training/duties_agreement.md)
 
 ### What responsibilities belong to Leadership?
 * Recruit and approve nominees to serve in elected and appointed community roles
