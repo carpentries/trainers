@@ -29,7 +29,6 @@ Elected members of Leadership as of March, 2022 are:
 - Bonny Adane Bayissa
 - Paola Corrales
 
-2022 Chair and Secretary are currently to be decided
 
 ## 2022 Meeting Schedule
 
