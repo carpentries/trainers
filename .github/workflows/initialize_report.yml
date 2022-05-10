@@ -13,6 +13,11 @@ jobs:
       with:
         python-version: 3.8
 
+    # install dependencies
+    - name: dependencies
+       run: |
+        pip install pandas
+
     # generate the report
     - name: Generate report
       run: python reports/get_links.py
