@@ -2,7 +2,7 @@ on:
   workflow_dispatch
 
 jobs:
-  check-contents:
+  generatereport:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
@@ -15,11 +15,13 @@ jobs:
 
     # install dependencies
     - name: dependencies
-       run: pip install pandas
+      run: pip install pandas
 
     # generate the report
     - name: Generate report
-      run: python reports/get_links.py
+      run: |
+        cd reports/
+        python get_links.py
 
     # start a pull request for it
     - name: Create Pull Request
