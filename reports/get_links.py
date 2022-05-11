@@ -1,7 +1,7 @@
 import pandas as pd
 from datetime import date
 
-
+# Contact for issues: @brownsarahm, smb@sarahmbrown.org
 
 def get_links():
     '''
