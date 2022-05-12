@@ -47,6 +47,8 @@ def get_links():
     df_approved = df[approved]
     df_proposal = df[proposal]
 
+    # add a column with markdown formatted links by applying a small
+    #  function (a lambda function) to each row (axis=1) 
     mdlink = lambda r: '['+ r['title'] + ']('+ r['html_url'] + ')'
     df_approved['md'] = df_approved.apply(mdlink,axis=1)
 
