@@ -10,7 +10,7 @@ body:
   - type: textarea
     id: intro
     attributes:
-      label:Introduce the topic
+      label: Introduce the topic
       description: describe how the topic would be introduced for the trainer meeting including and background
     validations:
       required: true
