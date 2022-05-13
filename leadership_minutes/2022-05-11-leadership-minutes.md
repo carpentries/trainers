@@ -118,7 +118,7 @@ Absent: Bonny
     - Jeff: might as well start using this and see how it works
     - Mark: we are not going to submit for other people unless they really 
     don't want to?
-    - [Revise trainer community responsibilities](https://github.com/carpentries/trainers/issues/184)
+9. [Revise trainer community responsibilities](https://github.com/carpentries/trainers/issues/184)
     - Trainer community responsibilities initially referred to renewal 
     requirements which were comprehensive. Now just meeting 1,2, and 4 but 
     other responsibilities like teaching our curriculum are missing. Need to be 
@@ -140,7 +140,7 @@ Absent: Bonny
     - Mark: in this case it is really just putting back something that was in 
     there. Anything else to do on this for now?
     - Sarah: need to think and craft some actual language.
-9. Other [issues](https://github.com/carpentries/trainers/issues?q=is%3Aopen+is%3Aissue+label%3AProposal+label%3Aapproved) 
+10. Other [issues](https://github.com/carpentries/trainers/issues?q=is%3Aopen+is%3Aissue+label%3AProposal+label%3Aapproved) 
 and [PRs](https://github.com/carpentries/trainers/pulls)
     - [EC report process](https://github.com/carpentries/trainers/issues/168) 
     can be closed or left open until [PR](https://github.com/carpentries/trainers/pull/178) 
