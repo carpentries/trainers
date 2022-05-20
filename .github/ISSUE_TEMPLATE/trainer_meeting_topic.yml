@@ -20,8 +20,9 @@ body:
       label: Which trainer meeting time would you host?
       description: you may select both or none to say that you do not want to host the topic
       options:
-        - Meeting 1 (UTC 14:00)
-        - Meeting 2 (UTC 22:00
+        - label: Meeting 1 (UTC 14:00)
+        - label: Meeting 2 (UTC 22:00)
+        - label: other (explain below)
   - type: textarea
     id: scheduling
     attributes:
