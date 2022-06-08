@@ -1,7 +1,8 @@
 name: Template for Trainer Meeting Topics
 description: Suggest a topic for a trainer meeting
-title: "[Trainer Meeting]:  a short topic "
+title: "[Trainer Meeting]:  a short title "
 labels: ["trainermeeting"]
+assignees: karenword
 body:
   - type: markdown
     attributes:
@@ -11,7 +12,7 @@ body:
     id: title
     attributes:
       label: A short title
-      description: a short title for your meeting topic
+      description: a short title for your meeting topic, this may be the same as the issue title
     validations:
       required: true
   - type: textarea
