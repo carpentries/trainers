@@ -7,11 +7,18 @@ body:
     attributes:
       value: |
        Thanks for contributing a topic!
+  - type: input
+    id: title
+    attributes:
+      label: A short title
+      description: a short title for your meeting topic
+    validations:
+      required: true
   - type: textarea
     id: intro
     attributes:
       label: Introduce the topic
-      description: describe how the topic would be introduced for the trainer meeting including and background
+      description: describe how the topic would be introduced for the trainer meeting including any background
     validations:
       required: true
   - type: checkboxes
