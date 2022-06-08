@@ -22,6 +22,7 @@ body:
       options:
         - label: Meeting 1 (UTC 14:00)
         - label: Meeting 2 (UTC 22:00)
+        - label: None
         - label: other (explain below)
   - type: textarea
     id: scheduling
