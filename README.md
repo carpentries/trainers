@@ -53,9 +53,8 @@ May 19 (As Needed)
 Jun 2 (Primary) - pre/post discussion  
 Jun 16 (As Needed)  
 Jul 7 (Primary) - pre/post discussion  
-Jul 21 (As Needed)  
-Aug 4 (Primary) - pre/post discussion  
-Aug 18 (As Needed)  
+Jul 21 (As Needed)   
+Aug 18 (Primary) - pre/post discussion
 Sep 1 (Primary) - pre/post discussion  
 Sep 15 (As Needed)  
 Oct 6 (Primary) - pre/post discussion  
