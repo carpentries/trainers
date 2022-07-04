@@ -1,0 +1,41 @@
+name: Template for Trainer Meeting Topics
+description: Suggest a topic for a trainer meeting
+title: "[Trainer Meeting]:  a short title "
+labels: ["trainermeeting"]
+assignees: karenword
+body:
+  - type: markdown
+    attributes:
+      value: |
+       Thanks for contributing a topic!
+  - type: input
+    id: title
+    attributes:
+      label: A short title
+      description: a short title for your meeting topic, this may be the same as the issue title
+    validations:
+      required: true
+  - type: textarea
+    id: intro
+    attributes:
+      label: Introduce the topic
+      description: describe how the topic would be introduced for the trainer meeting including any background
+    validations:
+      required: true
+  - type: checkboxes
+    id: time
+    attributes:
+      label: Which trainer meeting time would you host?
+      description: you may select both or none to say that you do not want to host the topic
+      options:
+        - label: Meeting 1 (UTC 14:00)
+        - label: Meeting 2 (UTC 22:00)
+        - label: None
+        - label: other (explain below)
+  - type: textarea
+    id: scheduling
+    attributes:
+      label: Are there any scheduling concerns? 
+      description: this may include timeliness of the topic or limits on your ability to host the meeting
+    validations:
+      required: true
