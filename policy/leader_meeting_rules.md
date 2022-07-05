@@ -29,7 +29,10 @@ to date.
     item to the group.
 
 4.  After the sponsor presents the proposal, a sense vote is cast for the
-    proposal prior to any discussion:
+    proposal prior to any discussion. If quorum is met, the vote can be done 
+    synchronously. If quorum is not met, the vote would be taken asynchronously 
+    through the GitHub issue conversation. Positions on the proposal are:
+    
     -   Who likes the proposal?
     -   Who can live with the proposal?
     -   Who is uncomfortable with the proposal?
