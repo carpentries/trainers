@@ -25,12 +25,12 @@ body:
   - type: checkboxes
     id: time
     attributes:
-      label: Which trainer meeting time would you host?
+      label: If you would like to host, which trainer meeting time would you host?
       description: you may select both or none to say that you do not want to host the topic
       options:
         - label: Meeting 1 (UTC 14:00)
         - label: Meeting 2 (UTC 22:00)
-        - label: None
+        - label: I do not want to host
         - label: other (explain below)
   - type: textarea
     id: scheduling
