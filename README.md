@@ -19,7 +19,7 @@ Active and Alumni members who have agreed to public listing are identified on Th
 
 ## Governance
 
-The trainer community self governs as per the [governance](governance.md) document. As of March 2021 this governance remains provisional pending approval by The Carpentries Executive Council.
+The trainer community self governs as per the [governance](governance.md) document. This group is approved by The Carpentries Executive Council as of [date-text](link to minutes).
 The elected leadership panel governs operates according to their [meeting rules](policy/leader_meeting_rules.md).
 
 Elected members of Leadership as of March, 2022 are:
