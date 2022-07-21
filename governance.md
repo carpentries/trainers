@@ -14,7 +14,7 @@ The authority and associated responsibilities proposed for this governing Commit
 
 ## Membership
 
-* Five (5) voting members
+* Five (5) voting members, listed on the [README of the trainers repo](README.md)
 	* Instructor Trainer with Active badge status
 	* Carpentries Core Team members are not eligible
 	* term is for one year
