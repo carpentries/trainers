@@ -10,7 +10,7 @@ This is the first of two public documents detailing the role of the proposed Tra
 * Provide guidance and feedback as it relates to policies and procedures with respect to instructor training
 
 ## Powers and Responsibilities
-The authority and associated responsibilities proposed for this governing Committee, as distinct from the [Trainers](https://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html) group as a whole and [The Carpentries Core Team](https://carpentries.org/team/), are outlined in [this document](https://github.com/carpentries/trainers/blob/master/powers_responsibilities.md).
+The authority and associated responsibilities proposed for this governing Committee, as distinct from the [Trainers](https://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html) group as a whole and [The Carpentries Core Team](https://carpentries.org/team/), are outlined in [the Powers and Responsibilies document in the trainers repository](powers_responsibilities.md).
 
 ## Membership
 
