@@ -33,12 +33,12 @@ PR Handling:
 
 This group should consist of at least 3 people:
 - 1 designated member of The Carpentries Core Team
-- 1 member of Trainers Leadership
+- 1 member of the Trainers Leadership Committee
 - 1 additional Trainer
 
 At least one member of this group should be certified as a Carpentries Maintainer, trainers
 may be appointed prior to certification, but must take steps to complete that certification
-upon appointment.  The Trainers Leadership shall approve appointments to the maintainer 
+upon appointment.  The Trainers Leadership Committee shall approve appointments to the maintainer 
 committee each year. Additional maintainers may be added at any time by recommendation of
 the existing maintainers with approval of the Leadership Panel. 
 
@@ -85,11 +85,7 @@ In this circumstance, a member of the Curriculum Team will open a pull request t
 
 Any instructor trainer may ask for a pause on a Pull Request if they think it deserves discussion at the next meeting. After the next meeting, the pause is immediately dropped unless there are strong reasons to the contrary.
 
-
-
-
 ## Approval and Ratification
 
 This policy may be updated by approval of the Trainer leadership panel after a two week comment period by the trainer community at large. 
   
-

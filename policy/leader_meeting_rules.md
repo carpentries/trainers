@@ -1,6 +1,6 @@
 # Governance: Martha's Rules
 
-The trainer leadership panel uses [Martha's Rules][marthas-rules] for making decisions.  The
+The Trainers Leadership Committee uses [Martha's Rules][marthas-rules] for making decisions.  The
 first section below describes these rules; the second lists voting members of
 the project and explains how to become one, while the third lists decisions made
 to date.
@@ -69,26 +69,26 @@ to date.
 
 ## Recording Decisions
 
-
 Accepted proposals will be linked to in the associated meeting minutes. Proposals may involve adding resources to this repository, these proposals' issues should be closed when the the pull request for the addition is merged.  For proposals that do not involve adding resources, they may be closed when otherwise acted upon. 
 
-## Leadership Panel Meeting Minutes
+## Trainers Leadership Committee Meeting Minutes
 
-Meeting minutes will be added as a pull request by a submitter (secretary or delegate) and all members of the panel will review and approve the pull request.  The minutes will be merged for record after all voting members have approved the current version, any member who was not last to approve or Core Team members may merge minutes. If a month has elapsed after the most recent approval, and no further discussions on the meeting have been raised, any leadership member or Core Team member may merge minutes.
+Meeting minutes will be added as a pull request by a submitter (secretary or delegate) and all members of the panel will review and approve the pull request.  The minutes will be merged for record after all voting members have approved the current version, any member who was not last to approve or Core Team members may merge minutes. If a month has elapsed after the most recent approval, and no further discussions on the meeting have been raised, any Trainers Leadership Committee Member or Core Team member may merge minutes.
 
 ## Specific Minutes Sharing Procedure
 
 - Proposals for upcoming meetings will be submitted as issues in the public trainers repository, and are always viewable by everyone
-- Meeting minutes will be taken in a private space that is limited to Trainer Leadership
+- Meeting minutes will be taken in a private space that is limited to the Trainer Leadership Committee
 - During each meeting, as topics are discussed the group will decide if the upcoming topic should be redacted. If so, notes will not be recorded. Meeting minutes will be briefly discussed at the end of each meeting to determine if further redactions are needed
 - the Secretary will make a Pull request to the public trainers repository with the public meeting notes
 - Approval/edits of the minutes by Trainers Leadership will proceed from there 
 
-Important notes:
+### Important notes:
+
 - Unredacted minutes will never be posted to GitHub
-- Names of Trainer Leadership (who said what) will not be redacted
+- Trainers Leadership Committee Member names (who said what) will not be redacted
 - Names and identifying details of non-Leadership persons under discussion will sometimes be redacted. 
 - Content associated with names and identifying details of non-Leadership persons under discussion will sometimes be redacted.
    - Redactions will only be made for identifying information that may adversely affect the person under discussion. This includes but is not necessarily limited to: Trainers Application decisions and recruitment decisions. Conversations that feature a great deal of identifying information may be redacted in full as in `<trainer applications were discussed>`
-- Trainer Leadership is not *required* to redact identifying information in cases where the benefit to disclosing that information to the Trainer Community would outweigh any negatives, such as offering congratulations. 
+- The Trainers Leadership Committee is not *required* to redact identifying information in cases where the benefit to disclosing that information to the Trainer Community would outweigh any negatives, such as offering congratulations. 
 - This procedure is subject to any applicable Carpentries privacy policies, and in cases where they conflict the Carpentries Privacy Polices always take precedence.
