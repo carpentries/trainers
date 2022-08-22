@@ -51,7 +51,7 @@ September meeting dates
     - Mark: What other things can be counted towards renewal?
     - Jeff: What other data do the Carpentries have easily available?
     - Karen: Also need to address the term "automatic"; other than Core team
-    - Mark: maybe community meetings can substitute for Trainer meetings
+    - Mark: maybe locally-coordinated meetings with other Trainers can substitute for attendance at the main monthly Trainer meetings
     - Could add more checkboxes for community-level involvement
     - Mark: can help increase response rate, with ease of filling it out
     - Mark: is there a process for folks who want to move from alumni status to 
