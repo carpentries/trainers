@@ -22,7 +22,6 @@ September meeting dates
         - Inactivated = changed to alumni status
         - 9 inactivated for non-response
         - 3 inactivated by request
-        - Kari's request for inactivation is on hold
         - 5 extensions to Sept 1 for non-response (have been active)
         - 4 extensions for not scheduling a meeting after form submission
         - Future thoughts
@@ -51,7 +50,8 @@ September meeting dates
     - Mark: What other things can be counted towards renewal?
     - Jeff: What other data do the Carpentries have easily available?
     - Karen: Also need to address the term "automatic"; other than Core team
-    - Mark: maybe locally-coordinated meetings with other Trainers can substitute for attendance at the main monthly Trainer meetings
+    - Mark: maybe locally-coordinated meetings with other Trainers can 
+    substitute for attendance at the main monthly Trainer meetings
     - Could add more checkboxes for community-level involvement
     - Mark: can help increase response rate, with ease of filling it out
     - Mark: is there a process for folks who want to move from alumni status to 
