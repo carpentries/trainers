@@ -31,6 +31,9 @@ Absent:
         cohesive after. 
         - Pao: the [proposal for a trainer meeting guide](https://github.com/carpentries/trainers/issues/201) will go there?
         - Karen: yes, it will be one of them
+    - Low feedback scores from an event: thinking about follow-up
+        - Karen: do we need a policy for how to deal with this? 
+        - Mark: maybe reach out and ask if there was anything unusual
 2. Actions from last meeting
     - Blog post about trainer renewal process
         - Presented to Core Team https://docs.google.com/presentation/d/1QnUT0ylRJShN5CDEzPHIbaXrEtNfKkiSCa7tDtfRmIM/edit?usp=sharing 
@@ -68,10 +71,7 @@ Absent:
     - The [Leadership Committee rules](https://github.com/carpentries/trainers/blob/main/governance.md#removal) 
     state "If a Member consistently fails to meet the obligations outlined 
     above, they may be removed by a unanimous vote of the other Members". 
-4. Low feedback scores from an event: thinking about follow-up
-    - Karen: do we need a policy for how to deal with this? 
-    - Mark: maybe reach out and ask if there was anything unusual
-5. Process to volunteer to host a Trainer meeting
+4. Process to volunteer to host a Trainer meeting
     - sarah: could duplicate the form but then how do we link meeting to 
     topics? Could make pre/post discussion as issues and people could sign up 
     on those to host, and if an additional topic gets proposed they could 
@@ -87,7 +87,7 @@ Absent:
     - Mark & Bonny: like
     - Pao & Sarah: can live with
     - Karen will add to Etherpad
-6. Approved proposals updates
+5. Approved proposals updates
     - [Use consistent naming for Trainers Leadership Committee](https://github.com/carpentries/trainers/issues/193)
             - Replied on GitHub should be closed soon.
         - Review [IT Curriculum Maintenance Policy](https://github.com/carpentries/trainers/blob/main/policy/it_curriculum_maintainance.md) 
@@ -100,5 +100,5 @@ Absent:
         working on it.
     - [Implementation proposal for Certification Renewal](https://github.com/carpentries/trainers/issues/167)
         - Karen will comment on the issue when final renewal is complete
-7. Proposals in progress 
+6. Proposals in progress 
     - [DRAFT: revise trainer community responsibilities](https://github.com/carpentries/trainers/issues/184)
