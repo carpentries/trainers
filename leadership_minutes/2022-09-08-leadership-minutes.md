@@ -14,7 +14,7 @@ Absent:
         assessment record, think we should not make it available to community.
         - Mark: what will the recording be used for
         - Karen: for Kelly's reference only
-        - Sarah, and Pao agree to not recording
+        - Sarah, and Pao agree to not sharing recording
         - topic approved and noted as scheduled
         - Kelly will host both meetings
     - AMY updates to badge vs role
