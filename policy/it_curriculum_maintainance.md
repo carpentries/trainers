@@ -5,7 +5,7 @@ Because this curriculum is taught by a select group of individuals and serves as
 instructors who teach other curricula for The Carpentries, maintainance of the IT curriculum involves
 a greater number of stakeholders.  
 
-The IT curriculum does not have a standard Curriculum Advisory Committee. Instead an elected leadership panel
+The IT curriculum does not have a standard Curriculum Advisory Committee. Instead the Trainers Leadership Committee
 fulfills this role and solicits feedback from the whole community of trainers as needed. 
 
 ## Definitions 
@@ -40,23 +40,23 @@ At least one member of this group should be certified as a Carpentries Maintaine
 may be appointed prior to certification, but must take steps to complete that certification
 upon appointment.  The Trainers Leadership Committee shall approve appointments to the maintainer 
 committee each year. Additional maintainers may be added at any time by recommendation of
-the existing maintainers with approval of the Leadership Panel. 
+the existing maintainers with approval of the Trainers Leadership Committee. 
 
 ## Special Maintance Procedures/Sections
 
 ### Major Updates and Releases
 
-To initiate a major update, the maintainers will submit a proposal for approval to the Leadership Panel. 
+To initiate a major update, the maintainers will submit a proposal for approval to the Trainers Leadership Committee. 
   - technical workflow (after consultation with the Core Team Infrastructure team)
   - scope
   - timeline for notifiying the trainer community at large
   - how the process addressess challenges faced in previous major updates
 
 The process must include, but is not limited to:
-  - time for pilot teaching by trainers that are not maintainers, members of the Leadership Panel, or Core Team
+  - time for pilot teaching by trainers that are not maintainers, members of the Trainers Leadership Committee, or Core Team
   - at least two weeks of asynchronous feedback with notifications for all trainers
 
-Before a major update is merged, the maintainers submit a proposal to the Leadership Panel that describes:
+Before a major update is merged, the maintainers submit a proposal to the Trainers Leadership Committee that describes:
   - a summary of changes
   - the completed opportunities for community feedback
   - opportunities to improve the major update process for next time.  
@@ -69,8 +69,8 @@ Some parts of the Instructor Training Curriculum cover policy, both Instructor T
 general Carpentries Policy. General Policy changes that impact IT Curriculum will have PRs 
 submitted by the Core Team. 
 
-Instructor training related procedure and policy will go through the Trainer Leadership Panel. 
-The PR to the curriculum repository should be linked to a proposal by that group linking the panel
+Instructor training related procedure and policy will go through the Trainers Leadership Committee. 
+The PR to the curriculum repository should be linked to a proposal by that group linking the Trainers Leadership Committee
 approval to these changes. 
 
 The "Suggested Lessons for Teaching Demonstrations" page will be maintained by the Curriculum team. 
@@ -87,5 +87,5 @@ Any instructor trainer may ask for a pause on a Pull Request if they think it de
 
 ## Approval and Ratification
 
-This policy may be updated by approval of the Trainer leadership panel after a two week comment period by the trainer community at large. 
+This policy may be updated by approval of the Trainers Leadership Committee after a two week comment period by the trainer community at large. 
   
