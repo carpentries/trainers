@@ -1,4 +1,4 @@
-# Trainer Leadership Committee 
+# Trainers Leadership Committee 
 
 Proposal date: November 18, 2020
 Updated: January 11, 2021
@@ -20,10 +20,10 @@ The authority and associated responsibilities proposed for this governing Commit
 	* term is for one year
 	* term limit of three (3) consecutive years
 * Chairperson
-	* elected by the committee members at the first meeting after elections
+	* elected by the Committee members at the first meeting after elections
 	* term is for one year, no limit beyond standard term limits
 * Secretary
-	* elected by the committee members at the first meeting after elections
+	* elected by the Committee members at the first meeting after elections
 	* term is for one year, no limit beyond standard term limits 
 
 
@@ -41,7 +41,7 @@ The authority and associated responsibilities proposed for this governing Commit
 * Leadership
 * Moderator of meetings
 * with secretary, set agendas and distribute min 24 hours before meetings
-* serve as representative to Executive committee meetings
+* serve as representative to Executive Council meetings
 * compose written update to Executive Council every 6 months
 * create/update public-facing page with Committee information as described in [The Carpentries Committee Policy](https://docs.carpentries.org/topic_folders/governance/committee-policy.html)
 
@@ -101,4 +101,3 @@ or abstain) and 75% of the votes in favor. New documentation goes into effect im
 If a Member consistently fails to meet the obligations outlined above, they may be removed by a unanimous vote of the other Members. A vote to remove a Member 
 must be announced in writing (in the meeting agenda) to all Members at least ten days in advance to vote on the removal. A vacated seat will be filled following 
 the procedure outlined in the Nominations and Elections section.
-

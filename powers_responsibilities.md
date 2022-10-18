@@ -1,16 +1,16 @@
-This document details the powers and responsibilities of [Instructor Trainers](https://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html), elected [Leadership for the Trainer community](https://github.com/carpentries/trainers/blob/main/governance.md), and [The Carpentries Core Team](https://carpentries.org/team/). This is the second of two public documents detailing the role of the proposed Trainers Leadership Committee.
+This document details the powers and responsibilities of [Instructor Trainers](https://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html), elected [Trainers Leadership Committee](https://github.com/carpentries/trainers/blob/main/governance.md), and [The Carpentries Core Team](https://carpentries.org/team/). This is the second of two public documents detailing the role of the Trainers Leadership Committee.
 
 ## Powers
 
 ### What powers belong to the Trainer community?
 * Ratify Trainer Certification Renewal Process 
-* Elect Leadership committee
+* Elect Trainers Leadership Committee
 * Ratify initial governance structure?
-* Communicate with Trainers, Leadership committee & Core Team
+* Communicate with Trainers, Trainers Leadership Committee & Core Team
 * Set agenda for Trainer meetings
 * Volunteer or nominate Trainers for elected and appointed roles
 
-### What powers belong to Leadership?
+### What powers belong to the Trainers Leadership Committee?
 * Interpret [Trainer Certification Renewal Participation Requirements](https://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html#participation-requirements)
 * Propose changes to Trainer Certification Renewal Process
 * Rank Instructor Trainer applicants 
@@ -39,7 +39,7 @@ This document details the powers and responsibilities of [Instructor Trainers](h
 ### What responsibilities belong to the Trainer community?
 * Specified in [Certification Renewal Process](https://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html#certification-renewal-process), formerly known as [Trainer Agreement](https://github.com/carpentries/docs.carpentries.org/blob/11d31e22a52c1347d8eb36dad0298d266cdfa485/topic_folders/instructor_training/duties_agreement.md)
 
-### What responsibilities belong to Leadership?
+### What responsibilities belong to the Trainers Leadership Committee?
 * Recruit and approve nominees to serve in elected and appointed community roles
 * Ensure that key community roles are filled, including
 * Trainer meeting leads
@@ -51,7 +51,7 @@ This document details the powers and responsibilities of [Instructor Trainers](h
 
 
 ### What responsibilities belong to the Core Team?
-* Leadership responsibilities, should Leadership fail to fulfill them
+* Leadership responsibilities, should the Trainers Leadership Committee fail to fulfill them
 * Process Instructor Trainer applications
 * Process Open Instructor Training applications
 * Offer Instructor Training workshop seats to members and accepted Open applicants
@@ -59,5 +59,5 @@ This document details the powers and responsibilities of [Instructor Trainers](h
 * Recruit & schedule Trainers to host Teaching Demonstrations
 * Recruit & schedule Trainers to teach Instructor Training events & bonus modules
 * Administer Instructor Training events and Bonus Modules
-* Respond to inquiries and requests made by Trainers & Leadership
+* Respond to inquiries and requests made by Trainers & Trainers Leadership Committee
 * Report and release data pursuant to Carpentries policies as well as local and global privacy regulations

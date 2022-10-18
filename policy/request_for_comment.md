@@ -1,6 +1,6 @@
 # Requests for Comments
 
-The trainers leadership will use an RFC process for actions related to:
+The Trainers Leadership Committee will use an RFC process for actions related to:
 - Propose changes to Trainer Certification Renewal process
 - Establishing Task Forces and Subcommittees within Trainers group
 - Changing to Instructor checkout requirements
@@ -11,7 +11,9 @@ When this occurs, they will:
   1. Notify the trainer community via mailing list and Slack
   1. Use a trainer meeting for a discussion
   
-The RFC process must allow at least 2 weeks for comments from the trainer community, including at least 48 hours after the trainer meeting that is used for the process. 
+The RFC process must allow at least 2 weeks for comments from the Trainer 
+community, including at least 48 hours after the trainer meeting that is used 
+for the process. 
 
 The RFC will include the following information at a minimum: 
 ```

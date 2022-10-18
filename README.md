@@ -19,10 +19,10 @@ Active and Alumni members who have agreed to public listing are identified on Th
 
 ## Governance
 
-The trainer community self governs as per the [governance](governance.md) document. This group is approved by The Carpentries Executive Council as of [May 9, 2022](https://github.com/carpentries/executive-council-info/blob/main/minutes/2022/EC-minutes-2022-05-09-Q2.md).
-The elected leadership panel governs operates according to their [meeting rules](policy/leader_meeting_rules.md).
+The trainer community self governs as per the [governance](governance.md) document. This Committee is approved by The Carpentries Executive Council as of [May 9, 2022](https://github.com/carpentries/executive-council-info/blob/main/minutes/2022/EC-minutes-2022-05-09-Q2.md).
+The elected Trainers Leadership Committee governs operates according to their [meeting rules](policy/leader_meeting_rules.md).
 
-Elected members of Leadership as of March, 2022 are:
+Elected members of the Trainers Leadership Committee as of March, 2022 are:
 - Sarah Brown 
 - Jeff Oliver (secretary)
 - Mark Crowe (chair)
@@ -41,7 +41,7 @@ think a short discussion (during a standard meeting after pre/post workshop conv
   
 Primary meetings are always held; "As Needed" meetings are held only if there is a scheduled topic for that day. 
 If you would like to propose cancellation of a scheduled meeting due to holidays or other widespread conflicts, please submit an [Issue](https://github.com/carpentries/trainers/issues) 
-with this request for consideration by Trainers Leadership or send an [email](mailto: instructor.training@carpentries.org) to The Carpentries Core Team.
+with this request for consideration by the Trainers Leadership Committee or send an [email](mailto: instructor.training@carpentries.org) to The Carpentries Core Team.
 
 Jan 20 (Primary, delayed from Jan 6)  
 Feb 3 - Elections (meet candidates, discuss issues, etc)  
