@@ -15,7 +15,7 @@ We want to encourage more Trainers to submit topics for discussion at Trainer me
 
 ## Trainer Certification Renewal
 
-We worked with the Director of Instructor Training to develop and implement an updated and partly-automated process for Trainer status renewal. As a result of this update, 35% of trainers who were due for renewal retained Active status automatically from data within AMY, without any need to provide input themselves. A further 35% were renewed on review by the Committee and the Director of Instructor Training, based on activities self-reported through an updated questionnaire. Only 30% required further follow-up, of whom fewer than half turned out to be active and contactable anyway.
+We worked with the Director of Instructor Training to develop and implement an updated and partly-automated process for Trainer status renewal. As a result of this update, 35% of trainers who were due for renewal retained Active status automatically from data within AMY, without any need to provide input themselves. A further 35% were renewed on review by the Committee and the Director of Instructor Training, based on activities self-reported through an updated questionnaire. Only 30% required further follow-up; of these, over half were transferred to Alumni (non-active) Trainer status anyway, either at their own request or because they were not contactable or did not respond to messages.
 
 As part of the review process, we identifed additional criteria which will be used to further increase the number of fully automatic renewals in future, and we made improvements to the self-certification questionnaire which should reduce the number of cases requiring follow-up.
 
