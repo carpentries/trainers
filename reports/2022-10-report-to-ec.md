@@ -5,29 +5,32 @@
 <!-- #region -->
 
  - [Develop "Trainer Meeting Guide" ](https://github.com/carpentries/trainers/issues/201)
+ 
+ We developed a GitHub-based system for submission of topics to for discussion at Trainer Meetings, and added functionality to assign meeting hosts to topics and dates through this system. 
+ - [Use this repo's issue list for potential Trainer Meeting topics](https://github.com/carpentries/trainers/issues/180)
  - [Use a Table-style Project on this repo for trainer meeting topic assignment](https://github.com/carpentries/trainers/issues/181)
- - [Use this repo's issue list also for potential Trainer Meeting topics](https://github.com/carpentries/trainers/issues/180)
 
 
-- [Use consistent naming for Trainers Leadership Committee](https://github.com/carpentries/trainers/issues/193)
+
  
 
  - [Rubric update and promotion plan for Open Instructor Training](https://github.com/carpentries/trainers/issues/172)
 
+We worked with the Director of Instructor Training to develop and implement an updated and partly automated process for Trainer status renewal. As a result of this update, 35% of trainers who were due for renewal retained Active status automatically from data within AMY and were not required to provide any data themselves. A further 35% were renewed on review by the Committee and the Director IT based on activities self-reported as part of the updated processed. Only 30% required further follow-up, of whom over half appear to be no longer active and/or contactable anyway.
+As part of the review process, additional criteria were identified which will further increase the number of fully automatic renewals in future, and improvements were made to the self-certification questionnaire which should reduce the number of cases requiring follow-up.
  - [Implementation proposal for Certification Renewal](https://github.com/carpentries/trainers/issues/167)
  
 
- - [Trainer Certification Renewal (to replace Trainer Agreement)](https://github.com/carpentries/trainers/issues/143)
- - [Proposal to approve 2021 curriculum update process (async)](https://github.com/carpentries/trainers/issues/141)
- - [Use 2nd November Trainer meeting for Maintenance related discussions](https://github.com/carpentries/trainers/issues/130)
- - [Trainers Agreement Update Process Working Group](https://github.com/carpentries/trainers/issues/106)
 
 ## Procedural Refinement
 
+We formally assigned the task of writing biannual Executive Committee reports to the Committee chair, and implemented GitHub automation to assist this process
  - [March 2022 EC Report process](https://github.com/carpentries/trainers/issues/168)
-We formalised the process for voting on proposals asynchronously in the event that a quorum was not met at a Committee meeting
+ - [Script & action to initialize report with links](https://github.com/carpentries/trainers/pull/187)
+We formalised the process for reaching a quorum for voting on proposals, agreeing that if a quorum is not reached at the meeting itself, proposals will be voted on asynchronously using GitHub issue comments. 
  - [Provide clarity on relevance of quorum for Trainers Leadership meetings](https://github.com/carpentries/trainers/issues/164)
- - [Update leadership minutes approval process](https://github.com/carpentries/trainers/issues/132) 
+We are recognised by the Executive Committee as a Carpentries Committee, but legacy references remained in the Carpentries repository and Handbooks with a variety of other titles. All such references which could be identified were updated so that the roles and responsibilities of the committee are unambigously provided in Carpentries information resources.
+ - [Use consistent naming for Trainers Leadership Committee](https://github.com/carpentries/trainers/issues/193)
  
  <!-- #endregion -->
 
