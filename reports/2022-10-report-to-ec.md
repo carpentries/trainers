@@ -17,7 +17,7 @@ We want to encourage more Trainers to submit topics for discussion at Trainer me
 
 We worked with the Director of Instructor Training to develop and implement an updated and partly-automated process for Trainer status renewal. As a result of this update, 35% of trainers who were due for renewal retained Active status automatically from data within AMY, without any need to provide input themselves. A further 35% were renewed on review by the Committee and the Director of Instructor Training, based on activities self-reported through an updated questionnaire. Only 30% required further follow-up; of these, over half were transferred to Alumni (non-active) Trainer status anyway, either at their own request or because they were not contactable or did not respond to messages.
 
-As part of the review process, we identifed additional criteria which will be used to further increase the number of fully automatic renewals in future, and we made improvements to the self-certification questionnaire which should reduce the number of cases requiring follow-up.
+As part of the review process, we identified additional criteria which will be used to further increase the number of fully automatic renewals in future, and we made improvements to the self-certification questionnaire which should reduce the number of cases requiring follow-up.
 
  - [Implementation proposal for Certification Renewal](https://github.com/carpentries/trainers/issues/167)
 
@@ -33,14 +33,14 @@ To encourage more Instructors to teach centrally-organised workshops, we approve
 
 ## Procedural Refinement
 
-We formally assigned the task of writing biannual Executive Committee reports to the Committee chair, and implemented GitHub automation to assist this process
+We formally assigned the task of writing biannual Executive Council reports to the Committee chair, and implemented GitHub automation to assist this process
  - [March 2022 EC Report process](https://github.com/carpentries/trainers/issues/168)
  - [Script & action to initialize report with links](https://github.com/carpentries/trainers/pull/187)
 
 We formalised the process for reaching a quorum for voting on proposals, agreeing that if a quorum is not reached at the meeting itself, proposals will be voted on asynchronously using GitHub issue comments. 
  - [Provide clarity on relevance of quorum for Trainers Leadership meetings](https://github.com/carpentries/trainers/issues/164)
 
-We are recognised by the Executive Committee as a Carpentries Committee, but legacy references remained in the Carpentries repository and Handbooks with a variety of other titles. All such references which could be identified were updated so that the roles and responsibilities of the committee are unambigously provided in Carpentries information resources.
+We are recognised by the Executive Council as a Carpentries Committee, but legacy references remained in the Carpentries repository and Handbooks with a variety of other titles. All such references which could be identified were updated so that the roles and responsibilities of the committee are unambiguously provided in Carpentries information resources.
  - [Use consistent naming for Trainers Leadership Committee](https://github.com/carpentries/trainers/issues/193)
  
  <!-- #endregion -->
