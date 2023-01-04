@@ -17,7 +17,8 @@ This document details the powers and responsibilities of [Instructor Trainers](h
 * Rank Instructor Trainer applicants 
 * Set schedule for Trainer meetings
 * Establish Task Forces and Subcommittees within Trainers group
-* Propose and implement documentation changes do not require ratification by the Trainer community 
+* Propose documentation changes for ratification by the Trainer community (see above) 
+* Propose and implement documentation changes that do not require ratification by the Trainer community
 * Propose changes to Core Team policies and procedures related to Instructor Training
 * Propose changes to other community practices related to Instructor Training (e.g. Maintainers)
 * Oversee changes to Instructor Training curriculum
@@ -40,17 +41,17 @@ This document details the powers and responsibilities of [Instructor Trainers](h
 ## Responsibilities
 
 ### Code of Conduct
-* All members of The Carpentries community must abide by The Carpentries Code of Conduct.
+* All members of The Carpentries community must abide by [The Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
 
 ### What responsibilities belong to the Trainer community?
-* Requirements for maintaining Active status as a Trainer are detailed in the [Handbook](https://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html#certification-renewal-process)
+* Expectations for maintaining Active status as a Trainer are detailed in the [Handbook](https://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html#certification-renewal-process)
 
 ### What responsibilities belong to the Trainers Leadership Committee?
 * Recruit and approve nominees to serve in elected and appointed community roles
 * Ensure that key community roles are filled, including
-* Trainer meeting leads
-* Curriculum maintainers
-* Application review 
+     * Trainer meeting leads
+     * Curriculum maintainers
+     * Application reviewers for Trainer Training
 * Create, assess and maintain application scoring rubric for Instructor Trainers, Open Instructor Training and group seats/events
 * Respond to inquiries and requests made by Trainers
 * Maintain communication with Trainers, Core Team, Executive Council, and other Carpentries communities as appropriate, including regular reports to the Trainer community.
