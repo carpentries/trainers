@@ -3,9 +3,10 @@ This document details the powers and responsibilities of [Instructor Trainers](h
 ## Powers
 
 ### What powers belong to the Trainer community?
-* Ratify documentation changes that substantially:
-     * change requirements or process for maintaining Active status as a Trainer
+* Ratify documentation changes that:
+     * substantially change requirements or process for maintaining Active status as a Trainer
      * reduce or re-assign powers that belong to the Trainer community
+     * are requested for ratification by an active Trainer
 * Elect Trainers Leadership Committee
 * Communicate with Trainers, Trainers Leadership Committee & Core Team
 * Set agenda for Trainer meetings
@@ -17,6 +18,7 @@ This document details the powers and responsibilities of [Instructor Trainers](h
 * Rank Instructor Trainer applicants 
 * Set schedule for Trainer meetings
 * Establish Task Forces and Subcommittees within Trainers group
+* Propose and implement documentation changes do not require ratification by the Trainer community 
 * Propose changes to Core Team policies and procedures related to Instructor Training
 * Propose changes to other community practices related to Instructor Training (e.g. Maintainers)
 * Oversee changes to Instructor Training curriculum
