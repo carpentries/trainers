@@ -6,7 +6,6 @@ This document details the powers and responsibilities of [Instructor Trainers](h
 * Ratify documentation changes that:
      * substantially change requirements or process for maintaining Active status as a Trainer
      * reduce or re-assign powers that belong to the Trainer community
-     * are requested for ratification by an active Trainer
 * Elect Trainers Leadership Committee
 * Communicate with Trainers, Trainers Leadership Committee & Core Team
 * Set agenda for Trainer meetings
@@ -44,7 +43,7 @@ This document details the powers and responsibilities of [Instructor Trainers](h
 * All members of The Carpentries community must abide by The Carpentries Code of Conduct.
 
 ### What responsibilities belong to the Trainer community?
-* * Requirements for maintaining Active status as a Trainer are detailed in the [Handbook](https://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html#certification-renewal-process)
+* Requirements for maintaining Active status as a Trainer are detailed in the [Handbook](https://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html#certification-renewal-process)
 
 ### What responsibilities belong to the Trainers Leadership Committee?
 * Recruit and approve nominees to serve in elected and appointed community roles
