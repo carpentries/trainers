@@ -85,13 +85,14 @@ To make changes:
 
 
 1. The trainer community should be notified one week prior to a regularly scheduled 
-trainer meeting that the meeting topic will be changes to trainer governance. The 
+trainer meeting that the meeting topic will include changes to trainer governance. The 
 notification must include the changes to be discussed and an asynchronous means for
 engagement.
 1. After the dedicated meeting, an additional one week to comment and propose revisions
 to the change. 
-1. After the two week comment period, final documentation will be submitted to The Carpentries Executive Council for approval.
-1. Once approved by the Executive Council, proposal moves to a vote among all trainers.
+1. After the two week comment period, changes will be enacted if ratification is not required.
+1. If ratification is required, proposal moves to a vote among all Trainers.
+1. All documentation changes will be submitted to the Executive Council with regular required reports. Any requested changes will be processed as above.
 
 A proposal is adopted with a quorum of 60% of Active badged Trainers voting (for,against, 
 or abstain) and 75% of the votes in favor. New documentation goes into effect immediately upon approval. 
