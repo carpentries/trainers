@@ -4,8 +4,11 @@ This document details the powers and responsibilities of [Instructor Trainers](h
 
 ### What powers belong to the Trainer community?
 * Ratify documentation changes that:
-     * substantially change requirements or process for maintaining Active status as a Trainer
+     * change requirements or process for maintaining Active status as a Trainer
      * reduce or re-assign powers that belong to the Trainer community
+     * are requested for ratification by any active Trainer
+     * for more on ratification, see [governance documentation](governance.md)
+     
 * Elect Trainers Leadership Committee
 * Communicate with Trainers, Trainers Leadership Committee & Core Team
 * Set agenda for Trainer meetings
@@ -20,7 +23,7 @@ This document details the powers and responsibilities of [Instructor Trainers](h
 * Propose documentation changes for ratification by the Trainer community (see above) 
 * Propose and implement documentation changes that do not require ratification by the Trainer community
 * Propose changes to Core Team policies and procedures related to Instructor Training
-* Propose changes to other community practices related to Instructor Training (e.g. Maintainers)
+* Propose changes to policies or practices governed by other subcommunities' leadership that affect Instructor Training (e.g. Maintainers responses to checkout contributions)
 * Oversee changes to Instructor Training curriculum
 * Oversee changes to Instructor checkout requirements
 * Oversee changes to criteria for ranking Open Instructor Training applicants and selection of groups for Sponsored Instructor Training
@@ -32,11 +35,11 @@ This document details the powers and responsibilities of [Instructor Trainers](h
 * Accept Open Instructor Training applicants
 * Award sponsored Instructor Training seats or events to groups
 * Approve Instructor Training events
-* Public outreach, fundraising, and other public-facing activities to be conducted under The Carpentries brand 
-* Communications with member organisations, including negotiation of additional responsibilities for Trainers serving in the context of a Member Agreement
-* Data collection, assessment, and database management pursuant to local and global privacy regulations
-* Certifying Trainers
-* Implementing Active status renewal and changes to or from Alumni status for Trainers
+* Conduct public outreach, fundraising, and other public-facing activities to be conducted under The Carpentries brand 
+* Communicate with member organisations, including negotiation of additional responsibilities for Trainers serving in the context of a Member Agreement
+* Perform Data collection, assessment, and database management pursuant to local and global privacy regulations
+* Certify Trainers
+* Implement Active status renewal and changes to or from Alumni status for Trainers
 
 ## Responsibilities
 
