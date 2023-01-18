@@ -114,7 +114,9 @@ The most important part is that it is a committee of people working together for
 
 #### Eric Jankowski
 
-1. Helping helpers! 2. Letting the election go forward! 3. Learning from, and contributing my computational teaching perspective with the brightest, most inclusive group of helpers I know. 
+1. Helping helpers! 
+2. Letting the election go forward! 
+3. Learning from, and contributing my computational teaching perspective with the brightest, most inclusive group of helpers I know. 
 
 And 4. with varying bandwidth for running trainings, I'm also a little enticed by it counting for trainer recertification. 
 
