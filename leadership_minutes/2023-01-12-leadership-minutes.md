@@ -17,7 +17,7 @@ Absent: Mark, Bonny
         - Action item: Karen will revise both PRs, submit as issues in GitHub 
         repo and request review from Leadership. Hopefully tomorrow. Submit 
         draft PR to handbook.
-    - [Spreadsheet tracking these and other to-do's](https://docs.google.com/spreadsheets/d/1LRa0zL32jk8OE2HfsmMrxAljokZJE_rINt-hKRFUn9Y/edit?usp=sharing)
+    - Spreadsheet tracking these and other to-do's (Link redacted)
         - should all of these be issues?
 2. Updates & questions re checkout project implementation
     - 4 projects: core implementation, demos scheduling, technical solutions to 
