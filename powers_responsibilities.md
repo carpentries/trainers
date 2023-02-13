@@ -3,48 +3,58 @@ This document details the powers and responsibilities of [Instructor Trainers](h
 ## Powers
 
 ### What powers belong to the Trainer community?
-* Ratify Trainer Certification Renewal Process 
+* Ratify documentation changes that:
+     * change requirements or process for maintaining Active status as a Trainer
+     * reduce or re-assign powers that belong to the Trainer community
+     * are requested for ratification by any active Trainer
+     * for more on ratification, see [governance documentation](governance.md)
+     
 * Elect Trainers Leadership Committee
-* Ratify initial governance structure?
 * Communicate with Trainers, Trainers Leadership Committee & Core Team
 * Set agenda for Trainer meetings
 * Volunteer or nominate Trainers for elected and appointed roles
+* Propose changes to policy or documentation to be considered by Trainers Leadership
 
 ### What powers belong to the Trainers Leadership Committee?
-* Interpret [Trainer Certification Renewal Participation Requirements](https://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html#participation-requirements)
-* Propose changes to Trainer Certification Renewal Process
+* Interpret requirements for maintaining Active status as a Trainer, including determination of "equivalent activities" to renew via participation
 * Rank Instructor Trainer applicants 
-* Rank Open Instructor Training applicants 
-* Rank applications for group scholarship Instructor Training seats or events
 * Set schedule for Trainer meetings
 * Establish Task Forces and Subcommittees within Trainers group
+* Propose documentation changes for ratification by the Trainer community (see above) 
+* Propose and implement documentation changes that do not require ratification by the Trainer community
 * Propose changes to Core Team policies and procedures related to Instructor Training
-* Propose changes to other community practices related to Instructor Training (e.g. Maintainers or Instructor Development)
+* Propose changes to policies or practices governed by other subcommunities' leadership that affect Instructor Training (e.g. Maintainers responses to checkout contributions)
 * Oversee changes to Instructor Training curriculum
 * Oversee changes to Instructor checkout requirements
+* Oversee changes to criteria for ranking Open Instructor Training applicants and selection of groups for Sponsored Instructor Training
+
 
 ### What powers belong to the Core Team?
-* Propose changes to Trainer Certification Renewal Process
+* Propose changes to policy or documentation to be considered by Trainers Leadership
 * Accept Instructor Trainer applicants
 * Accept Open Instructor Training applicants
-* Award group scholarships for Instructor Training seats or events
+* Award sponsored Instructor Training seats or events to groups
 * Approve Instructor Training events
-* Public outreach, fundraising, and other public-facing activities to be conducted under The Carpentries brand (with approval from the EC)
-* Member organisation communications, including negotiation of responsibilities for Trainers serving in the context of a Member Agreement
-* Data collection, assessment, and database management pursuant to local and global privacy regulations
-* Badging & inactivating Trainers
+* Conduct public outreach, fundraising, and other public-facing activities to be conducted under The Carpentries brand 
+* Communicate with member organisations, including negotiation of additional responsibilities for Trainers serving in the context of a Member Agreement
+* Perform Data collection, assessment, and database management pursuant to local and global privacy regulations
+* Certify Trainers
+* Implement Active status renewal and changes to or from Alumni status for Trainers
 
 ## Responsibilities
 
+### Code of Conduct
+* All members of The Carpentries community must abide by [The Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
+
 ### What responsibilities belong to the Trainer community?
-* Specified in [Certification Renewal Process](https://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html#certification-renewal-process), formerly known as [Trainer Agreement](https://github.com/carpentries/docs.carpentries.org/blob/11d31e22a52c1347d8eb36dad0298d266cdfa485/topic_folders/instructor_training/duties_agreement.md)
+* Expectations for maintaining Active status as a Trainer are detailed in the [Handbook](https://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html#certification-renewal-process)
 
 ### What responsibilities belong to the Trainers Leadership Committee?
 * Recruit and approve nominees to serve in elected and appointed community roles
 * Ensure that key community roles are filled, including
-* Trainer meeting leads
-* Curriculum maintainers
-* Application review 
+     * Trainer meeting leads
+     * Curriculum maintainers
+     * Application reviewers for Trainer Training
 * Create, assess and maintain application scoring rubric for Instructor Trainers, Open Instructor Training and group seats/events
 * Respond to inquiries and requests made by Trainers
 * Maintain communication with Trainers, Core Team, Executive Council, and other Carpentries communities as appropriate, including regular reports to the Trainer community.
@@ -52,12 +62,12 @@ This document details the powers and responsibilities of [Instructor Trainers](h
 
 ### What responsibilities belong to the Core Team?
 * Leadership responsibilities, should the Trainers Leadership Committee fail to fulfill them
-* Process Instructor Trainer applications
-* Process Open Instructor Training applications
-* Offer Instructor Training workshop seats to members and accepted Open applicants
-* Process group scholarship Instructor Training applications
+* Process Trainer applications
+* Process Open Instructor Training and group sponsorship applications
+* Offer Instructor Training seats to members, accepted applicants, and sponsored groups
 * Recruit & schedule Trainers to host Teaching Demonstrations
-* Recruit & schedule Trainers to teach Instructor Training events & bonus modules
-* Administer Instructor Training events and Bonus Modules
+* Recruit & schedule Trainers to teach Instructor Training events 
+* Administer Instructor Training events
 * Respond to inquiries and requests made by Trainers & Trainers Leadership Committee
 * Report and release data pursuant to Carpentries policies as well as local and global privacy regulations
+* Support the Trainers Leadership Committee in fulfilling essential responsibilities, taking action as needed to ensure that necessary work is accomplished
