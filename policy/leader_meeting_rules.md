@@ -57,10 +57,10 @@ to date.
 
 1.  The following people are currently voting members of this project:
     -   Mark Crowe
-    -   Jeff Oliver
-    -   Sarah Brown
     -   Paola Corrales
-    -   Bonny Adane Bayissa
+    -   Trisha Adamus
+    -   Annajiat Alim Rasel
+    -   Nathaniel Porter
 
 2.  To become a voting member:
     1.  [Members must be elected](https://github.com/carpentries/trainers/blob/main/governance.md#nominations-and-elections)
