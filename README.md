@@ -22,8 +22,8 @@ Active and Alumni members who have agreed to public listing are identified on Th
 The trainer community self governs as per the [governance](governance.md) document. This Committee is approved by The Carpentries Executive Council as of [May 9, 2022](https://github.com/carpentries/executive-council-info/blob/main/minutes/2022/EC-minutes-2022-05-09-Q2.md).
 The elected Trainers Leadership Committee governs operates according to their [meeting rules](policy/leader_meeting_rules.md).
 
-Elected members of the Trainers Leadership Committee as of March, 2022 are:
-- Mark Crowe (chair)
+Elected members of the Trainers Leadership Committee as of March, 2023 are:
+- Mark Crowe
 - Paola Corrales
 - Trisha Adamus
 - Annajiat Alim Rasel
