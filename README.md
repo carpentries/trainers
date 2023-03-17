@@ -23,14 +23,14 @@ The trainer community self governs as per the [governance](governance.md) docume
 The elected Trainers Leadership Committee governs operates according to their [meeting rules](policy/leader_meeting_rules.md).
 
 Elected members of the Trainers Leadership Committee as of March, 2022 are:
-- Sarah Brown 
-- Jeff Oliver (secretary)
 - Mark Crowe (chair)
-- Bonny Adane Bayissa
 - Paola Corrales
+- Trisha Adamus
+- Annajiat Alim Rasel
+- Nathaniel Porter
 
 
-## 2022 Meeting Schedule
+## 2023-4 Meeting Schedule
 
 Trainer Community meetings are open only to members of the Trainer community and invited guests. Meeting times are listed on the [Community Calendar](https://carpentries.org/community/#community-events). 
 Meeting topics may be proposed by any member of the community. Meeting topics may be proposed via this repository (ideally) or by [email](mailto: instructor.training@carpentries.org). 
@@ -43,23 +43,27 @@ Primary meetings are always held; "As Needed" meetings are held only if there is
 If you would like to propose cancellation of a scheduled meeting due to holidays or other widespread conflicts, please submit an [Issue](https://github.com/carpentries/trainers/issues) 
 with this request for consideration by the Trainers Leadership Committee or send an [email](mailto: instructor.training@carpentries.org) to The Carpentries Core Team.
 
-Jan 20 (Primary, delayed from Jan 6)  
-Feb 3 - Elections (meet candidates, discuss issues, etc)  
-Mar 3 (Primary) - pre/post discussion  
-Apr 7 (Primary) - pre/post discussion  
-Apr 21 (As Needed)  
-May 5 (Primary) - pre/post discussion  
-May 19 (As Needed)  
-Jun 2 (Primary) - pre/post discussion  
-Jun 16 (As Needed)  
-Jul 7 (Primary) - pre/post discussion  
-Jul 21 (As Needed)   
-Aug 18 (Primary) - pre/post discussion
-Sep 1 (Primary) - pre/post discussion  
-Sep 15 (As Needed)  
-Oct 6 (Primary) - pre/post discussion  
-Oct 20 (As Needed)  
-Nov 3 (Primary) - pre/post discussion  
-Nov 17 (As Needed)  
-Dec 1 (Primary) - pre/post discussion  
-Dec 15 (As Needed)  
+Apr 7 (Primary) - pre/post discussion 
+Apr 21 (As Needed)
+May 5 (Primary) - pre/post discussion
+May 19 (As Needed)
+Jun 2 (Primary) - pre/post discussion
+Jun 16 (As Needed)
+Jul 7 (Primary) - pre/post discussion
+Jul 21 (As Needed)
+Aug 4 (Primary) - pre/post discussion
+Aug 18 (As Needed)
+Sep 1 (Primary) - pre/post discussion
+Sep 15 (As Needed)
+Oct 6 (Primary) - pre/post discussion
+Oct 20 (As Needed)
+Nov 3 (Primary) - pre/post discussion
+Nov 17 (As Needed)
+Dec 1 (Primary) - pre/post discussion
+Dec 15 (As Needed)
+2024
+Jan 18 - Reserved for Leadership Elections
+Feb 1 (Primary)
+Feb 15 (As Needed)
+Mar 7 (Primary)
+Mar 21 (As Needed)
