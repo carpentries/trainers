@@ -27,7 +27,7 @@ Elected members of the Trainers Leadership Committee as of March, 2023 are:
 - Paola Corrales
 - Trisha Adamus
 - Annajiat Alim Rasel
-- Nathaniel Porter
+- Nathaniel Porter (secretary)
 
 
 ## 2023-4 Meeting Schedule
