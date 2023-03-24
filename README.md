@@ -23,7 +23,7 @@ The trainer community self governs as per the [governance](governance.md) docume
 The elected Trainers Leadership Committee operates according to their [meeting rules](policy/leader_meeting_rules.md).
 
 Elected members of the Trainers Leadership Committee as of March, 2023 are:
-- Mark Crowe
+- Mark Crowe (chair)
 - Paola Corrales
 - Trisha Adamus
 - Annajiat Alim Rasel
