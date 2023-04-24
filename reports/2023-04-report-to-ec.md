@@ -1,16 +1,29 @@
-# 2023-04-24
+# April 2023 Trainer Leadership Report to EC
 
-## summary
+## Summary
 
-## approved
+<!-- #region -->
 
-[Recommended Changes to Instructor Training Checkout ](https://github.com/carpentries/trainers/issues/226)
- - [Develop "Trainer Meeting Guide" ](https://github.com/carpentries/trainers/issues/201)
- - [Use consistent naming for Trainers Leadership Committee](https://github.com/carpentries/trainers/issues/193)
- - [Use a Table-style Project on this repo for trainer meeting topic assignment](https://github.com/carpentries/trainers/issues/181)
- - [Use this repo's issue list also for potential Trainer Meeting topics](https://github.com/carpentries/trainers/issues/180)
- - [Rubric update and promotion plan for Open Instructor Training](https://github.com/carpentries/trainers/issues/172)
- - [March 2022 EC Report process](https://github.com/carpentries/trainers/issues/168)
- - [Implementation proposal for Certification Renewal](https://github.com/carpentries/trainers/issues/167)
- - [Provide clarity on relevance of quorum for Trainers Leadership meetings](https://github.com/carpentries/trainers/issues/164)
- - [Trainer Certification Renewal (to replace Trainer Agreement)](https://github.com/carpentries/trainers/issues/143)
+## Changes to Instructor Checkout
+
+One of the key roles of the Trainer Leadership Committee is to "Oversee changes to Instructor checkout requirements". In late 2022 members of the Core Team led a project to review the Instructor Checkout process for the first time in nearly five years. In particular, the review focussed on what the community considered to be the purpose of Checkout, and whether there were requirements that could be changed or removed to reduce the dropout rate of Instructor trainees through the Checkout process. 
+
+The Trainer Leadership Committee worked closely with Kelly Barnes and Karen Word on this review, providing feedback on behalf of themselves and the Trainer community, and advising on communication activities to maximise community engagement and acceptance of review findings. Ultimately substantial changes were proposed for all aspect of the Checkout process, and the Committee continues to support Karen on the process, timelines and implementation of these changes.
+
+ - [Recommended Changes to Instructor Training Checkout ](https://github.com/carpentries/trainers/issues/226)
+ 
+ 
+ 
+ 
+ Meeting topics
+ 2023 meeting schedule
+ Leadership elections
+ Trainer certification renewal review ongoing
+ 
+ 
+  <!-- #endregion -->
+
+## Looking Forward 
+
+Update Trainer responsibilities
+Improve Trainer status renewal process
