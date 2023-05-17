@@ -16,7 +16,7 @@ The Trainer Leadership Committee worked closely with the Director of Assessment 
  
  ## Leadership elections
  
-Committee elections were held during the reporting period, with three of the 2022 committe opting not to stand for re-election; we thank these members (Sarah Brown, Jeff Oliver and Bonny Adane Bayissa) for their contributions to the committee. The outgoing committee assisted the Director of Instructor Training with coordination and communication around the election process, and reviewed ways to streamline the process for the following year.
+Committee elections were held during the reporting period, with three of the 2022 committee opting not to stand for re-election; we thank these members (Sarah Brown, Jeff Oliver and Bonny Adane Bayissa) for their contributions to the committee. The outgoing committee assisted the Director of Instructor Training with coordination and communication around the election process, and reviewed ways to streamline the process for the following year.
 
 ## Trainer certification renewal
 
