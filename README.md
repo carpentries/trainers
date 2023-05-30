@@ -43,27 +43,27 @@ Primary meetings are always held; "As Needed" meetings are held only if there is
 If you would like to propose cancellation of a scheduled meeting due to holidays or other widespread conflicts, please submit an [Issue](https://github.com/carpentries/trainers/issues) 
 with this request for consideration by the Trainers Leadership Committee or send an [email](mailto: instructor.training@carpentries.org) to The Carpentries Core Team.
 
-Apr 6 (Primary) - pre/post discussion 
-Apr 20 (As Needed)
-May 4 (Primary) - pre/post discussion
-May 18 (As Needed)
-Jun 1 (Primary) - pre/post discussion
-Jun 15 (As Needed)
-Jul 6 (Primary) - pre/post discussion
-Jul 20 (As Needed)
-Aug 3 (Primary) - pre/post discussion
-Aug 17 (As Needed)
-Sep 7 (Primary) - pre/post discussion
-Sep 21 (As Needed)
-Oct 5 (Primary) - pre/post discussion
-Oct 19 (As Needed)
-Nov 2 (Primary) - pre/post discussion
-Nov 16 (As Needed)
-Dec 7 (Primary) - pre/post discussion
-Dec 21 (As Needed)
-2024
-Jan 18 - Reserved for Leadership Elections
-Feb 1 (Primary)
-Feb 15 (As Needed)
-Mar 7 (Primary)
-Mar 21 (As Needed)
+Apr 6 (Primary) - pre/post discussion  
+Apr 20 (As Needed)  
+May 4 (Primary) - pre/post discussion  
+May 18 (As Needed)  
+Jun 1 (Primary) - pre/post discussion  
+Jun 15 (As Needed)  
+Jul 6 (Primary) - pre/post discussion  
+Jul 20 (As Needed)  
+Aug 3 (Primary) - pre/post discussion  
+Aug 17 (As Needed)  
+Sep 7 (Primary) - pre/post discussion  
+Sep 21 (As Needed)  
+Oct 5 (Primary) - pre/post discussion  
+Oct 19 (As Needed)  
+Nov 2 (Primary) - pre/post discussion. 
+Nov 16 (As Needed)  
+Dec 7 (Primary) - pre/post discussion. 
+Dec 21 (As Needed)  
+2024. 
+Jan 18 - Reserved for Leadership Elections  
+Feb 1 (Primary)  
+Feb 15 (As Needed)  
+Mar 7 (Primary)  
+Mar 21 (As Needed)  
