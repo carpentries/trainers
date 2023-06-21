@@ -47,7 +47,14 @@ This document details the powers and responsibilities of [Instructor Trainers](h
 * All members of The Carpentries community must abide by [The Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
 
 ### What responsibilities belong to the Trainer community?
-* Expectations for maintaining Active status as a Trainer are detailed in the [Handbook](https://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html#certification-renewal-process)
+* Follow the Code of Conduct (CoC) in all communications and interactions with The Carpentries community and promptly report any violations of the CoC.
+* Communicate The Carpentries community values to trainees and model that behaviour when teaching.
+* Provide a welcoming and supporting environment for trainees.
+* Model The Carpentries focus on active, participatory learning in Instructor Training.
+* Apply the principles used in The Carpentries workshops in other teaching contexts.
+* For Trainers wishing to retain Active status
+    * Renew Certification annually through participation or by meeting with the Core Team as detailed in the [Handbook](https://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html#certification-renewal-process).
+    * Respond to Quarterly Scheduling Polls.
 
 ### What responsibilities belong to the Trainers Leadership Committee?
 * Recruit and approve nominees to serve in elected and appointed community roles
