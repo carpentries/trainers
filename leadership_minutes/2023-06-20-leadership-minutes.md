@@ -26,6 +26,7 @@ Meeting rules: https://github.com/carpentries/trainers/blob/main/policy/leader_m
         - Maintainers
         - Institutional Members
         - Community List
+        - Not possible to systematically contact or point to local community leaders (per request at Trainer meeting) because we do not have a formal role or list for that currently.
 
 ### Leadership business
 - To be actioned
