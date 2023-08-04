@@ -9,7 +9,7 @@ Meeting rules: https://github.com/carpentries/trainers/blob/main/policy/leader_m
 ## Notes
 ### Core Team Update
 - Core Team Update
-  - Checkout project implementation scheduled for 7/24
+  - Checkout project implementation scheduled for 24 July
     - In progress: AMY updates 
       - Discussion -> Welcome
       - No change to demo
