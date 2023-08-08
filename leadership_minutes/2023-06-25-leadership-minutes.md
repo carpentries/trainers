@@ -1,4 +1,4 @@
-# Trainer Leadership Committee Meeting 2023-06-25 23:00 UTC
+# Trainer Leadership Committee Meeting 2023-07-25 23:00 UTC
 Meeting rules: https://github.com/carpentries/trainers/blob/main/policy/leader_meeting_rules.md
 
 ## Attendance
@@ -50,9 +50,9 @@ Meeting rules: https://github.com/carpentries/trainers/blob/main/policy/leader_m
   - [Checkout changes](https://github.com/carpentries/trainers/issues/226) - coming August 14
 - New proposals
   - [Fundamental beliefs example](https://github.com/carpentries/trainers/issues/260)
-    - Voting: 4 like, 1 abstention
+    - Voting (asynchronously 26 July - 5 August) : 4 like, 1 abstention
   - [Review-only status renewal for 2023](https://github.com/carpentries/trainers/issues/261)
-    - Voting: 4 like, 1 abstention
+    - Voting (asynchronously 26 July - 5 August) : 4 like, 1 abstention
 
 
 ## Next meeting
