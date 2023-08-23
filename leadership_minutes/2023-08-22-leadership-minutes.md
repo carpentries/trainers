@@ -20,8 +20,10 @@ Meeting rules: https://github.com/carpentries/trainers/blob/main/policy/leader_m
   - October review responses
 - Automation still planned for future (see [July minutes](https://github.com/carpentries/trainers/blob/main/leadership_minutes/2023-07-25-leadership-minutes.md))
 
-## Notes
+## Notes and ideas
 - We will make efforts to format dates using ISO (YYYY-MM-DD) or spelled out month (DD MON, YYYY), to avoid confusion related to differing standards for date format
+- Idea to consider alternate trainer meeting formats (such as shorter meetings or different meeting times) to make meetings more accessible was raised by Pao and encouraged
+  - Recommended creating an issue to discuss in future leadership meetings (needs volunteer as of 2023-08-23)
 
 ## Open issues
 - [Request from Maintainers about ‘age of Earth’](https://github.com/carpentries/trainers/issues/260) now closed
