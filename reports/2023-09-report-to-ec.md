@@ -2,6 +2,8 @@
 
 ## Summary
 
+This report covers the first six-month term of the 2023-24 Trainers Leadership Committee, a period during which significant change has occurred to Instructor Training through the update of the Instructor Checkout requirements. Despite the workload associated with that project, the Committee has also made good progress on a number of other issues, and continues to address Trainer engagement, training policy, and operational matters.
+
 ## Changes to Instructor Checkout
 
 Completion of the project to update Instructor Checkout requirements has been a major focus of the Trainer Leadership Committee during the report period. The Committee continued to worked closely with the Director of Instructor Training to finalise details of the updates, to identify tasks and requirements to be completed before implementation, to confirm timing and logistics of the change-over process, and to assist with communications to the Trainer community. The changes have now gone live, with widespread positive feedback, and the Committee would like to thank all involved in this process for their hard work in making this major project so successful.   
