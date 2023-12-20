@@ -62,8 +62,8 @@ Nov 16 (As Needed)
 Dec 7 (Primary) - pre/post discussion. 
 Dec 21 (As Needed)  
 2024. 
-Jan 18 - Reserved for Leadership Elections  
-Feb 1 (Primary)  
+Jan 18 (Primary) - pre/post discussion 
+Feb 1 - Reserved for Leadership elections  
 Feb 15 (As Needed)  
 Mar 7 (Primary)  
 Mar 21 (As Needed)  

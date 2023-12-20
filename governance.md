@@ -1,7 +1,7 @@
 # Trainers Leadership Committee 
 
-Proposal date: November 18, 2020
-Updated: January 11, 2021
+Created: November 18, 2020
+Updated: December 1, 2023
  
 This is the first of two public documents detailing the role of the proposed Trainers Leadership Committee, as required in [The Carpentries Committee Policy](https://docs.carpentries.org/topic_folders/governance/committee-policy.html). See Powers and Responsibilities, below, for the second document.
 
@@ -65,8 +65,8 @@ All [Instructor Trainers](https://docs.carpentries.org/topic_folders/instructor_
 New Members will be elected each year as vacancies occur. A general timeline for elections will occur annually as follows:
 * Mid November: The Core Team Liaison identifies a point of contact for the election. This person may be the Core Team Liaison or any Trainer not standing for election.
 * Early December: Elections announced, Self-nominations open
-* Mid January: Self-nominations close, entries posted, dedicated Trainer meeting held to introduce candidates
-* Late January: Trainers vote 
+* Late January: Self-nominations close, entries posted, dedicated Trainer meeting held to introduce candidates
+* Early February: Trainers vote 
 * March 1: Responsibility transferred to new Members
 
 If the seat of a Member becomes vacant after March 1 but before December 1, the Committee will attempt to fill the seat with a non-elected nominee from the most recent election, in the order of votes received. If this fails, the Committee may appoint any Active Trainer to fill the seat until the next election.
