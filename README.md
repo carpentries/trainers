@@ -50,23 +50,23 @@ Feb 1 - Reserved for Leadership elections
 Feb 15 (As Needed)  
 Mar 7 (Primary) - pre/post discussion
 Mar 21 (As Needed)  
-Apr 4 (Primary) - pre/post discussion 
-Apr 18 (As Needed)
-May 2 (Primary) - pre/post discussion
-May 16 (As Needed)
-June 6 (Primary) - pre/post discussion
-June 20 (As Needed)
-July 4 - TBD *Core Team availability limited due to US Holiday*
-July 18 (As Needed)
-Aug 1 (Primary) - pre/post discussion
-Aug 15 (As Needed)
-Sept 5 (Primary) - pre/post discussion
-Sept 19 (As Needed)
-Oct 3 (Primary) - pre/post discussion
-Oct 17 (As Needed)
-Nov 7 (Primary) - pre/post discussion
-Nov 21 (As Needed)
-Dec 5 (Primary) - pre/post discussion
-Dec 19 (As Needed)
+Apr 4 (Primary) - pre/post discussion  
+Apr 18 (As Needed)  
+May 2 (Primary) - pre/post discussion  
+May 16 (As Needed)  
+June 6 (Primary) - pre/post discussion  
+June 20 (As Needed)  
+July 4 - TBD *Core Team availability limited due to US Holiday*  
+July 18 (As Needed)  
+Aug 1 (Primary) - pre/post discussion  
+Aug 15 (As Needed)  
+Sept 5 (Primary) - pre/post discussion  
+Sept 19 (As Needed)  
+Oct 3 (Primary) - pre/post discussion  
+Oct 17 (As Needed)  
+Nov 7 (Primary) - pre/post discussion  
+Nov 21 (As Needed)  
+Dec 5 (Primary) - pre/post discussion  
+Dec 19 (As Needed)  
 
 
