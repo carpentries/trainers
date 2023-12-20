@@ -44,11 +44,11 @@ If you would like to propose cancellation of a scheduled meeting due to holidays
 with this request for consideration by the Trainers Leadership Committee or send an [email](mailto: instructor.training@carpentries.org) to The Carpentries Core Team.
 
 Dec 21 (As Needed)  
-2024. 
-Jan 18 (Primary) - pre/post discussion 
-Feb 1 - Reserved for Leadership elections  
-Feb 15 (As Needed)  
-Mar 7 (Primary) - pre/post discussion
+2024.   
+Jan 18 (Primary) - pre/post discussion   
+Feb 1 - Reserved for Leadership elections    
+Feb 15 (As Needed)   
+Mar 7 (Primary) - pre/post discussion  
 Mar 21 (As Needed)  
 Apr 4 (Primary) - pre/post discussion  
 Apr 18 (As Needed)  
