@@ -4,7 +4,7 @@ Annajiat Alim Rasel: Brac University, Bangladesh; annajiat
 
 Nathaniel Porter: Virginia Tech, USA; ndporter
 
-Sanjay Fuloria: IBS Hyderabad, India; sanjayfuloria
+Liz Stokes: Australian Research Data Commons, Australia; ragamouf
 
 Jon Wheeler: University of New Mexico, USA; jonathanwheeler01
 
@@ -24,9 +24,9 @@ Community Member, Learner, Volunteer for Pilot Workshops, Helper, Instructor (US
 I've been an instructor since 2020, trainer since 2021, and instructor training maintainer since 2022. I currently serve on the Trainer Leadership as secretary and as Maintainer Community Lead, and was co-chair of the Data Carpentry Social Science Curriculum Advisory Committee this year until stepping down to make room for maintainer leadership. Locally, I coordinate the Virginia Tech community of around 20 instructors, organizing around 10 workshops a year locally and teaching Software, Data, and Library Carpentry, in addition to a community of practice for our instructors. I'm currently working on designing new curriculum on open qualitative research, and have adapted Carpentries curriculum for a variety of other personal instructional needs.
 
 
-#### Sanjay Fuloria 
+#### Liz Stokes 
 
-30 workshops conducted
+Since 2022 I have coordinated a national partnership across Australia via a Carpentries membership through the Australian Research Data Commons. In 2023 with Nisha Ghatak I established regional community calls for Australia and Aotearoa New Zealand, giving insight into local needs and aspirations. I have also served as a Co-Chair for the Library Carpentry Advisory Group (2019-2022), and chaired the Library Carpentry Curriculum Advisory Committee (2022).
 
 
 #### Jon Wheeler
@@ -50,7 +50,7 @@ Yes
 
 Yes
 
-#### Sanjay Fuloria 
+#### Liz Stokes 
 
 No
 
@@ -85,9 +85,9 @@ To improve diversity and representation, making training and trainers adjusted t
 
 I've been involved in many aspects of the Carpentries, but leading and supporting instructor training is the most rewarding role I've found. I want to help ensure the continued vitality of instructor training and the community of trainers, even as we manage major changes to leadership.
 
-#### Sanjay Fuloria 
+#### Liz Stokes
 
-Public Service
+It’s a great opportunity to focus my care, enthusiasm and give back to the Trainer community! I’m also keen to provide Australian representation on the Committee, and during the organisational transition I see the Trainer Leadership Committee as a way to scaffold trusting networks across our community.
 
 #### Jon Wheeler
 
@@ -109,9 +109,10 @@ Different perspectives, lobbying for continuous lifelong learning and more frequ
 
 I bring experience in trainer leadership at a time when much is changing and most of the leadership is likely to turn over, as well as familiarity with a wide range of Carpentries roles and activities. My engagement as an instructor training maintainer is valuable to helping leadership in their role as curriculum advisors for instructor training. I also bring both instructional expertise, including research related to data pedagogy, and a variety of practical experience leading, designing, and coordinating workshops within and beyond the Carpentries. And past and current work with archives and open science nonprofits can provide insight into potential models to maintain and grow the size and effectiveness of our trainer community.
 
-#### Sanjay Fuloria 
+#### Liz Stokes
 
-Experience
+My substantive role at the ARDC is to support trainer and research communities across Australia. As a ‘professional boundary spanner’ I’m well placed to leverage my networks and communities to make meaningful connections and advocate for the Carpentries Trainer community. I would also bring enthusiasm, dedication, and a zest for robust, equitable practices that are people centred and support our broad and diverse community of Trainers. For example, I developed an Expression of Interest process and assessment rubric to coordinate the membership refresh of the Library Carpentry Advisory Group.
+
 
 #### Jon Wheeler
 
@@ -133,9 +134,9 @@ Trainer development and support systems
 
 I want to help leadership support the continued vitality of trainer training, in light of the departure of core team members who have provided the major support for that initiative. Additionally, I am interested in continuing to explore additional models for delivering instructor training that can expand our capacity particularly to reach underserved groups and ensure we are able to meet the continually increasing demand for workshops.
 
-#### Sanjay Fuloria 
+#### Liz Stokes 
 
--
+The importance of good succession planning for organisational sustainability cannot be overstated! As the Carpentries organisation transitions to nonprofit status, finding ways to build and nurture the trainer community is really important. I can use GitHub, I love to automate emails, and would happily throw myself into designing and maintaining support systems for Trainer engagement. 
 
 #### Jon Wheeler
 
@@ -156,9 +157,9 @@ Engaged with diverse set of teams in various capacities and bring in diverse exp
 
 I work best in asynchronous collaboration - particularly with tasks that help move projects forward through leading from behind. That is, I lead through supporting, advising, and equipping others to succeed. Additionally, being part of a large and diverse local instructor community with regular meetings to support each other helps me be aware of a range of challenges and concerns with both instructor training and workshop-related needs.
 
-#### Sanjay Fuloria 
+#### Liz Stokes
 
--
+My brain is a wellspring of creative ideas and opportunities for collaboration. My default mode is to bring people together and plan for harmonious participation. I am always looking out for how to do things better and what I need to learn to make it so! 
 
 #### Jon Wheeler
 
@@ -180,9 +181,9 @@ Professionally, I collaborate a lot of the work I'm involved in using git and se
 
 I've been privileged to serve on leadership this year and to be part of a community of such dedicated, passionate, and engaged leaders from around the world.
 
-#### Sanjay Fuloria 
+#### Liz Stokes
 
--
+One of my proudest moments volunteering for the Carpentries was to run a teaching demonstration for a group from the NASA DEVELOP program. The significance goes back to a story about my Dad, who as a young phone technician was involved as support in the NASA moon landing in 1969. The radio telescope near our small country town played a part in receiving the TV transmissions. When the folk from NASA came out to set things up, his boss sent him out to test noise on the line with a shot box. He could have had a flash new electronic white noise generator, but his boss had sent him out with a little wooden box full of aggregate. He was so embarrassed, that he curled his body around the box during the line testing so that no one could see this old fashioned technology! These days, he wipes away tears of laughter when he recounts his professional insecurity, while I’m tearing up inside! So it’s very special for me as a Trainer to facilitate a positive learning experience via The Carpentries pedagogy. Neither of my parents finished high school, and yet here I am, being part of this global scientific community that affirms my passion for teaching and skill sharing. I look forward to where we go together next.
 
 #### Jon Wheeler
 
