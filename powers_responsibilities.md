@@ -64,7 +64,7 @@ This document details the powers and responsibilities of [Instructor Trainers](h
      * Application reviewers for Trainer Training
 * Create, assess and maintain application scoring rubric for Instructor Trainers, Open Instructor Training and group seats/events
 * Respond to inquiries and requests made by Trainers
-* Maintain communication with Trainers, Core Team, Executive Council, and other Carpentries communities as appropriate, including regular reports to the Trainer community.
+* Maintain communication with Trainers, Core Team, Board of Directors, and other Carpentries communities as appropriate, including regular reports to the Trainer community.
 
 
 ### What responsibilities belong to the Core Team?
