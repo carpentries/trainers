@@ -1,0 +1,307 @@
+Trainer Meeting, 7 March 2024, UTC 14:00 
+See this link for your local time: https://www.timeanddate.com/worldclock/fixedtime.html?msg=Trainers+Meeting&iso=20240307T14&p1=1440 
+
+Training discussion (pre and post):
+
+    Mateusz taught with Aleks and David, our slide deck https://docs.google.com/presentation/d/1gnkhr55OdT6HwUDVGFaoRv1t4rYRSijVrHnbJSiI8qs/edit?usp=sharing
+
+
+
+Others attending:   
+
+     Mateusz Kuzak, he/him/his, Netherlands eScience Center
+
+    Angelique Trusler, The Carpentries 
+
+     Danielle Sieh, she/her/s, The Carpentries
+
+     Pao Corrales, she/her
+
+     Maneesha Sane 
+
+     Angela Li, she/her
+
+     Lisanna Paladin, she/they
+
+     Toby Hodges, he/him, The Carpentries
+
+    Annajiat Alim Rasel, Brac University
+
+    Jake Szamosi, McMaster University
+
+
+     
+
+Apologies
+
+    Aleks Nenadic, she/her, SSI UK, a.nenadic@software.ac.uk 
+
+
+Agenda:
+
+    Introductions
+
+    Name/pronouns, location, affiliation, what is the oldest condiment in your fridge/pantry
+
+    Pre/post discussion
+
+     Mateusz : Teach with David and Aleks. 
+
+     
+
+     
+
+    Announcements
+
+    Maneesha has sent out emails to schedule Q2 Instructor Trainings. Please be sure to confirm your availability 
+
+    Did not get as many responses as we normally would. It is important to get a response to know if trainers are available to teach. Out of 92 active trainers, 49 did not respond at all. 
+
+    Please be mindful of the polls - it's okay if you cannot teach, but please let us know via the poll. This lets us have a better sense of overall capacity.
+
+    Become an Editor for The Carpentries Lab: https://carpentries.org/blog/2024/02/support-curriculum-community-2024/
+
+    Is there a minimal commitment?
+
+    Estimate is 4-8 hours per review that is managed. Can be spread out over months, but bursts of activity within that. Don't have the requirements set to remain an editor at this time. 
+
+    Daylight Savings Time, Meeting Shift 
+
+    Questions:
+
+    Can we give a list of "do not choose these lessons" for demos to the Instructor training to deter people from choosing lessons that they shouldn't choose because they are not stable? LC Python particularly.
+
+    Lessons are mandatory, episodes can be in the "suggested" or in the "do not choose this" category
+
+    Could update in the welcome session
+
+    Last year many changes were made because of the checkout update. If it is not working it should be changed, we should open an issue and start a discussion. 
+
+    Changes made were primarily to tables in the Instructor training curriculum. Maybe could add something to the template of the etherpad to prompt them to check the criteria that is inegligable. 
+
+    Since there is one specific lesson that people are using, maybe thats a signal that it is a good/important lesson. 
+
+    We may not currently be that clear that there is a requirement that people use the specific lessons. 
+
+    It would be easy for people who aren't familiar with things to pick something from the extended curriculum. Making a change to the lesson pages themselves might help. Would need to consider an elegant solution because of the amount of people visiting those pages.
+
+    There is nothing on the episode itself that says its in beta or alpha mode. Would be useful as a flag. 
+
+    Next Steps: Pull request in the particular lesson. 
+
+    Adding a list of "do not use" lessons
+
+    Adjust our language
+
+    Add to the welcome session slides
+
+
+    Topic of the month - Using Instructor Training Website 
+
+    https://carpentries.slack.com/archives/C7A6ED1SA/p1706109150791669
+
+    How do you use the Instructor Training Website? Is it useful or are there other ways the information can be disseminated?
+
+    Can we poll the trainees to ask if they use it?
+
+    Could poll people at the begining of the training to find out if they used it, or we could stop using it for a year and find out if people complain or notice.
+
+    Mateusz: we point to it, but don't really use it, I don't think learners go to it. We use a collaborative document (codimd) and put all information there. We link to the webstite from the collaborative doc. but I don't think anyone goes there.
+
+    A lot of feedback that there is so much information and so many places the information can be found. Can be difficult/overwhelming for people who are new.  
+
+    The webpage itself doesnt give them everything they need. Use collaborative documentation to disseminate information and link out to the website, etc. 
+
+
+    Feature with general poll questions in the AMY profile to get feedback?
+
+    Can't do this now, but if there are other ways to get feedback that we aren't doing currently, please let us know. 
+
+    What ways are you getting information to the trainees outside of the Training Website?
+
+    Other thoughts:
+
+    Many trainees aren't filling out the application for their AMY profile. Would like to get the support of the trainers to encourage trainees to fill out the application so they can get their certification. 
+
+
+Collaborative document from one of our past Instructor Training https://codimd.carpentries.org/2023-10-31-ttt-day2 , it's anonymised now, so the full names of particpants have been removed, there are still first names in there
+
+Trainer Meeting 7 March 2024, UTC 23:00
+See this link for your local time: https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240307T23&p1=1440
+
+Training discussion (pre and post):
+
+
+
+
+Others attending:   
+
+     Liz Stokes, she/they ARDC, Sydney 
+
+     Murray Cadzow, University of Otago, NZ
+
+     Yani Bellini Saibene, rOpenSci, Argentina
+
+     Jon Wheeler (he/him), University of New Mexico, US
+
+     Sara King (she/her), AARNet, Australia
+
+     Danielle Sieh (she/her/s), The Carpentries
+
+    Paula Pappalardo (she/her), Smithsonian Environmental Research Center
+
+    Jeff  Oliver (he/him), University of Arizona
+
+     
+
+     
+
+
+
+Agenda:
+
+    Introductions
+
+    Name/pronouns, location, affiliation, what is the oldest condiment in your fridge/pantry
+
+    Pre/post discussion
+
+    Noticed that people are coming and giong more often than they typically do. Don't know if it's time of year or if it's because people feel that since it's online they can come and go. 
+
+    Similar things happening in NM training. Did best to work around and share resources as much as posisble
+
+    Tried to make it apparent in communications you can only be gone 1 hour, you have to talk with the trainers to let them know, etc. 
+
+    Have to decide if you count how much they missed, if they are engaged enough in other ways, etc.
+
+    Without having a face to face or community onboarding, there is more of that going on. Those without personal connection.
+
+    Those that do that can go and schedule a makeup session with the director of training (Sher!) immediately.
+
+    If there are things of note Sher! should know about specific learners, please let her know!
+
+    Rule of thumb: when Sher! has someone schedule something she will check with the trainers so it is fresh in the minds of the trainers, etc. 
+
+    Announcements
+
+    Maneesha has sent out emails to schedule Q2 Instructor Trainings. Please be sure to confirm your availability 
+
+    Q2 Intructor Training Calendar has been updated: https://carpentries.github.io/instructor-training/training_calendar
+
+    This quarter was tough to schedule trainers. Out of 92 trainers we had 49 that did not respond
+
+    We ask that trainers respond whether they are able to teach or not so that we are aware of capacity
+
+    When the polls come out, please respond with an "unavailable" if you are not available for the quarter
+
+    Anything we can do from Core Team perspective that would make it easier for trainers?
+
+    For NZ and AU, the Q1 call coming out just before Christmas, it is difficult to know whats coming in the following year. Everything changes in the calendar year.
+
+    Similar for South America. It is hard to answer.
+
+    Is it possible to access the form in another way? Somewhere we can go that isn't necessarily in the email?
+
+    Slack? Could pin it in Slack during the time we're recruiting, and send reminders
+
+    How does this compare to usual response rate?
+
+    This is the lowest response rate we have had. 17 yesses with 7 being Core Team members. 
+
+    Maneesha hasn't had to come to core team at all over the last couple of years for support
+
+    In AU/NZ there are Trainers that seem to have dropped off the calendar. Replenishing the pool of Instructors would be pertinent
+
+    Will offer train the trainer, working on dates for next one
+
+    It is hard to give two full days. Is easier to do split days. Helpful to have 3 or more Trainers on a training
+
+    Sara, Mark and Ann are currently running a 4 x half day online training among 3 trainers. I've also taught in a 3 trainer team scenario and it's really great actually! But challenging to justify the effort when you have a low turnout of attendees.
+
+    NZ runs this model too usually
+
+    Could you share historical data on who has been onboarded, from which areas, and where the training has been happening over the past few years? This would help gauge how we're meeting needs.
+
+
+    Become an Editor for The Carpentries Lab: https://carpentries.org/blog/2024/02/support-curriculum-community-2024/
+
+    Specific questions? Email Toby Hodges at tobyhodges@carpentries.org
+
+    Time commitement: 4-8 hours per edit, which could span over some months
+
+    Daylight Savings Time, Meeting Shift 
+
+    Question from earlier meeting: 
+
+    Can we give a list of "do not choose these lessons" for demos to the Instructor training to deter people from choosing lessons that they shouldn't choose because they are not stable? LC Python particularly.
+
+    Did a teaching demo in Spanish and they chose a lesson from the lab. Check the etherpad, if they dont share the link send an email asking them to provide a link for the lesson. If they share the link, check to make sure it's something they can teach. If it is not something they should teach, send an email asking them to choose something else.
+
+    Curious as to why people are not choosing things in the suggested list. Tell them to teach whats on the list, but if they dont want to teach something on the list have them check in with the person hosting the demo to find out if it's okay. 
+
+    Workshop and Instructor Training team will be discussing options and taking it to trainers leadership
+
+    There is a tremendous amount of text information. Part of the solution might be a cheat sheet. "Here's a list of episodes you can choose from" (like a standalone PDF)
+
+    Could have something like this in the etherpad, welcome session, etc.
+
+    Full list of allowed episodes
+
+    Two arguments: There's no live coding or encourage them to use a different resource.
+
+    On the list, it does say if your preference is not there, please check in. 
+
+    extending Sara's idea about an infographic
+
+    What about a live scribe in the style of the illustrations on The Turing Way website? https://the-turing-way.netlify.app/_images/theturingway-pathway.svg 
+
+    Topic of the month - Using Instructor Training Website 
+
+    https://carpentries.slack.com/archives/C7A6ED1SA/p1706109150791669 
+
+    How are you using the training website?
+
+    Fork from a previous training and change the data
+
+    Refer attendees there for the timings and trainers and videos to check beforehand
+
+    Pre and Post workshop surveys
+
+    Trainer resources page. Use it for the schedule. Important for noting the time zone. One of many ways of gettign the info to attendees.
+
+    Pre and post surveys, schedule, and etherpad links
+
+    Usually have a collaborative doc with information. Could go without the training website. 
+
+    For code of conduct - but could also be linked in etherpad
+
+    If there was a schedule and code of conduct, one static page you are able to use, but it is not specific for your particular training, would that be helpful?
+
+    the generic template would be useful
+
+    schedule should be specific
+
+    would try to avoid having different links for the trainees 
+
+    Would need another link for schedule, another link for surveys. Like having one link (website) with everything to communicate to them. 
+
+    Use the website the most for the actual information that is custom to the particular training - slug, schedule. survey links
+
+    Does pair well with the collaborative doc
+
+    Does this need to be mandatory? Is it okay to let trainers who want to use it, use it, and those who don't, don't have to create one?
+
+    How different is this template compared to the other workshop templates? Can it be rolled into the same infrastructure?
+
+    There has been talk on the tech team to try to make it all in one. Wanted to find out if people are actually using the website first. 
+
+    There would be a strong argument for harmonzing all of our templates so they look the same. It is valuable for things to look like what people expect. If we want to make things simpler, it's definitely worth proceeding. How can we make it easily customizable?
+
+
+
+
+
+
+
+
+
