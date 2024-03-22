@@ -56,11 +56,11 @@ to date.
 ## Suffrage
 
 1.  The following people are currently voting members of this project:
-    -   Mark Crowe
-    -   Paola Corrales
-    -   Trisha Adamus
+    -   Liz Stokes
     -   Annajiat Alim Rasel
     -   Nathaniel Porter
+    -   Md Intekhabul Hafiz
+    -   Jon Wheeler
 
 2.  To become a voting member:
     1.  [Members must be elected](https://github.com/carpentries/trainers/blob/main/governance.md#nominations-and-elections)
