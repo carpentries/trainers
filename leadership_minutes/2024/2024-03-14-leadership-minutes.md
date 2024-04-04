@@ -12,12 +12,12 @@ Minutes: Liz, Jon
 ---------------------------------
 
 -   Onboarding and planning (with Mark Crowe, outgoing Chair)
-    -   [[Roles of trainer leadership]{.ul}](https://github.com/carpentries/trainers/blob/main/governance.md)
-    -   [[Meeting rules]{.ul}](https://github.com/carpentries/trainers/blob/main/policy/leader_meeting_rules.md) - quick discussion of
+    -   [Roles of trainer leadership](https://github.com/carpentries/trainers/blob/main/governance.md)
+    -   [Meeting rules](https://github.com/carpentries/trainers/blob/main/policy/leader_meeting_rules.md) - quick discussion of
     -   Review Governance and Powers and Responsibilities documents. Commit to attending and contributing to meetings (live and asynchronous).
     -   Martha's rules for meeting proposals
-    -   Suggest reading [[2021-03-29-leadership-minutes.md]{.ul}](https://github.com/carpentries/trainers/blob/main/leadership_minutes/2021/2021-03-29-leadership-minutes.md) and [[2021-04-17-leadership-minutes.md]{.ul}](https://github.com/carpentries/trainers/blob/main/leadership_minutes/2021/2021-04-17-leadership-minutes.md) for some of the committee operating processes
-    -   Produce introductory blog - see [[2022-03-13-Trainers-Leadership-2023.md]{.ul}](https://github.com/carpentries/carpentries.org/blob/77c6e9d570229d08987a1dae2b21b87c89944457/_posts/2023/03/2022-03-13-Trainers-Leadership-2023.md) for 2023 version
+    -   Suggest reading [2021-03-29-leadership-minutes.md](https://github.com/carpentries/trainers/blob/main/leadership_minutes/2021/2021-03-29-leadership-minutes.md) and [2021-04-17-leadership-minutes.md](https://github.com/carpentries/trainers/blob/main/leadership_minutes/2021/2021-04-17-leadership-minutes.md) for some of the committee operating processes
+    -   Produce introductory blog - see [2022-03-13-Trainers-Leadership-2023.md](https://github.com/carpentries/carpentries.org/blob/77c6e9d570229d08987a1dae2b21b87c89944457/_posts/2023/03/2022-03-13-Trainers-Leadership-2023.md) for 2023 version
     -   Election of officers (Chair and Secretary)
 	    - Chair: Liz
 	    - Jon: Secretary
@@ -62,15 +62,15 @@ Minutes: Liz, Jon
         -   Annajiat: has more flow on effects too - that certification means they're more visible to workshop opportunities
         -   Jon: perhaps a workflow should go more through the community liaisons rather than an additional TLC or Core Team load.
 
--   [[Proposals/Issues]{.ul}](https://github.com/carpentries/trainers/issues) and [[pull requests]{.ul}](https://github.com/carpentries/trainers/pulls)
+-   [Proposals/Issues](https://github.com/carpentries/trainers/issues) and [pull requests](https://github.com/carpentries/trainers/pulls)
     -   Outstanding
         -   13+ issues to consider whether to implement, hold, or close
         -   Automating trainer renewal didn't get wrapped up last year.
     -   New (none)
     -   Request to submit
-        -   updates to [[meeting rules]{.ul}](https://github.com/carpentries/trainers/blob/main/policy/leader_meeting_rules.md)
+        -   updates to [meeting rules](https://github.com/carpentries/trainers/blob/main/policy/leader_meeting_rules.md)
             and
-            [[readme]{.ul}](https://github.com/carpentries/trainers/blob/main/README.md)  with new leadership, officers, etc
+            [readme](https://github.com/carpentries/trainers/blob/main/README.md)  with new leadership, officers, etc
 
 -   Action items (with responsible person and timeline)
     -   All to contribute to the introductory blog that Mark will
