@@ -15,7 +15,7 @@ Agenda and notes:
     - On hold; Liz will follow up
   - TLC is working to take over part of responsibility for trainer meetings
     - In progress - Nathaniel and Jon led last meeting and went well
-    - Liz will help with 2nd meeting 6 Sept; looking for another volunteeer for 1st meeting
+    - Liz will help with 2nd meeting 5 Sept; looking for another volunteeer for 1st meeting
   - Liz will dig out previous discussions about the TLC calendar (especially as it relates to scheduling trainer meetings), and assemble a draft calendar somewhere on the TLC repo
     - On hold; Liz will follow up
   - Board of Directors program committee meeting reports
