@@ -14,7 +14,7 @@ Notetaker: Jon
 		    2.  4 demos could substitute for 1 Instructor Training.
 		    3. 2 Instructor Training could cover other requirements (certainly all demos).
 		    4. Otherwise, it will be hard to get away from a case-by-case review if we want to keep the "alternative activities" option for sustaining active status.
-		    5. Number of people who have done demos or workshops that weren't included in their summary was alarmingly high. Does this reflect a problem?
+		    5. A number of people who have done demos or workshops that weren't included in their summary was alarmingly high. Does this reflect a problem?
 			    1. Demos are recorded in AMY when host submits results (maybe? Nathaniel will check with Core Team).
 		2. Liz: Good to have this information available as a rubric.
 			1. Renewal process formally lives at https://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html#certification-renewal-process
