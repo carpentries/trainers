@@ -41,8 +41,8 @@ The authority and associated responsibilities proposed for this governing Commit
 * Leadership
 * Moderator of meetings
 * with secretary, set agendas and distribute min 24 hours before meetings
-* serve as representative to Executive Council meetings
-* compose written update to Executive Council every 6 months
+* serve as representative to the Board of Directors Program Committee meetings
+* compose written update to Board of Directors Program Committee every 6 months
 * create/update public-facing page with Committee information as described in [The Carpentries Committee Policy](https://docs.carpentries.org/topic_folders/governance/committee-policy.html)
 
 #### Secretary 
