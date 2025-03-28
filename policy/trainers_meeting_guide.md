@@ -6,17 +6,17 @@ Generated with assistance from ChatGPT, version 4o.
 
 ## 1. **Set the Schedule**
 
-- **Responsibility**: The Trainers Leadership Committee (TLC).
+- **Responsibility**: The Instructor Trainers Leadership Committee (TLC).
 - **Timing**: Schedule meetings well in advance, ideally annually.
 - **Process**:
     1. Coordinate with the Core Team to avoid conflicts with other events.
     2. Set two meeting times to accommodate global time zones. Times are currently UTC 14:00 and UTC 23:00, on the first and third Thursday of the month. 
-	    1. Changes to these times and dates should be based on unanimous consensus of the active trainer community.
-    3. Announce schedules and ensure they are added to community calendars. Remind trainers every October 1 about re-importing calendar items to accommodate daylight savings changes.
+	    1. Changes to these times and dates should be based on unanimous consensus of the active Instructor Trainer community.
+    3. Announce schedules and ensure they are added to the community calendars. Remind Instructor Trainers every October 1 about re-importing calendar items to accommodate daylight savings changes.
 
 ## 2. **Call for Topics**
 
-- **Responsibility**: Trainer community members, facilitated by TLC.
+- **Responsibility**: Instructor Trainer community members, facilitated by ITLC.
 - **Process**:
     1. Announce a call for topics via community channels (e.g., Slack, mailing lists).
     2. Encourage members to propose topics in the [trainers etherpad](https://pad.carpentries.org/trainers) under the "Propose a Topic" section.
@@ -26,7 +26,7 @@ Generated with assistance from ChatGPT, version 4o.
 
 ## 3. **Set the Agenda**
 
-- **Responsibility**: TLC with input from the Trainer community.
+- **Responsibility**: ITLC with input from the Instructor Trainer community.
 - **Process**:
     1. Review proposed topics from the etherpad and prioritize them based on community interest and relevance.
     2. Confirm the agenda for each meeting, typically focusing on:
@@ -34,14 +34,14 @@ Generated with assistance from ChatGPT, version 4o.
         - Community announcements.
         - A "topic of the month."
     3. Publish the finalized agenda on the etherpad and community channels.
-
+      
 ## 4. **Identify Meeting Lead(s)**
 
-- **Responsibility**: TLC or volunteer trainers.
+- **Responsibility**: ITLC or volunteer trainers.
 - **Process**:
     1. Use the etherpad or GitHub to sign up volunteers to host meetings.
-    2. If no one volunteers, the TLC can reach out to the trainer community.
-    3. TLC members will lead meetings for which no alternative host has volunteered.
+    2. If no one volunteers, the ITLC can reach out to the Instructor Trainer community.
+    3. ITLC members will lead meetings for which no alternative host has volunteered.
 - **Role of the Meeting Lead**:
     - Review the agenda and prepare to facilitate discussions.
     - Ensure the etherpad is set up with the meeting template.
@@ -61,14 +61,14 @@ Generated with assistance from ChatGPT, version 4o.
 
 ## 6. **Annual or Special Topics**
 
-- Ensure at least one annual discussion to share updates on the Trainer program, as per committee guidelines.
-- Facilitate special meetings for significant changes or decisions requiring trainer input.
+- Ensure at least one annual discussion to share updates on the Instructor Trainer program, as per committee guidelines.
+- Facilitate special meetings for significant changes or decisions requiring Instrucor Trainer input.
 
 ## 7. **Additional Tips**
 
-- **Community Input**: Regularly solicit feedback from trainers about meeting structure and topics.
-- **Inclusivity**: Ensure that meeting times and discussions are accessible and inclusive for all trainers globally.
-- **Documentation**: Keep a consistent record of all meetings to maintain transparency and support new trainers.
+- **Community Input**: Regularly solicit feedback from Instructor Trainers about meeting structure and topics.
+- **Inclusivity**: Ensure that meeting times and discussions are accessible and inclusive for all Instructor Trainers globally.
+- **Documentation**: Keep a consistent record of all meetings to maintain transparency and support new Instructor Trainers.
 
 ## 8. **Email Templates**
 
