@@ -24,7 +24,7 @@ Notetaker: Jon
 			1. Recording a video could be a big ask. Could create barriers to participating.
 			2.  What has been done in the past - some recollection that candidates have added answers to questions in the etherpad when they couldn't make meetings.
 	4. Recommendations for what to cut from instructor training
-		1. We created a table/doc.
+		1. We created a [table/doc](https://docs.google.com/spreadsheets/d/1hVk-YkqIXGTJlv5Ocw73L4BF2x2sSWAEbkDvHzVUktM/edit?usp=sharing).
 		2. Need for a link or other pointer to this document.
 	5. Discussion of other topics of interest to community or standing/lingering issues.
 		1. Concept maps - Concept maps are a perennial difficulty for trainees. Any thoughts about how to make this more attainable? What has been tried before? I personally find them extremely valuable and wish I knew of a way to make them easier for people to learn about and use.
