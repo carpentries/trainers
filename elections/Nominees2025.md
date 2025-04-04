@@ -1,5 +1,11 @@
 # Meet The Nominees for the 2025 Trainers Leadership
 
+[Amanda Kis](https://github.com/carpentries/trainers/edit/main/elections/Nominees2025.md#amanda-kis)
+
+[Jon Wheeler](https://github.com/carpentries/trainers/edit/main/elections/Nominees2025.md#jon-wheeler) - Incumbent,
+
+[Jesse Sadler](https://github.com/carpentries/trainers/edit/main/elections/Nominees2025.md#jesse-sadler)
+
 ## Amanda Kis
 ### Briefly, summarize your history with The Carpentries and/or Carpentries-related activities.	
 After attending Carpentries workshops hosted by my institution's library for years, I began helping with them in 2022. In 2023, I became a certified Instructor, and in 2024, I became a certified Instructor Trainer. I co-instruct and help with several self-organized and centrally-organized workshops each year, and I co-instructed my first Instructor Training in February 2025. I also became co-lead of the Midwest Carpentries Community at the start of 2025.
@@ -27,3 +33,19 @@ I was elected to the Trainer's Leadership Committee last year, for the 2024-2025
 My engagement with the trainer and instructor communities are a rewarding part of my work, and I'm interested in continuing to contribute to an evolving model of Trainers Leadership that will support the efforts of the community and the Core Team. As a community we were able to build and maintain momentum in a period of change, and I'd like to continue to be part of a team that is focused on growing a community that I really value being part of.
 ### What would you bring to this role that may be valuable for the Committee and/or the community?	
 My experience with the Carpentries is broad. In addition to my contributions as an instructor and trainer, I have some experience with lesson development and maintenance. As a volunteer, my perspective on and appreciation for the many aspects of what the Carpentries does is broad and deep. I also believe that my current service on the TLC as secretary will be of value to the new committee.
+
+## Jesse Sadler	
+### Briefly, summarize your history with The Carpentries and/or Carpentries-related activities.		
+I have been a Carpentries instructor since 2021. Since 2022, I have been a maintainer of the R for Social Scientists lesson. I became a Carpentries trainer in the fall of 2024.	
+### Have you served on the Instructor Trainers Leadership Committee previously? (Including before it was "official")	
+No		
+### What interests you about serving on the Instructor Trainers Leadership Committee?
+As one of the two instructor trainers at Virginia Tech along with Nathaniel Porter, I look forward to giving back to the Carpentries for all of the instructor training and lessons the core team and the community provides.	
+### What would you bring to this role that may be valuable for the Committee and/or the community?
+Having only recently become a trainer but also having experience as an instructor and lesson maintainer, I would hope to provide a balanced perspective in representing the trainer community. I still have a lot to learn about being a trainer and the Carpentries, but I would hope to represent those newer trainers.	
+### In the coming year, this panel will address many issues. These include but are not limited to: designing support systems for the Instructor Trainer community engagement, evaluating changes to the Instructor Training curriculum, and advising The Carpentries Core Team on policy and support structures.  This Committee addresses issues and uses structured decision-making processes that rely on GitHub, emails, and meetings. Is there an issue that you are particularly motivated to engage with as a member of the Committee? Use this space to share what interests you about the issue.
+I am very interested in participating in discussions about community engagement and providing inclusive environments for people to participate in a variety of ways.	
+### What are your strengths in collaborative work that will help you to be effective as a member of this group?	
+Working in a university library setting, I am daily collaborating with a wide group of individuals across disciplines. I attempt to be as easy to work with and patient as possible. I also look forward to learning a great deal from fellow committee members in this role.	
+### Is there anything else you would like to share with the community?	
+I am excited to take on this role within the community and give back to the Carpentries
