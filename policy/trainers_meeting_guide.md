@@ -20,7 +20,7 @@ Generated with assistance from ChatGPT, version 4o.
 - **Process**:
     1. Announce a call for topics via community channels (e.g., Slack, mailing lists).
     2. Encourage members to propose topics in the [trainers etherpad](https://pad.carpentries.org/trainers) under the "Propose a Topic" section.
-    3. Collect additional ideas from recent discussions, Slack threads, and survey feedback.
+    3. Collect additional ideas from recent discussions, Slack threads, survey feedback, and [active issues](https://github.com/carpentries/instructor-training/issues) in instructor training.
 - **Tips**:
     - Highlight any specific themes or areas of focus for upcoming meetings.
 
