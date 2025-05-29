@@ -11,7 +11,7 @@ Generated with assistance from ChatGPT, version 4o.
 - **Process**:
     1. Coordinate with the Core Team to avoid conflicts with other events.
     2. Set two meeting times to accommodate global time zones. Times are currently UTC 14:00 and UTC 23:00, on the first and third Thursday of the month. 
-	    1. Changes to these times and dates should be based on unanimous consensus of the active Instructor Trainer community.
+	    1. Changes to these times and dates should be based on consensus of the active Instructor Trainer community.
     3. Announce schedules and ensure they are added to the community calendars. Remind Instructor Trainers every October 1 about re-importing calendar items to accommodate daylight savings changes.
 
 ## 2. **Call for Topics**
@@ -28,11 +28,11 @@ Generated with assistance from ChatGPT, version 4o.
 
 - **Responsibility**: ITLC with input from the Instructor Trainer community.
 - **Process**:
-    1. Review proposed topics from the etherpad and prioritize them based on community interest and relevance.
+    1. Review proposed topics and prioritize them based on community interest and relevance.
     2. Confirm the agenda for each meeting, typically focusing on:
         - Pre/post-training discussions (for the first monthly meeting).
         - Community announcements.
-        - A "topic of the month."
+        - A topic for discussion.
     3. Publish the finalized agenda on the etherpad and share highlights on community channels.
       
 ## 4. **Identify Meeting Lead(s)**
@@ -63,6 +63,7 @@ Generated with assistance from ChatGPT, version 4o.
 
 - Ensure at least one annual discussion to share updates on the Instructor Trainer program, as per committee guidelines.
 - Facilitate special meetings for significant changes or decisions requiring Instrucor Trainer input.
+- Introduce candidates for trainer leadership with time for Q&A.
 
 ## 7. **Additional Tips**
 
