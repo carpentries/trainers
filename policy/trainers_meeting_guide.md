@@ -33,7 +33,7 @@ Generated with assistance from ChatGPT, version 4o.
         - Pre/post-training discussions (for the first monthly meeting).
         - Community announcements.
         - A "topic of the month."
-    3. Publish the finalized agenda on the etherpad and community channels.
+    3. Publish the finalized agenda on the etherpad and share highlights on community channels.
       
 ## 4. **Identify Meeting Lead(s)**
 
