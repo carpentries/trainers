@@ -4,7 +4,10 @@
 
 [Jon Wheeler](https://github.com/carpentries/trainers/edit/main/elections/Nominees2025.md#jon-wheeler) - Incumbent,
 
+[Cera Fisher (https://github.com/carpentries/trainers/edit/main/elections/Nominees2025.md#cera-fisher)]
+
 [Jesse Sadler](https://github.com/carpentries/trainers/edit/main/elections/Nominees2025.md#jesse-sadler)
+
 
 ## Amanda Kis
 ### Briefly, summarize your history with The Carpentries and/or Carpentries-related activities.	
@@ -70,4 +73,5 @@ I am very interested in participating in discussions about community engagement 
 Working in a university library setting, I am daily collaborating with a wide group of individuals across disciplines. I attempt to be as easy to work with and patient as possible. I also look forward to learning a great deal from fellow committee members in this role.	
 ### Is there anything else you would like to share with the community?	
 I am excited to take on this role within the community and give back to the Carpentries
+
 
