@@ -27,3 +27,9 @@
 - Annajiat Alim Rasel
 - Nathaniel Porter
 - Md Intekhabul Hafiz
+
+## 2025
+- Cera Fisher (Chair)
+- Jesse Sadler (Secretary)
+- Amanda Kis
+- Jon Wheeler
