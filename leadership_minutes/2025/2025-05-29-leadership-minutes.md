@@ -1,7 +1,7 @@
 # Trainers Leadership Committee meeting, 29 May 2025
 
 - Attendance
-	- Present: Jon Wheeler, Amanda Kis, Jesse Sadler, Cera Fisher, Sher (running late)
+	- Present: Jon Wheeler, Amanda Kis, Jesse Sadler, Cera Fisher, SherAaron Hurt (running late)
 	- Apologies: 
 
 ## Agenda and notes
@@ -11,7 +11,7 @@
 	- Secretary: Jesse elected by consensus
 2. Go over process for approving minutes
     1. Export GoogleDoc with agenda to Markdown
-    2. Add minutes as separate document to leadership minutes folder on trainers GitHub for that year.
+    2. Add minutes as separate document to leadership minutes folder on Trainers GitHub for that year.
     3. Create pull request and add review to Trainers Leadership.
     4. Secretary pings committee when pull request is made.
     5. Review
@@ -28,9 +28,9 @@
     - Most of TLC will be at one or both meetings
     - Discussion topic: Teaching demos with only one or two people signed up.
 5. Proposals and pull requests
-    - Use of issues and pull requests in the trainers GitHub as a way to bring up points for discussion that can then be added to the meeting agenda.
+    - Use of issues and pull requests in the Trainers GitHub as a way to bring up points for discussion that can then be added to the meeting agenda.
 6. Action items
-    - Add current TLC to GitHub “trainers leadership” group. Jon will do this
+    - Add current TLC to GitHub "Trainers leadership" group. Jon will do this
     - Draft a general call for a committee member. Cera will compose a draft and post to Slack.
 7. Next meeting: June 27 00:00 UTC
     - Keep official meeting as Thursday before the trainer’s meeting.
