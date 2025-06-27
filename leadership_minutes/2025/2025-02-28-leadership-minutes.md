@@ -17,7 +17,7 @@ Notetaker: Jon
     3. Opt-Out Email list
 	    1. Core Team has implemented an opt out email. Once a trainer has been certified, they are now automatically added to email list. Welcome email will include instructions for how to opt out, and info will be provided during the welcome session. Looking at where to add to instructor notes for instructor training.
 2.  Current activities
-	1. [Draft trainer's meeting guide]{(https://github.com/carpentries/trainers/pull/310) : Jon was not able to revise by the deadline
+	1. [Draft trainer's meeting guide](https://github.com/carpentries/trainers/pull/310) : Jon was not able to revise by the deadline
 		1. Many suggested changes can be accepted in the PR from the review.
 		2. Propose to edit and revise in the PR. Jon will accept changes in place as of March 15, and that will be the draft (pending follow up approval).
 	2. TLC elections.
