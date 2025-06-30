@@ -56,10 +56,9 @@ to date.
 ## Suffrage
 
 1.  The following people are currently voting members of this project:
-    -   Liz Stokes
-    -   Annajiat Alim Rasel
-    -   Nathaniel Porter
-    -   Md Intekhabul Hafiz
+    -   Cera Fisher
+    -   Jesse Sadler
+    -   Amanda Kis
     -   Jon Wheeler
 
 2.  To become a voting member:
