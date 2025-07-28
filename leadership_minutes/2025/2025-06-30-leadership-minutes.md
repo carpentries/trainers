@@ -1,6 +1,6 @@
 # Trainers Leadership Committee meeting, 30 June 2025
 
-Present: Cera, Amanda, John, Jesse, Sher
+Present: Cera, Amanda, Jon, Jesse, Sher
 
 ## Agenda and notes
 
@@ -9,7 +9,7 @@ Present: Cera, Amanda, John, Jesse, Sher
 		- Members should try to get bios to Sher this week.
 	- Curriculum Discussion to be aware of: <https://github.com/carpentries/instructor-training/issues/1835#issuecomment-2962884575>
 	- AI discussion with trainers
-		- We could lead an informal conversation with Instructor Trainers about AI, to give instructors an opportunity to weigh in during the second monthly trainers meeting on July 17th.
+		- We could lead an informal conversation during the second monthly trainers meeting on July 17th about AI, to give instructor trainers an opportunity to weigh in.
 	- We all have access to Trainers repo - thank you Sher!
 - Current activities
 	- Discuss setting up a trainers meeting
@@ -17,7 +17,7 @@ Present: Cera, Amanda, John, Jesse, Sher
 		- Steps: [See Trainers meeting guide](https://github.com/carpentries/trainers/blob/main/policy/trainers_meeting_guide.md)
 			1. Template for meetings at the bottom of the trainers Etherpad
 			2. Update time and date links
-			3. Send out reminder on Topic Box (instructor-trainers channel)
+			3. Send out reminder on Topic Box (instructor trainers channel)
 				- Find email template in draft trainer's meeting guide
 		- Potential discussion topics
 			- What to cut in instructor meetings? https://codimd.carpentries.org/ttt-changes-working-dec2024?both#
