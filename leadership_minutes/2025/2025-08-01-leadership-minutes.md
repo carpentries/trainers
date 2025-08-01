@@ -1,0 +1,58 @@
+# Trainers Leadership Committee meeting, 1 August 2025
+
+Present: Cera, Amanda, Jon, Jesse, Jannetta, Sher
+
+- ## Agenda and notes
+- Introductions: Welcome Jannetta!
+- Core team update
+	- Blog post
+		- Need Jannetta's bio
+		- Update the content (recommendations provided)
+	- Instructor Trainer Incentive 
+		- Discuss to see what type of incentives or recognition Instructor Trainers may like
+		- Do this for the next monthly Trainer meeting topic on 7 August
+	- Pretix reminder 
+		- Still piloting Pretix for our meetings. 
+		- Maneesha is handling this fully
+- Current activities
+	- Welcome Jannetta!
+	- What to cut project
+		- What does "delivered" look like for this project?
+			- One potential model to consider: <https://swcarpentry.github.io/r-novice-gapminder/instructor/instructor-notes.html#lesson-plans> or <https://datacarpentry.github.io/r-socialsci/instructor/instructor-notes.html#lesson-plans> 
+			- Amanda: We should be mindful of the 2-day vs 4-day structure
+			- Sher: Let’s also not stifle creativity - we should be giving a rubric about where you can cut if you need more time - but Trainers need to be able to make decisions on the fly, don’t want to create rigidity.
+			- Jesse: Also the technical lesson plans may need to be more rigid like that; at a quick glance, we want to be able to see when we’re in the middle of it “okay, I can cut this” or “I can’t cut this”
+			- At most recent training Jesse did, they did not cut much
+		- What is the plan (if any) for disseminating it when we're done with it?
+			- In Trainer Instructor notes (curriculum)
+			- In Trainers meetings
+			- Comms plan as the end of the project; send to mailing list, non-verbal in the Trainer meeting
+		- What needs to be done?
+			- Go over what is there and write out a complete plan that is easy to reference.
+			- Trying to get more standard practice for both what to cut but also what not to cut.
+			- Should follow the Questions and Objectives for each episode.
+			- If something could be cut, it may not need to be under the Objectives.
+		- Potential for future meetings to go through the curriculum piece by piece to put together what to cut.
+			- This is approved.
+			- Homework to browse the first couple of episodes in the Instructor Training.
+	- Potential discussion topics for next Trainers meetings
+		- Trainer engagement and Trainer incentives to keep motivation high (picked this one)
+		- Staying active as a Trainer
+		- Discussion on concept maps
+- Proposals and pull requests
+	- Work to merge PR #336: revise trainers meeting guide <https://github.com/carpentries/trainers/pull/336>
+	- Jon will handle requested changes
+- Additional business
+	- Redaction check (standing item)
+- Action items (with responsible person and timeline)
+	- Homework for what to cut project: Go over first couple of episodes in Instructor Training
+	- Prep for ITLC blog post
+		- Jon: overview of last year
+		- Cera: next year goals
+		- Jannetta: bio
+		- Sher: send out blog post
+	- Sher: Add Jannetta to Slack and Github
+- Leaders for the trainers meetings?
+	- 7 August UTC 14:00: Cera/Amanda
+	- 7 August UTC 23:00: Amanda/Jon
+- Next meeting: Friday, 29 August, 17:30 UTC
