@@ -2,7 +2,7 @@
 
 Present: Cera, Amanda, Jon, Jesse, Jannetta, Sher
 
-- ## Agenda and notes
+## Agenda and notes
 - Introductions: Welcome Jannetta!
 - Core team update
 	- Blog post
