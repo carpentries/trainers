@@ -19,7 +19,7 @@
 - Current activities
 	- Review notes from last Instructor Trainers Meeting
 		- Three trainers meeting times to deal with time zones?
-			- Roll for someone in time zones that are currently less well served by current times. For example, a "meeting coordinator" role that would be less intensive than Core Team or ITLC roles.
+			- Role for someone in time zones that are currently less well served by current times. For example, a "meeting coordinator" role that would be less intensive than Core Team or ITLC roles.
 			- Gather some information on the geographic spread of trainers to see what time zones are less well served by current times.
 	- Potential discussion topics for next Trainers meetings
 		- How do we handle it when trainees miss more than one hour? What is the expectation for us or the Core Team, or the trainees themselves?
