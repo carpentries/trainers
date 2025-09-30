@@ -1,0 +1,57 @@
+# Trainers Leadership Committee meeting, 26 September 2025
+
+- Present: Jon, Jesse, Amanda, 
+- Apologies: Cera, Jannetta, Sher
+
+## Agenda and notes
+- Core team update
+- Current activities
+	- Review notes from last Instructor Trainers Meeting
+		- How to deal with giving feedback to trainees that you get a bad vibe from (not code of conduct violations)?
+		- How do you provide feedback to co-instructors after a workshop or training?
+		- How do we integrate the "8 principles of learning ([Science of Learning](https://carpentries.github.io/instructor-training/files/papers/science-of-learning-2015.pdf))" pre-reading more into the instruction? From the [Preparing for your training section](https://carpentries.github.io/instructor-training/instructor/index.html#preparing-for-your-training).
+		- And [Teaching Tech Together](https://teachtogether.tech/en/index.html)?
+	- How we can separate out the ITT curriculum.
+		- How to involve the community?
+		- How to involve the instructor trainer maintainers?
+		- Go through and cut the obvious things.
+		- Opportunity for bottom up overview of key pedagogical concepts.
+			- [NASA TOPS](https://github.com/opensciency/Transform-to-Open-Science-2024) feedback and lessons learned
+			- 8 principles of learning
+		- Sher: Could we break it into 2 days?
+			- Day 1: would be for those who ONLY WANT the ITT pedagogy
+			- Day 2: would be for those continuing to be one a certified instructor
+		- Could we create a working group?
+			- Put it together. Modify curriculum. ITLC would be leads.
+			- Teach it.
+		- There are important aspects from Day 2 curriculum, e.g. preparing to teach and working with your team.
+			- Emphasis on teaching together and teacher feedback.
+		- Create an outline of episodes/sections and have cut/keep/move on it.
+		- Is the goal to restructure the whole instructor training curriculum?
+			- What is the effect on the Instructor trainer community?
+			- Are people going to only do one day?
+			- How will scheduling work? Will the two groups be intermixed in a single training.
+		- Gather data about activity of who takes training and who completes checkout. What is percentage now that is not completing check out.
+		- Get a plan for how to present it to the community.
+		- Separate content from the service model
+			- What is the change to the content?
+			- What is the change to the scheduling?
+			- What is the change to trainer’s prep?
+			- What is the impact to the community? (fewer instructors?, smaller network?, bigger network?, time/energy teaching people who do/may not plan to be part of the community) 
+- Potential discussion topics for next Trainers meetings
+	- Feedback rodeo
+	- How do we provide feedback to each other as trainers?
+	- What do you really do with your workshop feedback?
+- Proposals and pull requests
+- Additional business
+	- Redaction check (standing item)
+	- Confirm the next back up meeting 
+- Action items (with responsible person and timeline)
+	- Create an outline (Amanda)
+	- Prep for how to present the work to the trainer community. (Jesse)
+		- Questions that we have for the core team
+		- Give questions to core team
+- Leaders for the trainers meetings?
+	- DATE UTC 14:00: Jesse
+	- DATE UTC 23:00: Jon
+- Next meeting: [Friday, 31 October, 17:30 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251031T1730)
