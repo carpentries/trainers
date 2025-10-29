@@ -1,0 +1,51 @@
+# Trainers Leadership Committee meeting, 27 October 2025
+
+- Present: Jesse, Jannetta, Amanda, Sher, Jon, Cera
+- Apologies: none
+
+- Core team update
+	- Carpentries Community Governance Gathering
+	- Instructor Training - Learner Centered Teaching
+		- Recommendation for adjusting the curriculum to be 2 independent days
+			- Day 1 - only want the pedagogy
+			- Day 2 - focus on the Carpentries
+		- Document with some questions brought up in the previous meeting about this: [Carpentries - ITLC questions about ITT curriculum](https://docs.google.com/document/d/1FVaIByxesrMY1_cfNzuGfwazuOWRgBj81UZ0zc8WOjw/edit?usp=sharing)
+		- Keep, move, cut documentation: [instructor_training_keep_move_cut](https://docs.google.com/document/d/1RM71zUDB1a5vqW0pMKUlXsIQvMLyfyrcPLqGIncPmHc/edit?usp=sharing)
+			- [NASA TOPS](https://github.com/opensciency/Transform-to-Open-Science-2024) feedback and lessons learned
+		- What things need to be added to the first day from the second day:
+			- Launches and landings
+		- What things can be moved from the first day to the second day:
+		- Goal is to serve more communities and groups and create more flexibility in the curriculum.
+			- How to deal with examples coming from Carpentries with a general audience? May not be a problem. Where else would it come from?
+			- What is the relationship to curriculum development? The general audience will likely be beginning teachers and so may not be developing curriculum.
+		- Using Keep, move, cut and set up a fork of the instructor training materials to see how things could be moved around.
+- Current activities
+	- Review notes from last Instructor Trainers Meeting
+		- Interest in creating a mechanism for more formal feedback for trainers, possibly in the form of outside observation for one lesson by another trainer.
+			- Is it possible to have this volunteer-based brief attendance count in certification/maintenance of cert for Trainers (as with holding demos and other things we do to - maintain certification)?
+			- Concerns about equity both in people being able to receive feedback and in terms of people putting in equitable amounts of work
+		- Perhaps creating a survey for the co-trainers to give feedback to each other 
+			- Worries about response rate (and it's necessarily not anonymous)
+			- Worries about how reading the responses might be a bit more stressful than getting responses in person
+		- This can be taken up by ITLC to figure out the survey and suggest mechanism for delivery
+		- Idea to use one of the trainers meetings (secondary meeting) for place to provide feedback to each other.
+		- Could add something to Instructor Training materials to prompt feedback between trainers. Make use of the Instructor notes.
+			- Could provide some guides or tips for giving feedback during breakout rooms.
+			- For example, instructor notes in the curriculum and talking about those notes in the trainer meeting – at the end, the instructor note says “If desired, take time to - give feedback to each other for this section of the training, here are two prompts for feedback” 
+		- **Takeaways**
+			- Difficulty of building a whole system for formal feedback
+			- Guides, prompts, or tips to encourage feedback during trainings and at the end of a training.
+		- **Next step**: Report out to the next trainers meetings.
+	- Potential discussion topics for next Trainers meetings
+		- Discuss the above – but have something as a backup or additional topic
+		- Curriculum changes to reorganizing instructor training: How to implement the change? What support do trainers need to make the transition?
+		- Potential discussion for a later meeting on how people have used Carpentries pedagogical materials in their own teaching.
+- Proposals and pull requests
+- Additional business
+	- Redaction check (standing item)
+	- Confirm the next back up meeting 
+- Action items (with responsible person and timeline)
+- Leaders for the trainers meetings?
+	- 6 November UTC 14:00: Jesse, SherAaron
+	- 6 November UTC 23:00: Cera, Jon, SherAaron 
+- Next meeting: Friday, 21 November @ 16:30 UTC
