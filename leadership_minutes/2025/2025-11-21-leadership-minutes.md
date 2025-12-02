@@ -1,0 +1,62 @@
+# Trainers Leadership Committee meeting, 21 November 2025
+
+- Present: Jesse, Jannetta, Amanda, Jon, Cera
+- Apologies: Sher
+
+- Core team update
+	- Future items to discuss
+		- Providing links and citations in the instructor training curriculum: <https://github.com/carpentries/instructor-training/issues/1223#issuecomment-3403549570>
+		- Potential topic for trainers meeting - Engaging with Trainees prior teaching experience: <https://github.com/carpentries/trainers/issues/210#issuecomment-2477974809>
+			- "how do Carpentries learners compare/contrast with undergrads or younger students trainees may have more experience teaching?
+			- what specific aspects of our teaching practice are because of the short format? what practices would not be best practice for a semester long course?"
+- Current activities
+	- Review notes from last Instructor Trainers Meeting
+		- Idea to have a trainer meeting that is an etherpad template review sprint. Match up template and instructor training materials.
+			- Probably some interest from the Instructor Trainer lesson maintainers to use Trainers Meeting sprints to close a bunch of issues
+			- Report from Sher on working on templates for training
+		- Discuss responses from trainers to changes to Learner Centered Teaching
+			- More questions in first meeting, more positivity in second meeting.
+			- Emphasis on the importance of live demonstration and getting feedback.
+- Discussion of Learner Centered Teaching
+	- Keep move cut: <https://docs.google.com/document/d/1RM71zUDB1a5vqW0pMKUlXsIQvMLyfyrcPLqGIncPmHc/edit?usp=sharing>
+	- Schedule Co-working time to make progress on updating the Learner Centered Teaching curriculum
+		- To be scheduled on Slack
+	- Instructor training materials changes
+		- Discussion of importance of live coding to pedagogical basis of Carpentries instructor training.
+			- Live coding is such a good demonstration of the pedagogical skills discussed by Carpentries.
+			- Synonym or similar examples for live coding in other domains.
+			- Day 1 mentions of live coding in lesson
+			- First mention of live coding in the lesson: [Attention Management in Your Workshop](https://carpentries.github.io/instructor-training/instructor/05-memory.html#attention-management-in-your-workshop)
+			- Second mention under [Encourage a Growth Mindset](https://carpentries.github.io/instructor-training/instructor/08-motivation.html#encourage-a-growth-mindset)
+		- Emphasizing teaching is a skill from Day 1 and bringing it earlier.
+			- Practice both teaching and assessment.
+			- How can there be room for practicing assessment in a one-day setting?
+		- What to end with on the first day?
+			- Thinking of launches and landings.
+		- How to conceptualize the split?
+			- Learner centered vs teacher centered
+			- Learners vs teachers vs Carpentries
+			- General pedagogy vs specific Carpentries workshops
+		- What from Day 2 could go in Day 1?
+			- Some good general ideas in Preparing to Teach
+		- Idea to take advantage of pre-workshop reading and actually discussing it.
+			- Change the reading from something that is Carpentries focused to something that is
+			- Greg Wilson paper - don't let the perfect by the enemy of the good in teaching data science - <https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510> “Good Enough Practices in Scientific Computing”
+		- Net promoter score at end of survey of how likely you are to recommend a Carpentries survey. Feels very corporate.
+		- What kind of practical skills would people potentially be teaching that are not coding, but also are hands on and could be taught in a live, hands-on, synchronized instruction 
+			- “What if you were actually teaching a Wood Working workshop? Could you do it in this style?” 
+		- Are we actually ready to move into doing this on Q1 
+			- What do we need to have all lined up in order to get this to happen in Q1? 
+			- Scheduling coworking time and making sure Sher is there to represent core team 
+- Potential discussion topics for next Trainers meetings
+	- <https://github.com/carpentries/trainers/issues/210#issuecomment-2477974809>
+- Proposals and pull requests
+- Additional business
+	- Redaction check (standing item)
+	- Confirm the next back up meeting 
+- Action items (with responsible person and timeline)
+	- Cera: send out poll for co-working time meeting on week of Dec 8
+- Leaders for the trainers meetings?
+	- 4 December UTC 14:00: Jesse & Jannetta
+	- 4 December UTC 23:00: Cera & Amanda
+- Next meeting: Schedule on Slack
