@@ -28,41 +28,26 @@ Elected members of the Instructor Trainers Leadership Committee as of May 2025 a
 - Jesse Sadler (secretary)
 - Jon Wheeler 
 
-## 2025 Meeting Schedule
+## 2026 Meeting Schedule
 
-Instructor Trainer Community meetings are open only to members of the Instructor Trainer community and invited guests. Meeting times are listed on the [Community Calendar](https://carpentries.org/community/#community-events). 
+Instructor Trainer Community meetings are open only to members of the Instructor Trainer community and invited guests. Meetings are the first Thursday of the month at 14:00 UTC and 23:00 UTC. They are listed on the [Community Calendar](https://carpentries.org/community/events/). 
+Meetings typically include pre- and post-training discussion and broader discussion on a specific topic.
 Meeting topics may be proposed by any member of the community. Meeting topics may be proposed via this repository (ideally) or by [email](mailto:instructor.training@carpentries.org). 
-To submit a suggest a meeting topic here, please visit the [Discussions tab](https://github.com/carpentries/trainers/discussions) and 
-create a Discussion topic (or add a comment to an existing topic if appropriate). 
-In the text of your topic/comment, please include a request to discuss at a Trainer meeting. You may wish to specify whether you 
-think a short discussion (during a standard meeting after pre/post workshop conversations) or a dedicated meeting would be more appropriate. 
-  
-Primary meetings are always held; "As Needed" meetings are held only if there is a scheduled topic for that day. 
-If you would like to propose cancellation of a scheduled meeting due to holidays or other widespread conflicts, please submit an [Issue](https://github.com/carpentries/trainers/issues) 
-with this request for consideration by the Instructor Trainers Leadership Committee or send an [email](mailto:instructor.training@carpentries.org) to The Carpentries Core Team.
+To submit a suggest a meeting topic here, please visit the [Discussions tab](https://github.com/carpentries/trainers/discussions) and create a Discussion topic (or add a comment to an existing topic if appropriate). 
+In the text of your topic/comment, please include a request to discuss at a Trainer meeting. You may wish to specify whether you think a short discussion (during a standard meeting after pre/post workshop conversations) or a dedicated meeting would be more appropriate. 
 
-2025   
-Feb 6 - (Primary) - pre/post discussion     
-Feb 20 (As Needed)   
-Mar 6 (Primary) - pre/post discussion  
-Mar 20 (As Needed)  
-Apr 3 Reserved for Leadership elections  
-Apr 17 (As Needed)  
-May 1 (Primary) - pre/post discussion  
-May 15 (As Needed)  
-June 5 (Primary) - pre/post discussion  
-June 19 (As Needed)  
-July 3 - (Primary) - pre/post discussion 
-July 17 (As Needed)  
-Aug 7 (Primary) - pre/post discussion  
-Aug 21 (As Needed)  
-Sept 4 (Primary) - pre/post discussion  
-Sept 18 (As Needed)  
-Oct 2 (Primary) - pre/post discussion  
-Oct 16 (As Needed)  
-Nov 6 (Primary) - pre/post discussion  
-Nov 20 (As Needed)  
-Dec 4 (Primary) - pre/post discussion  
-Dec 18 (As Needed)  
+If you would like to propose cancellation of a scheduled meeting due to holidays or other widespread conflicts, please submit an [Issue](https://github.com/carpentries/trainers/issues) with this request for consideration by the Instructor Trainers Leadership Committee or send an [email](mailto:instructor.training@carpentries.org) to The Carpentries Core Team.
+
+- Feb 5     
+- Mar 5  
+- Apr 2 (Reserved for Leadership elections)
+- May 7  
+- June 4  
+- July 2 
+- Aug 6  
+- Sept 3   
+- Oct 1   
+- Nov 5   
+- Dec 3   
 
 
