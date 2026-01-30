@@ -1,0 +1,58 @@
+# Trainers Leadership Committee meeting, 30 January 2026
+
+- Present: Sher, Jesse, Amanda, Jon
+- Apologies: Cera and Jannetta
+
+- Core team update
+	- Github issues to review:
+		- <https://github.com/carpentries/instructor-training/issues/1945>
+		- <https://github.com/carpentries/instructor-training/issues/1223#issuecomment-3403549570>
+	- ITLC Term length
+		- Amanda would be keen to have 2 years
+		- Jon implementation would be staggered. Limit is for 3 years. Would it then be 2, 2 year terms? Some people would decide that 1 term is enough. 
+		- Jesse agrees with Jon. We know it can be hard to get people to sign up being that it is a 2 year term. 
+		- Amanda what about the option to go a second year. 
+		- SherAaron would still need to run elections annually.
+			- Still need to run it every year so there can be staggering of terms.
+			- Have a special one year term 
+			- Last year may have had an effect on the timing and communications. 
+			- Create a document to work out the details.
+			- Having 2 year terms would help with continuity. 
+			- A lot of the work we are doing takes more than year and help maintain momentum
+			- There will always be flexibility in the role like this. You are putting in the structure there should be continuity
+		- Would the committee roles change each year
+			- Jon likes the idea of having internal elections for chair and secretary every year.
+		- If current members renew for one year then new members 2 years staggered. 
+		- Check with the current team to see if they would like to stay or drop off
+		- Sher to do: Figure out election schedule and check for BoD for Jon 
+		- Last year there was a shift in the elections to align with the status renewal.
+- Current activities
+	- Review notes from last Instructor Trainers Meeting
+	- Potential discussion topics for next Trainers meetings
+		- New Partnership program
+		- Special topics we would like to talk about or have people come in to present? 
+			- In the announcements asking for topics and if they would like to need
+		- Hack a thons/work through anything we need help with? 
+	- Update on Learner centered training
+		- GitHub link: <https://github.com/carpentries/instructor-training-lct>
+		- The group will review the changes and share feedback
+		- Jesse will create an overview of the changes
+	- Update from Sher on gathering training materials that trainers have used.
+		- [Instructor Training - Community Resources](https://drive.google.com/drive/folders/1A3mOUSX7P1Cgfxxx5sANiychJKa-5pPM)
+	- Discussion on what to cut project.
+		- We’ve done the LCT which has helped us better understand what to cut. 
+		- We need to finalise it. It’s not actionable. 
+- Proposals and pull requests
+	- [Updating calendar of meetings for 2026](https://github.com/carpentries/trainers/pull/348)
+	- Confirmed the dates and will approve. 
+- Additional business
+	- Redaction check (standing item)
+	- Confirm the next back up meeting 
+- Action items (with responsible person and timeline)
+	- Sher: Election timing
+	- Jesse: Overview of LCT changes
+	- All: Document on election terms
+- Leaders for the trainers meetings?
+	- 5 February UTC 14:00: Jesse, SherAaron
+	- 5 February UTC 23:00: Jon, Cera
+- Next meeting: 27 February
