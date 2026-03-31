@@ -1,0 +1,67 @@
+# Trainers Leadership Committee meeting, 27 March 2026
+
+- Present: Jon, Cera, Jesse, Amanda, Sher
+- Apologies: Jannetta
+
+- Core team update
+	- LCT debuted this week and it went well.
+	- Plan to permit ITLC members to check people in to Trainers meetings via Pretix: approved. 
+- Current activities
+	- Review notes from last Instructor Trainers Meeting
+		- Discussions on what is bringing joy
+		- Any feedback on election stuff from the March meeting?
+	- Potential discussion topics for next Trainers meetings
+		- Elections as a topic of discussion:
+		- Staggering of terms 
+		- Jon: Like transparency - we need to do a “request for comments” 
+		- Jesse in chat: fully agree with Jon’s ideas
+		- Jon: Since we’re going to be asking them to run – soliciting advice and ideas on how to make this next committee successful (starting in May!) 
+		- Jesse: The announcement needs to be at or before this next meeting; self-nomination period would have to be too short. This is why I tried to set this up so that it’ll be ready to go next year. 
+		- Jesse: We could use a mid-month meeting to introduce people 
+		- Can be clear we are one month behind schedule and then run the schedule as listed in the ITLC terms 
+			- This was raised as a motion – all in favor. Approved.
+				- April meeting - call for nominations (two weeks)
+				- Late April - candidates write up their intros/responses to questions
+				- May meeting - meet the candidates
+				- May vote after meeting
+				- New ITLC begin June, 11 month term for this one year 
+		- **Topic of Discussion**: How can you leverage Carpentries services for career advancement?  (promotion and tenure)
+	- Discussion about ITLC elections: ITLC_terms
+		- [Current governance document](https://github.com/carpentries/trainers/blob/main/governance.md)
+	- Schedule for elections:
+		- Announcement: 2 April
+		- Self-nomination period: 3–17 April?
+		- Dedicated meeting: 7 May
+		- Voting: 
+		- Transfer of responsibilities: June 1
+	- Term length and limits
+		- 2 years
+		- 2 consecutive terms (4 years)
+		- Current members serve for one year term.
+		- Language to work out staggering of terms.
+			- Could have an overlap period: multiple meetings (2).
+			- Exception for consecutive terms in case staggering does not work out (ex officio).
+		- Who is running from current ITLC
+			- Check with Jannetta
+			- Jon is not running
+		- Jesse, Cera, Amanda running
+	- What can we do to put things in place for next year?
+	- Discussion during meeting: Service as part of tenure or promotion for attracting people to run for ITLC.
+- Proposals and pull requests
+	- <https://github.com/carpentries/instructor-training/issues/1945>
+		- We are in favor
+		- Cera will come up with the language for the PR in the Instructor Notes
+		- Sher will make adjustments to the templated email 
+	- <https://github.com/carpentries/docs.carpentries.org/issues/428>
+		- Leave it to the discretion of the Instructor Trainers. 
+		- It is a joy to tell people they "completed their step"
+- Additional business
+	- Redaction check (standing item)
+	- Confirm the next back up meeting 
+- Action items (with responsible person and timeline)
+	- Prepare document for presenting changes and timeline for elections. Can continue to use ITLC_terms.
+	- Cera is going to write a note about using two etherpads in the Instructor Trainer curriculum
+- Leaders for the trainers meetings?
+	- DATE UTC 14:00: Sher
+	- DATE UTC 23:00: Cera/Jesse
+- Next meeting: 24 April
