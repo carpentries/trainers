@@ -1,0 +1,46 @@
+# Trainers Leadership Committee meeting, 27 February 2026
+
+- Present: Jannetta, Jon, Jesse, Amanda
+- Apologies: Cera and Sher
+
+- Core team update
+- LCT Changes Carpentries - [Learner centered training curriculum changes](https://docs.google.com/document/d/1xO0mTJpkLx7dATpj5PRC-Uqtus95-XTt8-Hh5LjQ_6k/edit?usp=sharing)
+- Ideas for future Trainer meetings collected from 30 January meeting
+	- Returning trainers
+		- returning trainers who have been inactive, what is the process to re-engage.
+		- Would like to discuss whether others may see a need in their communities for a re-cert type Instructor Training, a shortened version (4 hours max). For those who have done instructor but maybe it's been awhile and they could use a refresher
+	- Accessibility
+		- The WCAG 2.1 Level AA standards by May 2026, how has Carpentries been preparing. Could be something to discuss with maintainers.
+			- Response from Core team
+			- Workshop websites and Etherpads—accessible?
+		- Dedicated focused sessions about inclusive and accessible training.
+			- Will take some organization. Who would like to lead?
+	- Contribution time: bug bbq - going through issues and solving them together and  making PRs in small groups
+	- AI: Wondering if it's too early to talk about AI again - maybe even talk about some of the recent posts and discussions in the vibe-coding community about why you *shouldn't* vibe code if you're learning (that's actually been happening -- the discussions, I mean!) -- (Cera, I'd be willing to help lead)
+- Current activities
+	- Review notes from last Instructor Trainers Meeting
+		- Are there any questions left over that need to be addressed about the partnership program?
+	- Potential discussion topics for next Trainers meetings
+		- Discussion of websites for workshops
+			- Are there alternate ways for people to get credit for teaching?
+			- We do not usually teach it in instructor training.
+			- Is this better for an instructor meeting?
+		- When to discuss elections? April?
+	- Schedule
+		- March
+			- Update on state of and timeline for elections for ITLC.
+			- Discussion of questions left over that need to be addressed about the partnership program?
+			- What has brought you joy about being a member of the Carpentries community recently?
+		- April: Something about accessibility (Elections?)
+		- May: Returning trainers
+- Proposals and pull requests ✅✅
+	- Update meeting schedule PR still needs to be accepted: <https://github.com/carpentries/trainers/pull/348>
+	- Old PR approved: <https://github.com/carpentries/trainers/pull/281>
+- Additional business
+	- Redaction check (standing item)
+	- Confirm the next back up meeting 
+- Action items (with responsible person and timeline)
+- Leaders for the trainers meetings?
+	- 5 March UTC 14:00: Jannetta
+	- 5 March UTC 23:00: Jon
+- Next meeting: 27 March
