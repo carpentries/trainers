@@ -19,8 +19,8 @@ The authority and associated responsibilities proposed for this governing Commit
 * Five (5) voting Members, listed on the [README of the trainers repo](README.md)
 	* Instructor Trainer with Active badge status
 	* Carpentries Core Team members are not eligible
-	* Term is for one year
-	* Term limit of three consecutive years
+	* Term is for two years
+	* Term limit of two consecutive terms (four consecutive years)
 * Chairperson
 	* Elected by the Committee Members at the first meeting after elections
 	* Term is for one year, no limit beyond standard term limits
