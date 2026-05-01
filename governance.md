@@ -2,7 +2,7 @@
 
 Created: November 18, 2020
 
-Updated: December 1, 2023
+Updated: December 1, 2023; May 1, 2026
  
 This is the first of two public documents detailing the role of the Instructor Trainers Leadership Committee, as required in [The Carpentries Committee Policy](https://docs.carpentries.org/topic_folders/governance/committee-policy.html). See Powers and Responsibilities, below, for the second document.
 
@@ -19,8 +19,8 @@ The authority and associated responsibilities proposed for this governing Commit
 * Five (5) voting Members, listed on the [README of the trainers repo](README.md)
 	* Instructor Trainer with Active badge status
 	* Carpentries Core Team members are not eligible
-	* Term is for one year
-	* Term limit of three consecutive years
+	* Term is for two years
+	* Term limit of two consecutive terms (four consecutive years)
 * Chairperson
 	* Elected by the Committee Members at the first meeting after elections
 	* Term is for one year, no limit beyond standard term limits
@@ -62,13 +62,13 @@ The authority and associated responsibilities proposed for this governing Commit
 All [Instructor Trainers](https://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html) with Active [status](https://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html#trainer-alumni-status) who are not part of the [Carpentries Core Team](https://carpentries.org/team/) will be eligible to vote in elections.
 
 New Members will be elected each year as vacancies occur. A general timeline for elections will occur annually as follows:
-* Mid November: The Core Team Liaison identifies a point of contact for the election. This person may be the Core Team Liaison or any Trainer not standing for election.
-* Early December: Elections announced, self-nominations open
-* Late January: Self-nominations close, entries posted, dedicated Trainer meeting held to introduce candidates
-* Early February: Trainers vote 
-* March 1: Responsibility transferred to new Members
+* Mid January: The Core Team Liaison identifies a point of contact for the election. This person may be the Core Team Liaison or any Trainer not standing for election.
+* Early March: Elections announced, self-nominations open
+* Late March: Self-nominations close, entries posted, dedicated Trainer meeting held to introduce candidates
+* Early April: Trainers vote 
+* May 1: Responsibility transferred to new Members
 
-If the seat of a Member becomes vacant after March 1 but before December 1, the Committee will attempt to fill the seat with a non-elected nominee from the most recent election, in the order of votes received. If this fails, the Committee may appoint any Active Trainer to fill the seat until the next election.
+If the seat of a Member becomes vacant after May 1 but before February 1, the Committee will attempt to fill the seat with a non-elected nominee from the most recent election, in the order of votes received. If this fails, the Committee may appoint any Active Trainer to fill the seat until the next election.
 
 Elections will be conducted using a [Single Transferable Vote](https://electionbuddy.com/features/voting-systems/stv-voting) (STV) preferential selection system. 
 In the event that more than 15 eligible candidates self-nominate for election, a primary using the same system will be held first, with the top 10 candidates 
