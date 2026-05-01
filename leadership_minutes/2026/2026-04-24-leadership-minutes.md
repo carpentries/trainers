@@ -1,0 +1,96 @@
+# Trainers Leadership Committee meeting, 24 April 2026
+
+- Present: Jon, Cera, Amanda, Sher
+- Apologies: Jesse, Jannetta
+- Guest: Toby
+
+- Core team update
+	- Toby Hodges - GenAI and IT Curriculum
+		- Quarterly conversations about how community uses tools
+		- Last year - raised discussion about what needs to change in the Instructor Trainer curriculum to account for the increasing use of GenAI tools in the classroom 
+		- General conclusion was that we would not change it - keep it as it is
+		- However– the trend has continued, GenAI can no longer really be ignored 
+		- Especially for Software Development and Software Engineering – this isn’t going away, it’s only becoming bigger. 
+		- Consider having a callout in IT where we discuss how learners are using these tools. 
+		- Another change — the threat of the kind of coding tools in development. Started using Chat and now they are using co-pilot or claude. Carpentries isn’t engineering. Our audience is mostly using chatbot. Either say: chatbot doesn’t do code well, or talk about how to implement claude.co or github copilot. 
+		- Should be using code generated from code tools and not the chatbot. 
+		- Use the tools together in the workshop (chatbot, claude, ie). There is a lot of things out there, but if we are doing hands-on approach bc we are about ethics, wise/informed choices… we know other things are out there, here is why you use x instead of y. Bring the tools into our hands-on participatory coding 
+		- What about using VS Code with GitHub Copilot integrated?	
+			- Yes — this is also something that at least one of the instructors I had doing a demo usually did, and had to disable things in his VS code to have a "clean" window
+			- <https://github.com/DrCatHicks/learning-opportunities>  <-- I played with this recently and it's REALLY neat. It would be worth our time to read some of Cat Hicks' blogs/writing on this
+		- Carpentries is aligned with Human Centered pedagogical practices. AI should be done in a human-centered way. 
+		- Using the Carpentries ‘name brand’ to take up the reins to champion that perspective - research analysis, data science, should be taught in Human Centered way
+		- Good news: we are working on this AI Carpentries project at the moment that is aiming to really do workshops that cover using AI in detail, in a couple of days, prioritizing the value that humans bring to this – making informed decisions about whether, when, and how. 
+		- But: Question is: how do we bring this into the way that we teach? 
+			- Our learners are likely to use the free chatbots, not likely to use Claude Code
+			- Do we show them how you use the Chatbot to search up error codes?
+			- Or are we talking about using Chat to actually generate the code? 
+			- Chatbot can be very good at reading error code. Carpentries is about hear is how you develop your skill. We should stay away from showing people how to code using Chat. 
+			- Just saw someone use ChatGPT for an error message in a workshop this morning
+			- Having everyone generating code would lead to different results, too. Maybe not what we want in these workshops
+			- The other thing I was going to say, which I think is relevant here is that I would bet that all the chatbots are now more than capable of generating the solutions to every coding exercise in all of our DC, LC and SWC lessons now
+			- Still have learners say the workshop is too advanced. It is a way to help people who are already familiar with a tool i.e. ChatGPT. 
+			- Concept maps/ understanding domain, if they want to use AI they must understand the concept which can’t be discussed in 2 days. 
+		- For IT curriculum, we need to empower the instructors trained, to talk about how The Carpentries uses AI. Also need to talk to Trainers to go over how to have these discussions. 
+			- Curriculum needs Instructor Notes about Carpentries' "evolving position on AI"
+			- How to keep the training on track because once you open up it can dominate the time and changing the feel of the training. 
+		- One way to talk about this is in the Cognitive load (germane load). The tools are capable of answering the questions in our curriculum. The temptation, once something becomes hard, they go to the tool. This is why in the workshops we recommend they do not use the AI chat. 
+			- We are deliberately increasing the germane load to help you learn. 
+			- Follows from building expertise – Need expertise to use tools well (at least right now), hard to build expertise if so much is offloaded 
+			- cognition/cognitive load: Deskilling is a natural fit. How to have structured and inclusive conversations when it comes up. 
+			- How do we cope with each other when we have this tension in our lives that comes from this technology? In some ways this undermines everything we’re trying to accomplish – it’s necessary to be critical and reflective without being dismissive – because when Instructors are teaching, this is going to come up in their workshops
+			- We may need to include a note about not being dismissive of learners who want to know why they can’t use AI. 
+		- What next? 
+			- Polis - Voting/survey tool (<https://pol.is/home>)
+			- Here is what the ITLC is working on and what do you think? 
+			- How representative is the trainers meeting of all of the trainers? 
+				- in my experience, if you mention genAI in the meeting reminder, attendance will jump by ~50%
+			- What is happening currently, in the IT events regarding AI topics. 
+			- ITLC to develop the list to take to the community. 
+		- What we are to gather: 
+			- What kinds of changes do you think we should make to IT curriculum based on the continued uptake of GenAI for coding? 
+			- Experience from Trainers how frequently these topics come up? 
+			- Check the box, do you think we need these changes and still ask what they think changes could be made. 
+		- Survey vs. Trainers Meeting
+			- Should have survey no matter what using pol.is
+			- And have a meeting to discuss what the questions to be. 
+			- May have people who train frequently, and those who haven’t taught in a while 
+				- Have this as a question
+	- Nominations
+		- Need to send out another message. 
+		- Should we extend it out until Wednesday? 
+			- Yes - need at least one more submission after Cera submits 
+		- Do we want to invite nominations? 
+			- Yes – if there are instructor trainers that anyone would like to see join the ITLC, we should nudge 
+		- Decision: Sher will open up through Wednesday and will send out another invitation today
+	- Instructor Trainer Training 2026
+		- Announcement going out April 30. 
+		- Applications run May 1 - 15
+		- Asking ITLC to support with reviewing the applications May 20 - 26
+			- Not anticipating a very large cohort - focus is US and Europe 
+			- Jon helped out last year and really enjoyed it (but is out for this year)
+			- Expected amount of time: Jon said 3 or 4 hours, not very time consuming
+			- Cera & Amanda are able to support
+- Current activities
+	- Review notes from last Instructor Trainers Meeting
+		- Quantification of service as useful for promotion. Example of maintainer impact report, workshops taught, instructor trainings, teaching demos, etc.
+		- Finding ways to have Carpentries service built into position.
+		- Benefit to organization by serving larger Carpentries community. Are there ways that Carpentries can advertise service that trainers are providing? Could be directed or shown to administrators.
+			- Social media post about instructor training with institutions of trainers tagged.
+		- Way to show and gain teaching experience. Are there ways Carpentries can support grad students or early career professionals who are trainers?
+	- Potential discussion topics for next Trainers meetings
+		- Next meeting: Meet the candidates for the ITLC
+		- For future: Discussion of having few sign-ups for teaching demos. Impact on Partnership program.
+		- For future: Discussion of Survey going out about Instructor Trainers curriculum for GenAI 
+	- Discuss change to governance documents to reflect election procedures: <https://github.com/carpentries/trainers/blob/main/governance.md>
+- Proposals and pull requests
+- Additional business
+	- Redaction check (standing item)
+	- Confirm the next back up meeting 
+- Action items (with responsible person and timeline)
+	- Sher open up application and send email 
+	- Review governance document by next Friday
+- Leaders for the trainers meetings?
+	- DATE UTC 14:00: Jesse, Sher
+	- DATE UTC 23:00: Jon, Cera 
+- Next meeting: 29 May
