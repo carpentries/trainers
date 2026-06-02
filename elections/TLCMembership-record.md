@@ -33,3 +33,4 @@
 - Jesse Sadler (Secretary)
 - Amanda Kis
 - Jon Wheeler
+- Jannetta Steyn
