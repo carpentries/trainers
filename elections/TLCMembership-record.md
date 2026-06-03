@@ -34,3 +34,9 @@
 - Amanda Kis
 - Jon Wheeler
 - Jannetta Steyn
+
+- ## 2026
+- Amanda Kis (Chair)
+- Jesse Sadler (Secretary)
+- Cera Fisher
+- Giorgia Mori
