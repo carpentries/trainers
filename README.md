@@ -22,12 +22,11 @@ Active and Alumni members who have agreed to public listing are identified on Th
 The Instructor Trainer community self-governs as per the [governance](governance.md) document. This Committee is approved by The Carpentries Executive Council as of [May 9, 2022](https://github.com/carpentries/executive-council-info/blob/main/minutes/2022/EC-minutes-2022-05-09-Q2.md).
 The elected Instructor Trainers Leadership Committee operates according to their [meeting rules](policy/leader_meeting_rules.md).
 
-Elected members of the Instructor Trainers Leadership Committee for 2025–2026:  
-- Cera Fisher (chair)
-- Amanda Kis
+Elected members of the Instructor Trainers Leadership Committee for 2026–202:  
+- Amanda Kis (chair)
+- Cera Fisher 
+- Giorgia Mori
 - Jesse Sadler (secretary)
-- Jon Wheeler 
-- Jannetta Steyn
 
 ## 2026 Meeting Schedule
 
