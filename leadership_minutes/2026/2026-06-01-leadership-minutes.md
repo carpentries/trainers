@@ -45,12 +45,12 @@
 	- Action items (with responsible person and timeline)
 		- Slack for Cera
 		- Delete a Slack for Giorgia
-- Leaders for the trainers meetings?
-	- DATE UTC 14:00:
-		- Amanda will be there (finally!) and can lead if needed
-		- Sher will be at this one
-	- DATE UTC 23:00:
-		- Amanda will be there (finally!) and can lead if needed
-		- Cera will be there as backup
-		- Giorgia
+	- Leaders for the trainers meetings
+		- DATE UTC 14:00:
+			- Amanda will be there (finally!) and can lead if needed
+			- Sher will be at this one
+		- DATE UTC 23:00:
+			- Amanda will be there (finally!) and can lead if needed
+			- Cera will be there as backup
+			- Giorgia
 	- Next meeting: 22 June
