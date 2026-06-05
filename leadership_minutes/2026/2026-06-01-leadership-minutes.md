@@ -1,0 +1,56 @@
+- Present: Jesse, Sher, Giorgia, Cera
+- Apologies: Amanda
+
+- Introductions
+	- ITLC overview
+		- [Trainers GitHub repo](https://github.com/carpentries/trainers)
+		- [ITLC Governance document](https://github.com/carpentries/trainers/blob/main/governance.md)
+		- Sher to add Giorgia to the repo. 
+	- Committee roles
+		- Chair
+			- Cera is stepping down and nominating Amanda
+			- Amanda selected
+	- Secretary
+		- Jesse would like to remain secretary
+		- Jesse is selected
+- Core team update
+	- TTT update: final reviews soon
+		- Feedback on the process is welcome
+		- Having the amount to review was helpful in getting good view of the different answers.
+	- ITT quarterly update: coming this week
+		- Building ways to reach out to people for responding to scheduling.
+- Current activities
+	- Review notes from last Instructor Trainers Meeting
+	- Potential discussion topics for next Trainers meetings
+		- For future: Discussion of having few signups for teaching demos. Impact on Partnership program.
+		- For future: Discussion of Survey going out about Instructor Trainers curriculum for GenAI
+		- Amanda potential topic: Asking Trainers how they like Pretix and if there is any confusion since some sessions use Pretix for sign-up and others use an Etherpad for sign-up (this would not be enough for a full meeting topic)
+		- Future: Sher topic: Demand and participation in activities in the Australia/New Zealand/South Pacific time zones – how we can we improve activity and availability of community events in that part of the day-sphere? 
+		- Chosen for Thursday, June 4 - Amanda potential topic: Maybe asking trainers about guest speakers, events, or co-working sessions they’d like to have for upcoming meetings (e.g., references/annotated bibliography drive, time to practice teaching some of the training content with feedback in breakout rooms)
+			- Sher: this sounds like it might not take the whole time, but it would be good to talk about
+			- Jesse: Amanda is actually able to be at the meeting, this is something that she would be able to speak about
+				- We have a new ITLC, what do people want to do with the Trainer meetings? 
+				- Do we want to have time for co-working sessions, organize these co-working meetings to work on closing issues and helping out the maintainers? 
+				- Do we want to have time to schedule practice sessions teaching training content with feedback? 
+			- Cera: I think this probably can support a full discussion
+			- Jesse: We can have talking about Pretix as a backup 
+			- Cera: Note for myself – in Slack, let’s try and encapsulate this topic in fewer words/more clear description of what the conversation is intended to be. 
+			- Giorgia: Not very sure what “coworking” meetings would really be like, because on this side of the world, there’s not much of that happening; what would we actually do in coworking meetings, what would guest speakers be doing, where would they be talking? 
+- Additional business
+	- Proposals and pull requests
+	- Update ITLC on GitHub: https://github.com/carpentries/trainers#governance
+		- Sher will do this
+	- Redaction check (standing item)
+- Wrap up 
+	- Action items (with responsible person and timeline)
+		- Slack for Cera
+		- Delete a Slack for Giorgia
+- Leaders for the trainers meetings?
+	- DATE UTC 14:00:
+		- Amanda will be there (finally!) and can lead if needed
+		- Sher will be at this one
+	- DATE UTC 23:00:
+		- Amanda will be there (finally!) and can lead if needed
+		- Cera will be there as backup
+		- Giorgia
+	- Next meeting: 22 June
