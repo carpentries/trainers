@@ -1,3 +1,5 @@
+# Trainers Leadership Committee meeting, 1 June 2026
+
 - Present: Jesse, Sher, Giorgia, Cera
 - Apologies: Amanda
 
