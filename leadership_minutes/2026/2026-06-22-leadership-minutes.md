@@ -73,7 +73,4 @@
    2. DATE UTC 23:00: Amanda, Giorgia, Jesse, Cera
       - Sher will be here
 7. Next meeting: 27 July
-   - Amanda likely will not be here
-   - Giorgia will not be here
-   - Jesse will not be here
    - Might need to consider a different day
