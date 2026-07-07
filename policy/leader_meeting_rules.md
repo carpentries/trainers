@@ -56,10 +56,11 @@ to date.
 ## Suffrage
 
 1.  The following people are currently voting members of this project:
-    -   Cera Fisher
-    -   Jesse Sadler
-    -   Amanda Kis
-    -   Jon Wheeler
+    - Cera Fisher
+    - Kaija Gahm
+    - Amanda Kis
+    - Giorgia Mori
+    - Jesse Sadler
 
 2.  To become a voting member:
     1.  [Members must be elected](https://github.com/carpentries/trainers/blob/main/governance.md#nominations-and-elections)
