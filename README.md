@@ -24,8 +24,9 @@ The elected Instructor Trainers Leadership Committee operates according to their
 
 Elected members of the Instructor Trainers Leadership Committee for 2026–2027:
 
+- Cera Fisher
+- Kaija Gahm
 - Amanda Kis (chair)
-- Cera Fisher 
 - Giorgia Mori
 - Jesse Sadler (secretary)
 
