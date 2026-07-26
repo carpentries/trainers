@@ -1,0 +1,58 @@
+# Trainers Leadership Committee meeting, 16 July 2026
+
+- Present: Amanda, Sher, Giorgia, Jesse, Kaija
+- Apologies: Cera
+- Guest:
+
+## Agenda and notes
+- Introductions for Kaija (first meeting)
+	- ITLC overview
+		- [Trainers GitHub repo](https://github.com/carpentries/trainers)
+		- [ITLC Governance document](https://github.com/carpentries/trainers/blob/main/governance.md)
+- Core team update
+	- Blog post to announce all of the committee members
+		- 2025 blog post: <https://carpentries.org/blog/2025/08/introducing-the-new-instructor-trainers-leadership-committee-for-2025/>
+	- September meeting use for Instructor Trainees
+		- Trainees will begin to shadow IT (4-hour chunk)
+- Current activities
+	- Review notes from last Instructor Trainers Meeting
+		- Overall interest in the topic of teaching demos. Positive feedback on the potential to use Pretix for demos.
+		- Importance of discussion among participants more than just the teaching demo itself. This points to the idea that demos could be capped at 4 participants.
+			- Pros
+				- More time for discussion
+				- Less time management stress
+				- Most don’t fill up beyond 4
+				- Trainers at the monthly meeting wanted this
+			- Cons
+				- We could run out of spots
+				- Can give extensions in these (likely few) cases
+			- Voted yes, quorum reached
+			- Sher will give us a realistic timeline
+			- Documentation changes
+				- Handbook: <https://docs.carpentries.org/handbooks/instructor_trainers.html#host-a-demo>
+		- Importance of the recommended episodes and if they are good ones to use.
+			- List of recommended episodes: <https://carpentries.github.io/instructor-training/demo_lessons.html> 
+		- Could have two meetings a year about this
+	- Amanda request - review terms and term limits for current committee members
+		- https://github.com/carpentries/trainers/blob/main/governance.md#membership
+		- Amanda, Jesse, Cera - current term is 1 year, can run again for one more 2-year term
+		- Giorgia, Kaija - current term of 2 years
+		- 3 seats will be available next year
+	- Potential discussion topics for next Trainers meetings
+		- Pretix demo - announcement or topic? ANNOUNCEMENT
+		- Announce the teaching demo 4 participant max is coming
+		- Ask trainers to open issues or pull requests if they think an episode isn’t a good choice for a teaching demo but is on the list.
+		- How do you use Carpentries pedagogy and materials outside of Carpentries workshops? (backup potentially if Maneesha talks about Pretix, or October or November)
+			- Good timing with start of many schools
+			- Ask attendees to write blurbs in the Etherpad that could be shared out by The Carpentries
+			- Good publicity afterward as an example of what we did in a Trainers meeting, encourage other trainers to attend in the future and to write their own blurb in the Etherpad even if they didn’t attend
+- Proposals and pull requests
+	- PRs for change in ITLC membership approved
+- Additional business
+	- Redaction check (standing item)
+- Action items (with responsible person and timeline)
+- Leaders for the trainers meetings
+	- Sher will be at IT, not at meetings, will set up announcements
+	- 6 August UTC 14:00: Amanda
+	- 6 August UTC 23:00: Amanda, Giorgia
+- Next meeting: 24 August
