@@ -1,0 +1,58 @@
+# Trainers Leadership Committee meeting, 24 August 2026
+
+- Present: Sher, Amanda, Kaija, Cera, Giorgia, Jesse
+- Guest:
+
+## Agenda and notes
+- Core team update  
+   - Sher provided update on the reorganization of the Core team (as communicated previously over Slack and on the Carpentries blog)
+      - Core team working to secure additional funding for core members
+      - Executive Leadership Transition at The Carpentries: <https://carpentries.org/blog/2026/08/executive-leadership-transition-at-the-carpentries/>
+      - Changes to Core Team: <https://carpentries.org/blog/2026/08/changes-to-core-team-and-programmatic-activities-at-the-carpentries/>
+   - ITLC Transition Support  
+      - Add meeting notes to Github repo – Jesse can do this  
+      - Administer makeup session (when they miss 4+ hours of training)  
+        - Have them read what they missed  
+        - Dialogue about it, answering their questions  
+        - 45 min  
+      - Updates to emails from previous conversation  
+        - Giorgia: from last teaching demo, one person raised the fact that it’s tricky to find zoom link — might consider adding this to the comms that get sent, but this is probably happening already with Pretix  
+      - Scheduling Instructor Training Sessions  
+        - Might offer fewer sessions, but have 3 trainers  
+        - Existing procedure for scheduling — need to get access to documents and scheduling software.  
+        - Suggestion: have one lead and one backup for the responsibility for training each quarter — or, perhaps, have partners/pairing with either another member of the ITLC or the part-time core team member?  
+           - Amanda: I would definitely like us to be in pairs for this (*general agreement to this*)   
+           - Sher: Next quarter, when it’s time to do it, we’ll all do it together.  
+   - To bring back to the Trainers: What (if anything) is expected to change about sign-ups for Instructor Training, sign-ups for hosting teaching demos and trainee sign-up/checking in using Pretix, etc.?  
+      - More soon on Pretix.  
+   - How is the new cohort of Instructor Trainers progressing? When will they join for the Instructor Trainers monthly meeting?  
+      - They will join 3 September trainers meeting  
+   - What is our role in this?: <https://carpentries.org/blog/2026/08/strategic-renewal-of-the-carpentries-curriculum-portfolio/> 
+      - Sher will report back later  
+- Current activities  
+   - [GenAI in Workshops: Instructor Training Bonus Module](https://carpentries.github.io/instructor-training-genai/instructor/index.html)  
+      - Jesse and Yani taught a workshop today (13 participants)  
+      - What tools can we use and language we can provide in future Instructor Training and workshops on use of AI.  
+   - Review notes from last Instructor Trainers Meeting  
+      - Interest in writing a blog post on use of Carpentries pedagogy.  
+      - Save for later after other topics have smoothed out  
+      - Nice positive post to have afterward  
+      - Start a Google Doc to all work on it  
+      - ITLC can lead and can give opportunity to trainers (community) to add. Possibility for this to be part of a future trainer meeting.  
+      - Maybe aim for November or December (gratitude month/green stickies)  
+      - ITLC meeting in October working on this.  
+      - Get the blog post out in January  
+   - Potential discussion topics for next Trainers meetings (9/3)  
+      - Core team transition  
+      - New Instructor trainers  
+- Proposals and pull requests  
+- Additional business  
+   - Redaction check (standing item)  
+- Action items (with responsible person and timeline)  
+   - Sher: Change date for next ITLC meeting to 21 September.  
+- Leaders for the trainers meetings  
+   - 3 September UTC 14:00: Sher, Jesse, Cera  
+   - 3 September UTC 23:00: Sher, Kaija, Giorgia, Jesse  
+   - Amanda no longer available until 2027 due to teaching schedule  
+- Next meeting: 21 September  
+   - (will need to be changed on calendar)
